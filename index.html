@@ -20,6 +20,7 @@
 }
 @media (prefers-color-scheme:dark){:root{--paper:#15111f;--card:#1d1829;--ink:#f1edf8;--mut:#a69fb8;--line:#2e2740;--hem:#b49be6;--hem-2:#8f72cf;--hem-soft:#2a2240;--eos:#ff7fae;--eos-soft:#3a1d2b;--ok:#5fd3a5}}
 *{box-sizing:border-box;min-width:0}
+[hidden]{display:none!important}
 html{scroll-padding-top:16px}
 body{margin:0;background:var(--paper);color:var(--ink);font:15.5px/1.55 var(--text);-webkit-font-smoothing:antialiased}
 a{color:var(--hem)}a:hover{color:var(--eos)}
@@ -468,6 +469,7 @@ for(const form of document.querySelectorAll('[data-sub]')){
   if(!live.some(r=>r.checked))live[0].checked=true;
   if(live.length===1)live[0].closest('label').parentElement.hidden=true;
 }
+if(![...document.querySelectorAll('[data-sub]')].some(f=>!f.hidden&&!f.closest('[hidden]')))for(const a of document.querySelectorAll('a.sub'))a.hidden=true;
 for(const form of document.querySelectorAll('[data-sub]')){
   form.addEventListener('submit',async e=>{
     e.preventDefault();
