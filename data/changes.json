@@ -1,6 +1,1535 @@
 [
 {
 "date": "2026-11-23",
+"added": 232,
+"removed": 72,
+"added_jobs": [
+{
+"company": "10x Genomics",
+"title": "Sr. Scientist, Clinical Bioinformatics",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Account Executive, Biopharma Sales, Boston",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Head of Internal Audit",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Account Executive, BioPharma Sales, Mid-Atlantic",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Senior Product Manager, Growth - Web & E-commerce",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Staff Systems Architect (CRM Systems)",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Senior IT Systems Engineer, Storage",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Senior Research Associate-Protein Assay Development – Spatial Biology",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Director of Talent Acquistion",
+"url": NaN
+},
+{
+"company": "10x Genomics",
+"title": "Senior IT Systems Engineer",
+"url": NaN
+},
+{
+"company": "23andMe",
+"title": "Senior Software Engineer",
+"url": "https://www.linkedin.com/jobs/view/4489042333"
+},
+{
+"company": "23andMe",
+"title": "Assistant General Counsel",
+"url": "https://www.linkedin.com/jobs/view/4489049157"
+},
+{
+"company": "23andMe",
+"title": "Director / Principal Investigator, AI and Genomics",
+"url": "https://www.linkedin.com/jobs/view/4489042353"
+},
+{
+"company": "23andMe",
+"title": "Head of Communications",
+"url": "https://www.linkedin.com/jobs/view/4489029741"
+},
+{
+"company": "Abbott",
+"title": "Quality Technician I",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167982ENUSEXTERNAL/Quality-Technician-I?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Manufacturing Operator - Altavista, VA Plant - Day Shift",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31168049ENUSEXTERNAL/Manufacturing-Operator-Altavista-VA-Plant-Day-Shift?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Manufacturing Operator - 3rd Shift - Altavista, VA Plant",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167863ENUSEXTERNAL/Manufacturing-Operator-3rd-Shift-Altavista-VA-Plant?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Laboratory Support Services Specialist IV",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167463ENUSEXTERNAL/Laboratory-Support-Services-Specialist-IV?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Manufacturing Operator - Night Shift - Casa Grande, AZ",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167822ENUSEXTERNAL/Manufacturing-Operator-Night-Shift-Casa-Grande-AZ?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Inside Sales Representative",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167903ENUSEXTERNAL/Inside-Sales-Representative?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Facilities Attendant",
+"url": "https://abbottbus.betterteam.com/facilities-attendant?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic"
+},
+{
+"company": "Abbott",
+"title": "Operator II",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167517ENUSEXTERNAL/Operator-II?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Manufacturing Machine Operator, Packaging (2nd shift) - Sturgis, MI Plant",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167426ENUSEXTERNAL/Manufacturing-Machine-Operator-Packaging-2nd-shift-Sturgis-MI-Plant?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Data Entry Representative",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31166579ENUSEXTERNAL/Data-Entry-Representative?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Forklift Operator - 2nd Shift - Nutrition Manufacturing Plant - Casa Grande, AZ",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31166681ENUSEXTERNAL/Forklift-Operator-2nd-Shift-Nutrition-Manufacturing-Plant-Casa-Grande-AZ?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Night Shift - Processing Operator - Casa Grande, AZ Plant",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167365ENUSEXTERNAL/Night-Shift-Processing-Operator-Casa-Grande-AZ-Plant?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Youth Specialist/Assistant Cook",
+"url": "https://www.paycomonline.net/v4/ats/web.php/portal/C12637D3783E4DDC989FBDF59AE355A7/jobs/369649?source=Indeed"
+},
+{
+"company": "Abbott",
+"title": "Quality Technician",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Manufacturing Operator, Dryblending (3rd shift) - Sturgis, MI Plant",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165561ENUSEXTERNAL/Manufacturing-Operator-Dryblending-3rd-shift-Sturgis-MI-Plant?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Lab Technician, Sampling (1st Shift, Sun-Thurs) - Sturgis, MI",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31166619ENUSEXTERNAL/Lab-Technician-Sampling-1st-Shift-Sun-Thurs-Sturgis-MI?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Operator III",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165533ENUSEXTERNAL/Operator-III?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Facilities/Support Services - Housekeeping, 2nd Shift",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165750ENUSEXTERNAL/Facilities-Support-Services-Housekeeping-2nd-Shift?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Production Associate II",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164779ENUSEXTERNAL/Production-Associate-II?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Assembler II",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164892ENUSEXTERNAL/Assembler-II?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Special Equipment Operator - 3rd Shift - Casa Grande, AZ",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164986ENUSEXTERNAL/Special-Equipment-Operator-3rd-Shift-Casa-Grande-AZ?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Assistant Warehouse Supervisor",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164384ENUSEXTERNAL/Assistant-Warehouse-Supervisor?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott",
+"title": "Procurement Manager",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Manager Procurement",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Senior Specialist Procurement, Facilities",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Associate Director Regulatory Affairs – Vascular (on-site)",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Staff Engineer",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Senior Director, Federal Government Affairs",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Regional Sales Director, MCS - IL, WI, MI",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Market Research Manager",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Coronary Regional Sales Director - Washington D.C.",
+"url": NaN
+},
+{
+"company": "Abbott",
+"title": "Regional Sales Director, Cardiac Rhythm Management - Miami/Ft Lauderdale/Boca Raton, FL",
+"url": NaN
+},
+{
+"company": "Abbott Molecular",
+"title": "Federal Clinical Educator",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31167247ENUSEXTERNAL/Federal-Clinical-Educator?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Government Account Manager -- Alabama and Georgia",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165678ENUSEXTERNAL/Government-Account-Manager-Alabama-and-Georgia?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Territory Manager, CardioMEMS - Boston, MA",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31166466ENUSEXTERNAL/Territory-Manager-CardioMEMS-Boston-MA?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Regional Sales Director, MCS",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165892ENUSEXTERNAL/Regional-Sales-Director-MCS?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Diabetes Sales Associate - DC West",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165443ENUSEXTERNAL/Diabetes-Sales-Associate-DC-West?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Diabetes Sales Specialist -- Santa Barbara, CA",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165374ENUSEXTERNAL/Diabetes-Sales-Specialist-Santa-Barbara-CA?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Territory Manager, CMEMS - Detroit, MI",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31165191ENUSEXTERNAL/Territory-Manager-CMEMS-Detroit-MI?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Enterprise Account Manager, Molecular Diagnostics - Florida",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164907ENUSEXTERNAL/Enterprise-Account-Manager-Molecular-Diagnostics-Florida?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Territory Manager, MCS -- Northern California",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164660ENUSEXTERNAL/Territory-Manager-MCS-Northern-California?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Territory Manager, Acute Heart Failure -- Boston",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164657ENUSEXTERNAL/Territory-Manager-Acute-Heart-Failure-Boston?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Analyst, Global Pricing & Commercial Analytics",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31164410ENUSEXTERNAL/Analyst-Global-Pricing-Commercial-Analytics?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Acute Product Consultant",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31163062ENUSEXTERNAL/Acute-Product-Consultant?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Enterprise Solutions Specialist -- Chicago Metro",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31163697ENUSEXTERNAL/Enterprise-Solutions-Specialist-Chicago-Metro?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Manager, Sales Incentive Compensation Administration",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31162713ENUSEXTERNAL/Manager-Sales-Incentive-Compensation-Administration?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Senior Finance Analyst",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31160946ENUSEXTERNAL/Senior-Finance-Analyst?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Territory Manager -- Tucson, AZ",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31161749ENUSEXTERNAL/Territory-Manager-Tucson-AZ?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Lingo Sales Representative -- Pacific Northwest",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31162276ENUSEXTERNAL/Lingo-Sales-Representative-Pacific-Northwest?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Director, Medical Affairs – Molecular Diagnostics",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31161137ENUSEXTERNAL/Director-Medical-Affairs-Molecular-Diagnostics?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Strategic Account Executive -- Northwest Region",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31158150ENUSEXTERNAL/Strategic-Account-Executive-Northwest-Region?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Senior Manager Gross Margin Improvement",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31158134ENUSEXTERNAL/Senior-Manager-Gross-Margin-Improvement?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Project Manager - Freight & Distribution",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31155665ENUSEXTERNAL/Project-Manager-Freight-Distribution?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Senior Financial Analyst",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31156880ENUSEXTERNAL/Senior-Financial-Analyst?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "North America HEOR Manager",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31153629ENUSEXTERNAL/North-America-HEOR-Manager?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "Abbott Molecular",
+"title": "Data Science and Business Analytics Manager",
+"url": "https://www.jobs.abbott/us/en/job/ABLAUS31151998ENUSEXTERNAL/Data-Science-and-Business-Analytics-Manager?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"company": "AbbVie",
+"title": "Sr. Data Science Analyst, Business Intelligence",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017038986"
+},
+{
+"company": "AbbVie",
+"title": "Scientific Director, Immunology - Global Patient Safety",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017038396"
+},
+{
+"company": "AbbVie",
+"title": "Scientific Director, Immunology - Global Patient Safety",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017038356"
+},
+{
+"company": "AbbVie",
+"title": "Scientific Director, Immunology - Global Patient Safety",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017038207"
+},
+{
+"company": "AbbVie",
+"title": "Associate Director, Project Engineering - East Coast",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017036026"
+},
+{
+"company": "AbbVie",
+"title": "Rheumatology Thought Leader Liaison - SE Region",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017035366"
+},
+{
+"company": "Abcam",
+"title": "Sr. Director Assays R&D",
+"url": "https://www.linkedin.com/jobs/view/4485022407"
+},
+{
+"company": "Abcam",
+"title": "Regulatory Compliance Senior Specialist",
+"url": "https://www.linkedin.com/jobs/view/4477732176"
+},
+{
+"company": "Abcam",
+"title": "Director, Regional Marketing Americas",
+"url": "https://www.linkedin.com/jobs/view/4483097031"
+},
+{
+"company": "Abcam",
+"title": "Territory Account Manager",
+"url": "https://www.linkedin.com/jobs/view/4487871973"
+},
+{
+"company": "Abcam",
+"title": "Program Manager, Business Continuity & Sustainability",
+"url": "https://www.linkedin.com/jobs/view/4482253128"
+},
+{
+"company": "Abcam",
+"title": "Logistics Technician (Waltham, MA)",
+"url": "https://www.linkedin.com/jobs/view/4491139471"
+},
+{
+"company": "Abcam",
+"title": "Production and Material Planning Manager",
+"url": "https://www.linkedin.com/jobs/view/4474419604"
+},
+{
+"company": "Abcam",
+"title": "Production Planner",
+"url": "https://www.linkedin.com/jobs/view/4480690448"
+},
+{
+"company": "Abcam",
+"title": "Research associate: B-cell Sorting and Reagent operations",
+"url": "https://www.linkedin.com/jobs/view/4485529907"
+},
+{
+"company": "Abcam",
+"title": "Buyer",
+"url": "https://www.linkedin.com/jobs/view/4466948161"
+},
+{
+"company": "Abcam",
+"title": "Director of Sales, Americas (East Region)",
+"url": "https://www.linkedin.com/jobs/view/4485576850"
+},
+{
+"company": "AccuGenomics",
+"title": "Scientist - Functional Genomics",
+"url": "https://www.linkedin.com/jobs/view/4492455836"
+},
+{
+"company": "AccuGenomics",
+"title": "Scientist",
+"url": "https://www.linkedin.com/jobs/view/4469222768"
+},
+{
+"company": "AccuGenomics",
+"title": "Lead Scientist",
+"url": "https://www.linkedin.com/jobs/view/4445235320"
+},
+{
+"company": "Acrivon Therapeutics",
+"title": "Vice President or Senior Vice President, Head, Drug Discovery & Biology",
+"url": "https://acrivontherapeutics.bamboohr.com/careers/94?source=indeed&src=indeed&postedDate=2026-09-30"
+},
+{
+"company": "ACROBiosystems",
+"title": "Associate Regional Manager- Technical Sales",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a70d241-41f5-4853-a63a-ce963f5d0da3&ccId=9201077110319_3&jobId=958010&jwId=9201077110319_1&source=IN&lang=en_US"
+},
+{
+"company": "ACROBiosystems",
+"title": "Field Application Development Specialist",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a70d241-41f5-4853-a63a-ce963f5d0da3&ccId=9201077110319_3&jobId=956933&jwId=9201077110319_1&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Senior Manager / Associate Director, People Operations",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=959115&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Senior Scientist I- Ocular Research",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=958964&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Senior Scientist I - Discovery Chemistry",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=958610&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Associate Director/Director, Financial Planning & Analysis",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=957521&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Director, Total Rewards & HRIS",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=957484&source=IN&lang=en_US"
+},
+{
+"company": "ADARx Pharmaceuticals",
+"title": "Senior Scientist I-II, Conjugation",
+"url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0fbecb44-c8ed-479d-aec1-34632fb73ff7&ccId=19000101_000001&jobId=949365&source=IN&lang=en_US"
+},
+{
+"company": "Adimab",
+"title": "Predoctoral Research Associate - Summer 2027",
+"url": "https://adimab.applytojob.com/apply/5sNzQ1DrJw/Predoctoral-Research-Associate-Summer-2027?source=INDE&~"
+},
+{
+"company": "Adimab",
+"title": "Principal Research Associate, Antibody Discovery (Immunology)",
+"url": "https://adimab.applytojob.com/apply/tUhDyhvUjw/Principal-Research-Associate-Antibody-Discovery-Immunology?source=INDE&~"
+},
+{
+"company": "Agenus",
+"title": "Senior Manager, Statistical Programming",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1185"
+},
+{
+"company": "Agenus",
+"title": "Vice President, Global Clinical Development, Oncology",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1183"
+},
+{
+"company": "Agenus",
+"title": "Executive Director, Technical Operations",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1180"
+},
+{
+"company": "Agenus",
+"title": "Senior Accounts Payable Specialist",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1174"
+},
+{
+"company": "Agenus",
+"title": "Director, Quality Assurance (GMP/GCP)",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1176"
+},
+{
+"company": "Agenus",
+"title": "Executive Medical Director, Global Clinical Development, Oncology",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1172"
+},
+{
+"company": "Agenus",
+"title": "Associate Director/Director, Accounting (Controller)",
+"url": "https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=AGENINC&cws=37&rid=1171"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Director, National Accounts, Market Access",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2486"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Hemolytic Anemia Sales Specialist / Senior Hemolytic Anemia Sales Specialist (National)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2487"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Senior Director, Chemical Development & Manufacturing, CMC",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2521"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Sickle Cell Sales Specialist (Nashville)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2519"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Hemolytic Anemia Sales Specialist (Nashville)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2518"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Hemolytic Anemia Sales Specialist (Michigan)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2517"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Medical Director/Senior Medical Director, Clinical Development",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2402"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Hemolytic Anemia Sales Specialist (Cincinnati)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2508"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Associate Director, Medical Review Lead, MSRM",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2475"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "Director, US Commercial Risk Evaluation and Mitigation Strategies (REMS) Lead",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2464"
+},
+{
+"company": "Agios Pharmaceuticals",
+"title": "AD, Field Access Management (West)",
+"url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=AGIOS&cws=37&rid=2459"
+},
+{
+"company": "AGTC Genomics",
+"title": "Scientist - Functional Genomics",
+"url": "https://www.linkedin.com/jobs/view/4492455836"
+},
+{
+"company": "Alithea Genomics",
+"title": "Scientist - Functional Genomics",
+"url": "https://www.linkedin.com/jobs/view/4492455836"
+},
+{
+"company": "Alithea Genomics",
+"title": "Scientist",
+"url": "https://www.linkedin.com/jobs/view/4469222768"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Senior Quality Control Specialist",
+"url": "https://jsco.re/htjxz"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Senior Qualification Validation Specialist",
+"url": "https://jsco.re/ht8hw"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Scientist, Drug Product Process Development (Contract)",
+"url": "https://jsco.re/hst0w"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Associate Director, SAP Center of Excellence",
+"url": "https://jsco.re/hs1t3"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Senior Manager, Supply Planning",
+"url": "https://jsco.re/hs1vh"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Packaging Manager",
+"url": "https://jsco.re/hs1ry"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Senior Director, CMC Regulatory Affairs",
+"url": "https://jsco.re/hqxib"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Sr Scientist, Data Scientist-Process Sciences (Contract)",
+"url": "https://jsco.re/hl9x7"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Vice President, Clinical Development (Oncology)",
+"url": "https://jsco.re/hc1z0"
+},
+{
+"company": "Allogene Therapeutics",
+"title": "Medical Director, Clinical Development (Oncology)",
+"url": "https://jsco.re/hc1vv"
+},
+{
+"company": "ALMA Genomics",
+"title": "Scientist - Functional Genomics",
+"url": "https://www.linkedin.com/jobs/view/4492455836"
+},
+{
+"company": "ALMA Genomics",
+"title": "Scientist",
+"url": "https://www.linkedin.com/jobs/view/4469222768"
+},
+{
+"company": "ALMA Genomics",
+"title": "Lead Scientist",
+"url": "https://www.linkedin.com/jobs/view/4445235320"
+},
+{
+"company": "ALPFA Medical",
+"title": "Principal Design Quality Assurance Engineer",
+"url": "https://app.trinethire.com/companies/1274612-alpfa-medical-inc/jobs/126104-principal-design-quality-assurance-engineer?source=indeed"
+},
+{
+"company": "Alpha Tau Medical",
+"title": "Clinical Product Specialist",
+"url": "https://www.linkedin.com/jobs/view/4482519389"
+},
+{
+"company": "Altis Labs",
+"title": "Senior Machine Learning Scientist (US)",
+"url": "https://jobs.ashbyhq.com/Altis%20Labs/00d14e41-89c2-4ef3-965a-a570255fb571?utm_source=nvYL4e0v7J"
+},
+{
+"company": "Altis Labs",
+"title": "Vice President of Business Development",
+"url": "https://jobs.ashbyhq.com/Altis%20Labs/c837fed2-9487-4b2a-8db8-f894c6d27d65?utm_source=nvYL4e0v7J"
+},
+{
+"company": "Amgen",
+"title": "Medical Science Liaison - Cardiovascular Metabolic -  South Carolina",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---South-Carolina---Columbia/Medical-Science-Liaison---Cardiovascular-Metabolic----South-Carolina_R-262306"
+},
+{
+"company": "Amgen",
+"title": "Senior Medical Science Liaison Cardiovascular Metabolic - East Coast Florida",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Florida---West-Palm-Beach/Senior-Medical-Science-Liaison-Cardiovascular-Metabolic---East-Coast-Florida_R-262309"
+},
+{
+"company": "Amgen",
+"title": "Medical Science Liaison - Cardiovascular Metabolic -  Western North Carolina",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---North-Carolina---Charlotte/Medical-Science-Liaison---Cardiovascular-Metabolic----Western-North-Carolina_R-262301"
+},
+{
+"company": "Amgen",
+"title": "Supply Chain Mgr",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Supply-Chain-Mgr_R-262010"
+},
+{
+"company": "AstraZeneca",
+"title": "Senior Director, Delivery Cell Therapy",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Senior-Director--Delivery-Cell-Therapy_R-262893-2"
+},
+{
+"company": "AstraZeneca",
+"title": "Administrative Assistant, Oncology",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Administrative-Assistant--Oncology_R-264904"
+},
+{
+"company": "Basecamp Research",
+"title": "Senior People Partner",
+"url": "https://jobs.ashbyhq.com/basecamp-research/3d2c90e9-8a40-4c0d-a625-a2020c18fa47"
+},
+{
+"company": "BeOne Medicines",
+"title": "Associate Director, Government Pricing",
+"url": "https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Associate-Director--Government-Pricing_R37906-1"
+},
+{
+"company": "Braveheart Bio",
+"title": "(Senior) Director, CMC Project Management",
+"url": "https://job-boards.greenhouse.io/braveheartbio/jobs/4517841009"
+},
+{
+"company": "Bristol Myers Squibb",
+"title": "Director, Global Medical Cardiovascular, Professional Societies, Cardiomyopathy",
+"url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Director--Global-Medical-Cardiovascular--Professional-Societies--Cardiomyopathy_R1608740"
+},
+{
+"company": "Bristol Myers Squibb",
+"title": "Director, Global Medical Cardiovascular, Mavacamten",
+"url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Director--Global-Medical-Cardiovascular--Mavacamten_R1608738"
+},
+{
+"company": "Danaher",
+"title": "Field Service Engineer - New Orleans, LA",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/New-Orleans-Louisiana-United-States/Field-Service-Engineer---New-Orleans--LA_R1315999"
+},
+{
+"company": "Danaher",
+"title": "Quality Inspection Technician (Wafer Inspection)",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Nicholasville-Kentucky-United-States/Quality-Inspection-Technician--Wafer-Inspection-_R1320895"
+},
+{
+"company": "Danaher",
+"title": "Manufacturing Test Technician (Beam Test)",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Nicholasville-Kentucky-United-States/Manufacturing-Test-Technician--Beam-Test-_R1320900"
+},
+{
+"company": "Danaher",
+"title": "Precision Manufacturing Technician / Aperture Cleaning",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Nicholasville-Kentucky-United-States/Precision-Manufacturing-Technician---Aperture-Cleaning_R1320899"
+},
+{
+"company": "Danaher",
+"title": "Senior Manager Global Service Sales",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Boston-Massachusetts-United-States/Senior-Manager-Global-Service-Sales_R1322994"
+},
+{
+"company": "Edgewise Therapeutics",
+"title": "Associate Director, Scientific Communications",
+"url": "https://edgewisetx.com/company/careers/?gh_jid=4414208009"
+},
+{
+"company": "Edgewise Therapeutics",
+"title": "Associate Director, Talent Acquisition",
+"url": "https://edgewisetx.com/company/careers/?gh_jid=4518984009"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Grain Inspector - Part-time",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163288929"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Entry Level Chemist",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163287979"
+},
+{
+"company": "Eurofins Scientific",
+"title": "QC Microbiology Group Leader - 2nd Shift, Sunday - Wednesday",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163287424"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Bioassay Scientist (Method Development)",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163283080"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Biochemist",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163279170"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Analytical Laboratory Instrumentation Technician",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163278319"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Client Service Representative",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163276049"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Lab Asset Management Senior Metrologist",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163275839"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Pricing Specialist",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000163272586"
+},
+{
+"company": "Gilead Sciences",
+"title": "Sr IT Engineering Specialist",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---El-Segundo/Sr-IT-Engineering-Specialist_R0055037-2"
+},
+{
+"company": "Gilead Sciences",
+"title": "Sr Event Planner",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-Event-Planner_R0056368-1"
+},
+{
+"company": "Gilead Sciences",
+"title": "Director, Medical Affairs",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Director--Medical-Affairs_R0056786-1"
+},
+{
+"company": "GSK",
+"title": "Machine Learning Engineer, Target Triage",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---California---San-Francisco/Machine-Learning-Engineer--Target-Triage_452045-1"
+},
+{
+"company": "GSK",
+"title": "Oncology Account Manager (Hematology) South Philadelphia",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Philadelphia-South/Oncology-Account-Manager--Hematology--South-Philadelphia_451906-1"
+},
+{
+"company": "GSK",
+"title": "Director, Respiratory Innovation, Global Epidemiology and RWE",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Belgium-Wavre/Director--Respiratory-Innovation--Global-Epidemiology-and-RWE_447052"
+},
+{
+"company": "GSK",
+"title": "",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Senior Immunology Sales Specialist, Rheumatology - (Denver North, CO) – Johnson & Johnson Innovative Medicine",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Denver-Colorado-United-States/Senior-Immunology-Sales-Specialist--Rheumatology----Denver-North--CO----Johnson---Johnson-Innovative-Medicine_R-112068-1"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Territory Account Manager (Northwest, IA) – Johnson & Johnson MedTech - Vision Care",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Sioux-City-Iowa-United-States/Territory-Account-Manager--Northwest--IA----Johnson---Johnson-MedTech---Vision-Care_R-111103-1"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Sales Associate, Trauma (Temecula, CA) - Johnson & Johnson MedTech - Orthopaedics",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Temecula-California-United-States/Sales-Associate--Trauma--Temecula--CA----Johnson---Johnson-MedTech---Orthopaedics_R-104086-1"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Senior Electrical Engineer",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Senior-Electrical-Engineer_R-111463"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Principal Data Scientist – DDSAI GD",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Data-Scientist---DDSAI-GD_R-107077-1"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Equipment Specialist DACH (m/w/d)",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Karlsruhe-Baden-Wurttemberg-Germany/Equipment-Specialist-DACH--m-w-d-_R-110988"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ"
+},
+{
+"company": "Karius",
+"title": "Clinical Laboratory Scientist II",
+"url": "https://jobs.lever.co/kariusdx/84124db4-a30e-4626-89f3-391eea5f8d5b"
+},
+{
+"company": "Karius",
+"title": "Laboratory Assistant",
+"url": "https://jobs.lever.co/kariusdx/424be8b6-a8f2-4616-ad35-b74a6cfd921f"
+},
+{
+"company": "Kodiak Sciences",
+"title": "Senior Mechanical Engineer",
+"url": "https://job-boards.greenhouse.io/kodiak/jobs/4518075009"
+},
+{
+"company": "Kodiak Sciences",
+"title": "Software Quality Simulation Specialist",
+"url": "https://job-boards.greenhouse.io/kodiak/jobs/4518079009"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist - Part time",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tualatin-OR/PST-Specialist_2641408"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Wilson-NC/Phlebotomist_2637303"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Cary-NC/Phlebotomist_2641533-1"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist PRN",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Detroit-MI/Phlebotomist-PRN_2641698"
+},
+{
+"company": "Labcorp",
+"title": "Part Time Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-WA/Part-Time-Phlebotomist_2634156"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Midlothian-VA/Phlebotomist_2630346"
+},
+{
+"company": "Labcorp",
+"title": "Medical Technologist - Cytogenetics",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Medical-Technologist---Cytogenetics_2639515"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist - Per Diem",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Greenfield-MA/Phlebotomist---Per-Diem_2639099"
+},
+{
+"company": "Labcorp",
+"title": "Specimen Processor I (2nd Shift)",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Edison-NJ/Specimen-Processor-I--2nd-Shift-_2632233"
+},
+{
+"company": "Labcorp",
+"title": "Executive Director - IT Platform Delivery",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Executive-Director---IT-Platform-Delivery_2640932-1"
+},
+{
+"company": "Lyell Immunopharma",
+"title": "Director, Field Medical",
+"url": "https://job-boards.greenhouse.io/lyellimmunopharma/jobs/8207837003"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Director - Regulatory Affairs",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Kansas---De-Soto/Director---Regulatory-Affairs_R427874"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Director, Business Development",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Director--Business-Development_R427332-1"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Director, Procurement Small Molecule Development",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Director--Procurement-Small-Molecule-Development_R426838-1"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Key Account Manager",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/SWE---Stockholm---Stockholm-Gavlegatan/Key-Account-Manager_R427234"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Operations Specialist",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Kansas---De-Soto/Operations-Specialist_R427352-2"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Product Technical Lead – Process Technology Transfer & Knowledge Management",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Product-Technical-Lead---Process-Technology-Transfer---Knowledge-Management_R425932"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Senior Data Scientist, Computational Biology/Cancer Genomics, AI/ML",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Senior-Data-Scientist--Computational-Biology-Cancer-Genomics--AI-ML_R428343-1"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Senior Scientist, Cell Culture Sciences, Biologics Drug Substance Commercialization",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Cell-Culture-Sciences--Biologics-Drug-Substance-Commercialization_R428059"
+},
+{
+"company": "Moderna",
+"title": "Senior Director, Regional Accounts",
+"url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Remote---US/Senior-Director--Regional-Accounts_R20241"
+},
+{
+"company": "Moderna",
+"title": "Senior Director, Regional Accounts",
+"url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Remote---US/Senior-Director--Regional-Accounts_R20240"
+},
+{
+"company": "Moderna",
+"title": "Senior Director, Regional Accounts",
+"url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Remote---US/Senior-Director--Regional-Accounts_R20239"
+},
+{
+"company": "Moderna",
+"title": "Director, Field Enablement & Capabilities",
+"url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Remote---US/Director--Field-Enablement---Capabilities_R20242"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Solution Engineer, Switch Networking",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Solution-Engineer--Switch-Networking_JR2020027-1"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Technical Support Engineer, Networking",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Technical-Support-Engineer--Networking_JR2027104"
+},
+{
+"company": "Regeneron",
+"title": "Sr Assoc Scientist, Drug Product Process Development, mAb & SiRNA (DPDT)",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Sr-Assoc-Scientist--Drug-Product-Process-Development--mAb---SiRNA--DPDT-_R52617"
+},
+{
+"company": "Regeneron",
+"title": "Manager Learning & Leadership Development",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Mgr-Learning---Leadership-Development_R53190"
+},
+{
+"company": "Regeneron",
+"title": "Senior Director, Commercial Data Operations",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Senior-Director--Commercial-Data-Operations_R53029"
+},
+{
+"company": "Regeneron",
+"title": "Compliance Specialist, Engineering & Automation",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Compliance-Specialist--Engineering---Automation_R49536"
+},
+{
+"company": "Sanofi",
+"title": "Area Business Manager - ENT - Boston, MA",
+"url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Boston-MA/Area-Business-Manager---ENT---Boston--MA_R2879950"
+},
+{
+"company": "Sanofi",
+"title": "2027 Summer Co-op Global Medical Affairs Alliance Immunology, Cambridge, MA",
+"url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Co-op-Global-Medical-Affairs-Alliance-Immunology--Cambridge--MA_R2865078"
+},
+{
+"company": "Schrödinger",
+"title": "Applications Scientist",
+"url": "https://job-boards.greenhouse.io/schrdinger/jobs/8201021003"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Manufacturing Technician I, 3rd Shift Liquid Finishing",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Grand-Island-New-York-USA/Manufacturing-Technician-I--3rd-Shift-Liquid-Finishing_R-01376704"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Material Handler I - 2nd Shift (Afternoons)",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Detroit-Michigan-USA/Material-Handler-I---2nd-Shift--Afternoons-_R-01376702"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Material Handler II, Inventory Control - 1st Shift",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Franklin-Massachusetts-USA/Material-Handler-II--Inventory-Control---1st-Shift_R-01365384"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "FSP Clinical Trial Coordinator I",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Mexico/FSP-Clinical-Trial-Coordinator-I_R-01371138"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Manufacturing Planner/Scheduler lll",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Manufacturing-Planner-Scheduler-lll_R-01374884"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Team Leader, Operations",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vermont-USA/Team-Leader--Operations_R-01375929"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Research Technician (Phlebotomist) - Per Diem",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Research-Technician--Phlebotomist----Per-Diem_R-01356635"
+},
+{
+"company": "Twist Bioscience",
+"title": "Manufacturing Associate",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8400121"
+},
+{
+"company": "Twist Bioscience",
+"title": "Manufacturing Associate",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8400119"
+},
+{
+"company": "Twist Bioscience",
+"title": "Manufacturing Associate - Characterization",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8382918"
+},
+{
+"company": "Twist Bioscience",
+"title": "Manufacturing Associate - Oligo",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8382920"
+},
+{
+"company": "Twist Bioscience",
+"title": "Material Handler I",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8395725"
+},
+{
+"company": "Twist Bioscience",
+"title": "Material Handler I",
+"url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8382931"
+},
+{
+"company": "Vaxcyte",
+"title": "Senior Director, HCP Marketing",
+"url": "https://boards.greenhouse.io/vaxcyte/jobs/5491438008?gh_jid=5491438008"
+},
+{
+"company": "Xenon Pharmaceuticals",
+"title": "Associate Director, Enterprise Data Warehouse & BI Lead",
+"url": "https://jobs.ashbyhq.com/xenon/91463eca-a689-42ef-aff0-7a37f1392033"
+},
+{
+"company": "Zoetis",
+"title": "Marketing Engine Data Scientist",
+"url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/Marketing-Engine-Data-Scientist_JR00022070-1"
+}
+],
+"removed_jobs": [
+{
+"company": "AbbVie",
+"title": "Rheumatology Thought Leader Liaison - SE Region",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990017033789"
+},
+{
+"company": "AbbVie",
+"title": "Associate Director, Project Engineering - East Coast",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990016950766"
+},
+{
+"company": "AbbVie",
+"title": "Director, RA CMC",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990016877361"
+},
+{
+"company": "AbbVie",
+"title": "Scientific Director, Immunology - Global Patient Safety",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990016809406"
+},
+{
+"company": "AbbVie",
+"title": "Associate Director, Procurement Finance FP&A",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990015897036"
+},
+{
+"company": "AbbVie",
+"title": "Marketing Manager I/II, HCP - Migraine",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990015639752"
+},
+{
+"company": "AbbVie",
+"title": "Marketing Manager I/II, HCP - Migraine",
+"url": "https://jobs.smartrecruiters.com/abbvie/3743990015639896"
+},
+{
+"company": "Amgen",
+"title": "Supply Chain Manager – Raw Materials Center",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Pennsylvania---Philadelphia/Supply-Chain-Manager---Raw-Materials-Center_R-260224"
+},
+{
+"company": "Amgen",
+"title": "Strategic Planning & Operations, Director",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Strategic-Planning---Operations--Director_R-261814"
+},
+{
+"company": "Amgen",
+"title": "Medical Science Liaison - Rare Disease-GPA/MPA & Sjögren’s Disease - Arizona and New Mexico",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Arizona---Phoenix/Medical-Science-Liaison---Rare-Disease-GPA-MPA---Sjgren-s-Disease---Arizona-and-New-Mexico_R-259505"
+},
+{
+"company": "Amgen",
+"title": "",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers"
+},
+{
+"company": "Amgen",
+"title": "Sr Biopharmaceutical Rep, Cardiovascular - Baton Rouge, LA",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Louisiana---Baton-Rouge/Sr-Biopharmaceutical-Rep--Cardiovascular---Baton-Rouge--LA_R-258966"
+},
+{
+"company": "Amgen",
+"title": "Key Account Director - Respiratory - East Region",
+"url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---North-Carolina---Charlotte/Key-Account-Director---Respiratory---East-Region_R-255454-1"
+},
+{
+"company": "AstraZeneca",
+"title": "I&C Technician II/III - Days",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Frederick---MD/I-C-Technician-II-III---Days_R-264158"
+},
+{
+"company": "Beam Therapeutics",
+"title": "Technical Operations Co-op",
+"url": "https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002"
+},
+{
+"company": "BeOne Medicines",
+"title": "Director, Regulatory Affairs - US",
+"url": "https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Director--Regulatory-Affairs---US_R37670"
+},
+{
+"company": "Bristol Myers Squibb",
+"title": "",
+"url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS"
+},
+{
+"company": "Bristol Myers Squibb",
+"title": "Senior Director, Global Compliance Policy & Education",
+"url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Senior-Director--Global-Compliance-Policy---Education_R1605813"
+},
+{
+"company": "Bristol Myers Squibb",
+"title": "Medical Science Liaison, Neuropsychiatry (VA, W. VA)",
+"url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Richmond---VA---US/Medical-Science-Liaison--Neuropsychiatry--VA--W-VA-_R1606587"
+},
+{
+"company": "CareDx",
+"title": "Manager, Remote Care Navigator",
+"url": "https://job-boards.greenhouse.io/caredxinc/jobs/4485068009"
+},
+{
+"company": "Danaher",
+"title": "Production Team Lead",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Indianapolis-Indiana-United-States/Production-Team-Lead_R1322667"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Grain Inspector - Part-time",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000162159949"
+},
+{
+"company": "Eurofins Scientific",
+"title": "Grain Inspector - Part-time",
+"url": "https://jobs.smartrecruiters.com/eurofins/744000141501880"
+},
+{
+"company": "Gilead Sciences",
+"title": "Senior Director, Portfolio Access and Enablement Lead",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Senior-Director--Portfolio-Access-and-Enablement-Lead_R0056015-2"
+},
+{
+"company": "Gilead Sciences",
+"title": "Senior Director Marketing, HIV Treatment Portfolio Strategy",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Senior-Director-Marketing--HIV-Treatment-Portfolio-Strategy_R0055757-1"
+},
+{
+"company": "Gilead Sciences",
+"title": "Computational Pathology Scientist",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Computational-Pathology-Scientist_R0054995-2"
+},
+{
+"company": "GSK",
+"title": "Statistics Director, Oncology",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK---London/Statistics-Director--Oncology_451353"
+},
+{
+"company": "GSK",
+"title": "Senior Director Team Lead, Therapeutic Area Quality (GCP / Clinical Quality)",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Pennsylvania-Central/Team-Lead--Therapeutic-Area-Quality_442214"
+},
+{
+"company": "GSK",
+"title": "Patient Access Manager (North NJ/STATEN ISLAND/BRONX)",
+"url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---North-Carolina---Durham/Patient-Access-Manager--North-NJ-STATEN-ISLAND-BRONX--_448702"
+},
+{
+"company": "Illumina",
+"title": "Technical Project Manager",
+"url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Bay-Area---Hayward/Technical-Project-Manager_43675-JOB"
+},
+{
+"company": "Immunome",
+"title": "Bioanalyst",
+"url": "https://job-boards.greenhouse.io/immunomeinc/jobs/5431985008"
+},
+{
+"company": "Iovance Biotherapeutics",
+"title": "Cell Therapy Account Management - Denver, Colorado",
+"url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5447041008"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Sr. Manager, Comp Strategy & US",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Manager--Comp-Strategy---US_R-091205-1"
+},
+{
+"company": "Johnson & Johnson (Janssen)",
+"title": "Quality Control Technician I",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Quality-Control-Technician-I_R-099036"
+},
+{
+"company": "Kyowa Kirin North America",
+"title": "2027 Summer Intern - Oncology Marketing",
+"url": "https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8002581003"
+},
+{
+"company": "Labcorp",
+"title": "Lab Support Services Team Lead- Full Time- 3rd Shift",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tulsa-OK/Lab-Support-Services-Team-Lead--Full-Time--3rd-Shift_2641797"
+},
+{
+"company": "Labcorp",
+"title": "Administrative Assistant - Pathology Department",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Rochester-MI/Administrative-Assistant---Pathology-Department_2635693"
+},
+{
+"company": "Labcorp",
+"title": "Onsite Lab Support Clerk",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Marion-IL/Onsite-Lab-Support-Clerk_2639481"
+},
+{
+"company": "Labcorp",
+"title": "Associate Technical Liaison, Clinical Trials",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Associate-Technical-Liaison--Clinical-Trials_2640219"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist PRN",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Detroit-MI/Phlebotomist-PRN_2640712"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Jacksonville-FL/Phlebotomist_2635479"
+},
+{
+"company": "Labcorp",
+"title": "Lab Supervisor - Women's Health/Genetics",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Lab-Supervisor---Women-s-Health-Genetics_2632641"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Destin-FL/Phlebotomist_2638740"
+},
+{
+"company": "Labcorp",
+"title": "PSTS-Float",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Jacksonville-NC/PSTS-Float_2630443"
+},
+{
+"company": "Labcorp",
+"title": "Validation Specialist, Flow Cytometry",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Brentwood-TN/Validation-Specialist--Flow-Cytometry_2636110"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomy Site Coordinator",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Panama-City-FL/Phlebotomy-Site-Coordinator_2636341"
+},
+{
+"company": "Labcorp",
+"title": "Medical Courier",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/New-City-NY/Medical-Courier_2633088"
+},
+{
+"company": "Labcorp",
+"title": "Oncology Development Executive- Baltimore, MD territory (Annapolis, Glen Burnie, Towson, Bel Air, Aberdeen, Elkton)",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Baltimore-MD/Oncology-Development-Executive--Baltimore--MD-territory--Annapolis--Glen-Burnie--Towson--Bel-Air--Aberdeen--Elkton-_2633781"
+},
+{
+"company": "Labcorp",
+"title": "Phlebotomist",
+"url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Brentwood-TN/Phlebotomist_2633911"
+},
+{
+"company": "Legend Biotech",
+"title": "Operations Supervisor",
+"url": "https://job-boards.greenhouse.io/legendcareers/jobs/4721115005"
+},
+{
+"company": "MBX Biosciences",
+"title": "Regulatory Affairs Fellow",
+"url": "https://mbxbio.com/job-details/?gh_jid=5424346008"
+},
+{
+"company": "Natera",
+"title": "Inside Sales Specialist-Temp",
+"url": "https://job-boards.greenhouse.io/natera/jobs/6263355004"
+},
+{
+"company": "Natera",
+"title": "Sr Research Associate",
+"url": "https://job-boards.greenhouse.io/natera/jobs/6260842004"
+},
+{
+"company": "Novartis",
+"title": "ED, NovaOS Strategy and Innovation - AI",
+"url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Distant-Employee---Distant-Working-Arrangement-DWA-USA/ED--NovaOS-Strategy-and-Innovation---AI_REQ-10086325"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Technical Program Manager - GPU Software",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---GPU-Software_JR2028929"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Software QA Test Development Engineer - Diagnostics",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2023857"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Software Engineer - Simulation",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Simulation_JR2018093"
+},
+{
+"company": "Precision Medicine Group",
+"title": "Engagement Manager, Market Access Consulting",
+"url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6126831004"
+},
+{
+"company": "Regeneron",
+"title": "Senior Manager Portfolio Management",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Senior-Manager-Portfolio-Management_R51203"
+},
+{
+"company": "Regeneron",
+"title": "Associate Director Precision Medicine - Clinical Diagnostics",
+"url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---United-States/Associate-Director-Precision-Medicine---Clinical-Diagnostics_R51628"
+},
+{
+"company": "Sanofi",
+"title": "Area Business Manager - ENT - Cumberland, MD",
+"url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hagerstown-MD/Area-Business-Manager---ENT---Cumberland--MD_R2877812"
+},
+{
+"company": "Streck",
+"title": "BCT Machine Operator",
+"url": "https://jobs.lever.co/streck/93375fbe-1715-48db-b565-026a53d8783c"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Manufacturing Planner/Scheduler ll",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Marietta-Ohio-USA/Manufacturing-Planner-Scheduler-ll_R-01374885"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Logistics Team Lead - Study Setup",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Logistics-Team-Lead---Study-Setup_R-01371233"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Executive Assistant - Global Operations, Life Sciences",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Carlsbad-California-USA/Executive-Assistant---Global-Operations--Life-Sciences_R-01375356"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Packaging and Labeling Technician",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Packaging-Labeling-Technician_R-01372086-1"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Lead Manufacturing Technician",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Fremont-California-USA/Lead-Manufacturing-Technician_R-01364615"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Sample Management Supervisor, 1st Shift",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Covington-Kentucky---USA/Sample-Management-Supervisor--1st-Shift_R-01369279"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Sr. Director, HR – Lead. Influence. Make an Impact.",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Sr-Director--HR---Lead-Influence-Make-an-Impact_R-01367989"
+},
+{
+"company": "Ultima Genomics",
+"title": "Associate Strategic Accounts Director, Pharma and Biotech",
+"url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5821432004"
+},
+{
+"company": "UniQure Biopharma",
+"title": "Associate Director, Biostatistics",
+"url": "https://www.uniqure.com/culture-careers/job-opportunities?utm_source=forethought-chat&gh_jid=5019532101"
+},
+{
+"company": "Vertex Pharmaceuticals",
+"title": "Principal Biostatistician",
+"url": "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Principal-Biostatistician_REQ-30024"
+}
+]
+},
+{
+"date": "2026-11-23",
 "added": 1154,
 "removed": 1319,
 "added_jobs": [
