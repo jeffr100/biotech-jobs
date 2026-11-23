@@ -15,11 +15,40 @@ Settings (environment variables):
   JOBSPY_MAX_COMPANIES = 75            companies to look up per run (per pass) (0 = no limit); the rest are
                                        picked up on later runs, which keeps LinkedIn from blocking
 """
+import logging
 import os
 import time
 
 COUNTRY = {"il": ("Israel", "israel"), "us": ("United States", "usa")}
 _count = 0
+LAST_SEARCHED = set()   # sites that actually answered during the most recent search
+_FAILED = set()
+BLOCKED = {}            # site -> number of searches it refused this run
+
+
+class _Watch(logging.Handler):
+    """JobSpy logs an error (e.g. "response status code 429 (blocked: use a proxy)") when a site
+    refuses a search. Note which site it was, so a block isn't mistaken for "job not listed there"."""
+    def emit(self, record):
+        if record.levelno >= logging.ERROR:
+            site = record.name.split(".")[-1].lower()
+            _FAILED.add(site)
+            BLOCKED[site] = BLOCKED.get(site, 0) + 1
+
+
+_watch = _Watch()
+
+
+def _search(**kw):
+    from jobspy import scrape_jobs
+    global LAST_SEARCHED
+    lg = logging.getLogger("jobspy")
+    if _watch not in lg.handlers:
+        lg.addHandler(_watch)
+    _FAILED.clear()
+    df = scrape_jobs(**kw)
+    LAST_SEARCHED = {s for s in kw["site_name"] if s not in _FAILED}
+    return df
 
 
 def available():
@@ -36,6 +65,8 @@ def listings(company, country="il"):
     from jobspy import scrape_jobs
     cap = int((os.environ.get("JOBSPY_MAX_COMPANIES") or "75") or 0)
     if cap and _count >= cap:
+        global LAST_SEARCHED
+        LAST_SEARCHED = set()
         return []
     if _count:
         time.sleep(float((os.environ.get("JOBSPY_DELAY") or "4")))
@@ -47,7 +78,7 @@ def listings(company, country="il"):
               results_wanted=int((os.environ.get("JOBSPY_RESULTS") or "40")), proxies=proxies, verbose=0)
     if "google" in sites:
         kw["google_search_term"] = f"{company} jobs in {where}"
-    df = scrape_jobs(**kw)
+    df = _search(**kw)
     out = []
     for r in df.to_dict("records"):
         loc = r.get("location")
@@ -63,14 +94,14 @@ def listings_for_job(company, title, country="us"):
     from jobspy import scrape_jobs
     time.sleep(float((os.environ.get("JOBSPY_DELAY") or "4")))
     where, indeed_country = COUNTRY.get(country, COUNTRY["us"])
-    sites = [s.strip() for s in (os.environ.get("JOBSPY_JOB_SITES") or "indeed,linkedin,google").split(",") if s.strip()]
+    sites = [s.strip() for s in (os.environ.get("JOBSPY_JOB_SITES") or ((os.environ.get("JOBSPY_SITES") or "indeed,linkedin") + ",google")).split(",") if s.strip()]
     proxies = [p.strip() for p in (os.environ.get("JOBSPY_PROXIES") or "").split(",") if p.strip()] or None
     kw = dict(site_name=sites, search_term=f'{title} "{company}"', location=where, country_indeed=indeed_country,
               results_wanted=10, proxies=proxies, verbose=0)
     if "google" in sites:
         kw["google_search_term"] = f"{title} {company} jobs in {where}"
     out = []
-    for r in scrape_jobs(**kw).to_dict("records"):
+    for r in _search(**kw).to_dict("records"):
         loc = r.get("location")
         if isinstance(loc, dict):
             loc = ", ".join(str(v) for v in (loc.get("city"), loc.get("state"), loc.get("country")) if v)

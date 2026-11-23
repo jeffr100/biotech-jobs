@@ -51,8 +51,11 @@ def collect(since_days=None):
 
 
 def only_here(j):
+    """Not found on any job site we were able to search, and at least LinkedIn or Indeed was searched."""
     cov = j.get("coverage")
-    return bool(cov) and not (cov.get("linkedin") or cov.get("indeed") or cov.get("glassdoor"))
+    if not cov or (cov.get("linkedin") is None and cov.get("indeed") is None):
+        return False
+    return not (cov.get("linkedin") or cov.get("indeed") or cov.get("glassdoor"))
 
 
 PERIOD = {"daily": (1, "today"), "weekly": (7, "this week"), "monthly": (30, "this month")}

@@ -28,6 +28,20 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import crawl  # noqa: E402  (reuses http_json and the provider settings)
 
 SITES = {"linkedin": "linkedin", "indeed": "indeed", "glassdoor": "glassdoor", "google": "google"}
+# Which sites the last search really covered. None = all of them (paid APIs read Google for Jobs,
+# which lists LinkedIn, Indeed and Glassdoor postings). With JobSpy a site can refuse a search
+# (LinkedIn often blocks GitHub's servers); that site is then recorded as "not checked" (None),
+# never as "not listed".
+SEARCHED = None
+
+
+def _searched_after(provider):
+    global SEARCHED
+    if provider == "jobspy":
+        import jobspy_source
+        SEARCHED = set(jobspy_source.LAST_SEARCHED)
+    else:
+        SEARCHED = None
 STOP = set("senior sr junior jr lead principal staff associate i ii iii iv v the a an of and for to in at - , / ( )".split())
 
 
@@ -127,14 +141,22 @@ def listings_for_job(company, title):
 
 
 def _mark(j, found, today, method):
-    hits = {s: False for s in SITES}
+    """Record where the job was found. Returns False (and changes nothing) if no site answered."""
+    if SEARCHED is not None and not SEARCHED:
+        return False
+    hits = {s: (False if SEARCHED is None or s in SEARCHED else None) for s in SITES}
     for title, city, pubs in found:
         if similar(j["title"], title):
             blob = " ".join(pubs)
             for s, needle in SITES.items():
                 if needle in blob:
                     hits[s] = True
+    old = j.get("coverage") or {}
+    for s_ in SITES:   # a site seen before stays "seen" even if it couldn't be searched this time
+        if hits[s_] is None and old.get(s_):
+            hits[s_] = True
     j["coverage"] = {"checked": today, "method": method, **hits}
+    return True
 
 
 def run(data_dir, only_new=True):
@@ -151,8 +173,12 @@ def run(data_dir, only_new=True):
             continue
         try:
             found = listings_for(name)
+            _searched_after((os.environ.get("JOBSEARCH_PROVIDER") or "").lower())
         except Exception as e:
             print(f"coverage: {name}: {e}")
+            continue
+        if SEARCHED is not None and not SEARCHED:
+            print(f"coverage: {name}: every site refused the search; will retry next run")
             continue
         checked += 1
         for j in own:
@@ -189,12 +215,17 @@ def per_job(jobs, today):
     for _, name, j in todo[:cap or None]:
         try:
             found = listings_for_job(name, j["title"])
+            _searched_after((os.environ.get("JOBSEARCH_PROVIDER") or "").lower())
         except Exception as e:
             print(f"coverage (per job): {name} / {j['title']}: {e}")
             continue
-        _mark(j, found, today, "job")
-        done += 1
+        if _mark(j, found, today, "job"):
+            done += 1
     print(f"coverage: searched {done} jobs individually ({max(len(todo) - done, 0)} left for later runs)")
+    if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy":
+        import jobspy_source
+        for site, n in sorted(jobspy_source.BLOCKED.items()):
+            print(f"coverage: {site} refused {n} searches this run (recorded as 'not checked', not as 'not listed')")
 
 
 if __name__ == "__main__":

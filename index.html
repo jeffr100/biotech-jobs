@@ -363,7 +363,8 @@ function load(d){
   readHash();renderCos();render();ads();
 }
 
-function onlyHere(j){return j.coverage&&!j.coverage.linkedin&&!j.coverage.indeed&&!j.coverage.glassdoor}
+// A site recorded as null wasn't searched (for example LinkedIn refused the search), so it can't count as "not listed".
+function onlyHere(j){const c=j.coverage;if(!c||(c.linkedin==null&&c.indeed==null))return false;return !c.linkedin&&!c.indeed&&!c.glassdoor}
 function filt(){
   const q=S.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const r=ALL.filter(j=>S.tog[j.size]&&S.tog[j.from]
@@ -380,7 +381,8 @@ function filt(){
 function covTag(j){
   if(!j.coverage)return'';
   const on=['linkedin','indeed','glassdoor','google'].filter(k=>j.coverage[k]).map(k=>({linkedin:'LinkedIn',indeed:'Indeed',glassdoor:'Glassdoor',google:'Google Jobs'})[k]);
-  if(onlyHere(j))return'<span class="tag excl">Not on LinkedIn or Indeed</span>';
+  if(onlyHere(j)){const chk=['linkedin','indeed'].filter(k=>j.coverage[k]===false).map(k=>({linkedin:'LinkedIn',indeed:'Indeed'})[k]);const miss=['linkedin','indeed'].filter(k=>j.coverage[k]==null).map(k=>({linkedin:'LinkedIn',indeed:'Indeed'})[k]);
+    return `<span class="tag excl">Not on ${chk.join(' or ')}</span>`+(miss.length?`<span class="tag loc">${miss.join(', ')} not checked</span>`:'')}
   return on.length?`<span class="tag cov">Also on ${on.join(', ')}</span>`:'';
 }
 function row(j){
@@ -446,15 +448,20 @@ $('ftoggle').addEventListener('click',()=>{const b=$('fbox'),open=b.dataset.open
 
 /* ---------- email sign-up ---------- */
 const NL=C.newsletter||{};
-const nlAction=NL.provider==='custom'?NL.action:(NL.username?`https://buttondown.com/api/emails/embed-subscribe/${encodeURIComponent(NL.username)}`:'');
+function signupTarget(freq){
+  if(NL.provider==='brevo'){const u=(NL.brevoForms||{})[freq];return u?{url:u,fields:{EMAIL:null,email_address_check:'',locale:'en'}}:null}
+  if(NL.provider==='custom')return NL.action?{url:NL.action,fields:{[NL.emailField||'email']:null,[NL.frequencyField||'tag']:freq}}:null;
+  return NL.username?{url:`https://buttondown.com/api/emails/embed-subscribe/${encodeURIComponent(NL.username)}`,fields:{email:null,tag:freq,embed:'1'}}:null;
+}
 for(const form of document.querySelectorAll('[data-sub]')){
   form.addEventListener('submit',async e=>{
     e.preventDefault();
     const msg=form.querySelector('.msg'),email=form.querySelector('[type=email]').value.trim(),freq=(form.querySelector('[type=radio]:checked')||{}).value||'weekly';
-    if(!nlAction){msg.style.color='var(--eos)';msg.textContent='Email sign-up isn\'t connected yet. Add your Buttondown username to site.config.js to turn it on.';return}
-    const fd=new FormData();fd.append(NL.emailField||'email',email);fd.append(NL.frequencyField||'tag',freq);fd.append('embed','1');
+    const tg=signupTarget(freq);
+    if(!tg){msg.style.color='var(--eos)';msg.textContent='Email sign-up isn\'t connected yet. Add your Brevo form addresses to site.config.js to turn it on.';return}
+    const fd=new FormData();for(const [k,v] of Object.entries(tg.fields))fd.append(k,v===null?email:v);
     msg.style.color='var(--mut)';msg.textContent='Subscribing…';
-    try{await fetch(nlAction,{method:'POST',body:fd,mode:'no-cors'});msg.style.color='var(--ok)';msg.textContent=`Subscribed for ${freq} emails. Check your inbox to confirm.`;form.reset()}
+    try{await fetch(tg.url,{method:'POST',body:fd,mode:'no-cors'});msg.style.color='var(--ok)';msg.textContent=`Thanks — check your inbox to confirm your ${freq} emails.`;form.reset()}
     catch(err){msg.style.color='var(--eos)';msg.textContent='Couldn\'t reach the sign-up service. Check your connection and try again.'}
   });
 }
