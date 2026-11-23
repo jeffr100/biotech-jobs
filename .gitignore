@@ -1,2 +1,9 @@
-# Local Netlify folder
-.netlify
+_site/
+.netlify/
+__pycache__/
+.DS_Store
+.DS_Store
+.netlify/
+*.zip
+update/
+us-biotech-jobs/
