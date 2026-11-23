@@ -5,17 +5,14 @@
     python3 crawler/publish.py --only weekly   # build/send just one of daily | weekly | monthly
     python3 crawler/publish.py --since 7       # one digest of jobs first seen in the last 7 days
 
-Sign-ups from the website go into one of three Brevo lists (daily, weekly, monthly), and each
-digest is sent only to its own list. Files: data/digest-<frequency>.md/.html.
+Sign-ups from the website are tagged "daily", "weekly" or "monthly" in Buttondown, and each
+digest is sent only to subscribers with that tag. Files: data/digest-<frequency>.md/.html.
 
 The digest lists new jobs grouped by company. With COVERAGE data present, jobs that were
 NOT found on LinkedIn, Indeed or Glassdoor are listed first ("Only here").
 
 Optional destinations (set the environment variables / GitHub secrets to switch one on):
 
-  Brevo        BREVO_API_KEY, BREVO_SENDER_EMAIL, BREVO_LIST_DAILY / _WEEKLY / _MONTHLY (list IDs)
-                                           -> creates a campaign per frequency (draft unless BREVO_SEND=1)
-               BREVO_SENDER_NAME (optional, default "Biotech & Genomics Jobs")
   Buttondown   BUTTONDOWN_API_KEY          -> creates an email per frequency (draft unless BUTTONDOWN_SEND=1)
   WordPress    WP_URL, WP_USER, WP_APP_PASSWORD
                                            -> posts the weekly digest (draft unless WP_STATUS=publish)
@@ -100,36 +97,6 @@ def send_buttondown(title, md, tag=None):
     print(f"buttondown ({tag or 'all'}):", r.get("id", r))
 
 
-BREVO_FREE_DAILY_LIMIT = 300   # Brevo's free plan sends at most 300 emails a day
-
-
-def send_brevo(title, body_html, freq):
-    """Create a Brevo email campaign for one list and (with BREVO_SEND=1) send it now."""
-    list_id = os.environ.get(f"BREVO_LIST_{freq.upper()}", "").strip()
-    sender = os.environ.get("BREVO_SENDER_EMAIL", "").strip()
-    if not list_id or not sender:
-        print(f"brevo ({freq}): skipped - set BREVO_LIST_{freq.upper()} and BREVO_SENDER_EMAIL")
-        return
-    key = {"api-key": os.environ["BREVO_API_KEY"], "accept": "application/json"}
-    site = os.environ.get("SITE_URL", "")
-    content = (f"<html><body style=\"font-family:Arial,sans-serif;max-width:680px;margin:auto\">{body_html}"
-               f"<hr><p style=\"font-size:12px;color:#666\">You get this {freq} because you signed up"
-               f"{' at <a href=\"' + html.escape(site) + '\">' + html.escape(site) + '</a>' if site else ''}. "
-               f"<a href=\"{{{{ unsubscribe }}}}\">Unsubscribe</a></p></body></html>")
-    camp = post_json("https://api.brevo.com/v3/emailCampaigns", {
-        "name": f"{title} ({freq}, {dt.date.today().isoformat()})",
-        "subject": title,
-        "sender": {"name": os.environ.get("BREVO_SENDER_NAME") or "Biotech & Genomics Jobs", "email": sender},
-        "htmlContent": content,
-        "recipients": {"listIds": [int(list_id)]},
-    }, key)
-    cid = camp.get("id")
-    print(f"brevo ({freq}): created campaign {cid}")
-    if cid and os.environ.get("BREVO_SEND") == "1":
-        post_json(f"https://api.brevo.com/v3/emailCampaigns/{cid}/sendNow", {}, key)
-        print(f"brevo ({freq}): sending to list {list_id}")
-
-
 def send_wordpress(title, body_html):
     tok = base64.b64encode(f"{os.environ['WP_USER']}:{os.environ['WP_APP_PASSWORD']}".encode()).decode()
     r = post_json(os.environ["WP_URL"].rstrip("/") + "/wp-json/wp/v2/posts",
@@ -172,11 +139,6 @@ def main():
         print(f"{f} digest: {n} new jobs -> data/digest-{f}.md")
         if not n:
             continue
-        if os.environ.get("BREVO_API_KEY"):
-            try:
-                send_brevo(title, body_html, f)
-            except Exception as e:   # one failed list shouldn't stop the others
-                print(f"brevo ({f}): failed: {e}")
         if os.environ.get("BUTTONDOWN_API_KEY"):
             send_buttondown(title, md, f)
         if f == "weekly" and os.environ.get("WP_URL") and os.environ.get("WP_APP_PASSWORD"):

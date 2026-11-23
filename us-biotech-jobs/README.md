@@ -5,14 +5,14 @@ This folder is a searchable job board of **US-only** openings at about 1,440 gen
 | Path | What it is |
 |---|---|
 | `index.html` | The website. It has search, seniority, field, state, date, company-size and source filters, an email sign-up form and small text-ad spots. It reads `data/site.json`. |
-| `site.config.js` | Settings for email sign-up (Brevo) and Google AdSense. |
+| `site.config.js` | Settings for email sign-up (Buttondown) and Google AdSense. |
 | `data/companies.json` | Every company: its size, careers link or website, and job-board settings (`ats`). |
 | `data/jobs.json` | Current US jobs, with the date each was first seen and, once checked, `coverage` (whether the job is on LinkedIn, Indeed or Glassdoor). |
 | `data/feed.xml` | RSS feed of the jobs that are new in the latest run. |
 | `data/digest-daily.md`, `-weekly`, `-monthly` | The newsletter emails for each frequency. |
 | `crawler/crawl.py` | The crawler (Python 3, no packages to install). Set `US_ONLY=0` to keep every country. |
 | `crawler/coverage_check.py` | Marks which jobs also appear on LinkedIn, Indeed or Glassdoor. |
-| `crawler/publish.py` | Builds the daily, weekly and monthly digests and sends them through Brevo (or Buttondown) (and posts the weekly one to WordPress, if set up). |
+| `crawler/publish.py` | Builds the daily, weekly and monthly digests and sends them through Buttondown (and posts the weekly one to WordPress, if set up). |
 
 ## Running the site on your computer
 
@@ -31,38 +31,22 @@ Opening `index.html` directly (as a `file://` address) won't load the jobs, beca
 3. Go to **Actions → Job crawl → Run workflow**. The site appears at `https://<you>.github.io/<repo>/` and is updated every morning (the schedule is the cron line in `.github/workflows/weekly-crawl.yml`).
 4. Set up email updates and ads as described below.
 
-## Email updates (daily, weekly or monthly) with Brevo
+## Email updates (daily, weekly or monthly)
 
-Visitors sign up on the site and choose daily, weekly or monthly emails. This uses [Brevo](https://www.brevo.com). Its free plan stores up to 100,000 contacts and sends up to 300 emails a day, with API access included.
+Visitors sign up on the site and choose how often they want email. This uses [Buttondown](https://buttondown.com). Its free plan covers your first 100 subscribers. Sending automatically through its API is part of the paid Basic plan, from $9 a month, and tags may need a paid add-on; check Buttondown's pricing page.
 
-**In Brevo** (one-time):
-1. **Sender:** under **Senders, domains & dedicated IPs**, add and verify the address the emails come from.
-2. **Lists:** under **Contacts → Lists**, create three lists: `Jobs daily`, `Jobs weekly`, `Jobs monthly`. Note each list's ID number.
-3. **Forms:** under **Contacts → Forms**, create one subscription form per list. Double opt-in is recommended. Open each form's **Share → HTML code** and copy the form's `action` address (`https://….sibforms.com/serve/…`).
-4. **API key:** under **SMTP & API → API keys**, create an API key.
-
-**On your computer**, in this folder:
-```bash
-gh secret set BREVO_API_KEY                      # paste the key when asked (it's never shown or saved in the repo)
-gh variable set BREVO_SENDER_EMAIL --body you@yourdomain.com
-gh variable set BREVO_SENDER_NAME  --body "Biotech & Genomics Jobs"
-gh variable set BREVO_LIST_DAILY   --body 3      # your list IDs
-gh variable set BREVO_LIST_WEEKLY  --body 4
-gh variable set BREVO_LIST_MONTHLY --body 5
-gh variable set BREVO_SEND --body 1              # leave out at first to get drafts you can check in Brevo
-```
-Then put the three form addresses into `site.config.js` under `newsletter.brevoForms`, and commit and push.
+1. Create a Buttondown account and note your username.
+2. In Buttondown, create three tags named `daily`, `weekly` and `monthly`. Then, in `site.config.js`, set `newsletter.username` to your username. The sign-up forms on the site start working, and each subscriber is tagged `daily`, `weekly` or `monthly`.
+3. In Buttondown, create an API key and add it as the repository secret `BUTTONDOWN_API_KEY`. Add `BUTTONDOWN_SEND` = `1` once you're happy with the drafts.
 
 Each morning the workflow runs `crawler/publish.py`:
-- The **daily** email goes to the daily list every day.
-- The **weekly** email goes to the weekly list on Mondays.
-- The **monthly** email goes to the monthly list on the 1st.
+- The **daily** email goes out every day.
+- The **weekly** email goes out on Mondays (`WEEKLY_DAY`: 0 = Monday … 6 = Sunday).
+- The **monthly** email goes out on the 1st.
 
-Each email lists the jobs first seen in that period, with the jobs not found on LinkedIn or Indeed first, and has an unsubscribe link. Days with no new jobs send nothing.
+Each email lists the jobs first seen in that period, with the jobs not found on LinkedIn or Indeed first, and goes only to subscribers with the matching tag. Days with no new jobs send nothing.
 
-**Free-plan limit:** 300 emails a day across all lists. A day's email goes to its whole list, so once a list passes about 300 people, Brevo holds back the rest until you resend or upgrade. The Starter plan, from about $9 a month, removes the daily cap.
-
-Buttondown still works: set `newsletter.provider` to `"buttondown"` in `site.config.js` and add the `BUTTONDOWN_API_KEY` secret.
+To use another email service, set `newsletter.provider` to `"custom"` and fill in its form address and field names in `site.config.js`. Any service that does RSS-to-email can also send `data/feed.xml`.
 
 ## Google ads (small text ads)
 

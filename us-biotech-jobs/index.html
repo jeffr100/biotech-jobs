@@ -446,20 +446,15 @@ $('ftoggle').addEventListener('click',()=>{const b=$('fbox'),open=b.dataset.open
 
 /* ---------- email sign-up ---------- */
 const NL=C.newsletter||{};
-function signupTarget(freq){
-  if(NL.provider==='brevo'){const u=(NL.brevoForms||{})[freq];return u?{url:u,fields:{EMAIL:null,email_address_check:'',locale:'en'}}:null}
-  if(NL.provider==='custom')return NL.action?{url:NL.action,fields:{[NL.emailField||'email']:null,[NL.frequencyField||'tag']:freq}}:null;
-  return NL.username?{url:`https://buttondown.com/api/emails/embed-subscribe/${encodeURIComponent(NL.username)}`,fields:{email:null,tag:freq,embed:'1'}}:null;
-}
+const nlAction=NL.provider==='custom'?NL.action:(NL.username?`https://buttondown.com/api/emails/embed-subscribe/${encodeURIComponent(NL.username)}`:'');
 for(const form of document.querySelectorAll('[data-sub]')){
   form.addEventListener('submit',async e=>{
     e.preventDefault();
     const msg=form.querySelector('.msg'),email=form.querySelector('[type=email]').value.trim(),freq=(form.querySelector('[type=radio]:checked')||{}).value||'weekly';
-    const tg=signupTarget(freq);
-    if(!tg){msg.style.color='var(--eos)';msg.textContent='Email sign-up isn\'t connected yet. Add your Brevo form addresses to site.config.js to turn it on.';return}
-    const fd=new FormData();for(const [k,v] of Object.entries(tg.fields))fd.append(k,v===null?email:v);
+    if(!nlAction){msg.style.color='var(--eos)';msg.textContent='Email sign-up isn\'t connected yet. Add your Buttondown username to site.config.js to turn it on.';return}
+    const fd=new FormData();fd.append(NL.emailField||'email',email);fd.append(NL.frequencyField||'tag',freq);fd.append('embed','1');
     msg.style.color='var(--mut)';msg.textContent='Subscribing…';
-    try{await fetch(tg.url,{method:'POST',body:fd,mode:'no-cors'});msg.style.color='var(--ok)';msg.textContent=`Thanks — check your inbox to confirm your ${freq} emails.`;form.reset()}
+    try{await fetch(nlAction,{method:'POST',body:fd,mode:'no-cors'});msg.style.color='var(--ok)';msg.textContent=`Subscribed for ${freq} emails. Check your inbox to confirm.`;form.reset()}
     catch(err){msg.style.color='var(--eos)';msg.textContent='Couldn\'t reach the sign-up service. Check your connection and try again.'}
   });
 }

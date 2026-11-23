@@ -1,19 +1,15 @@
 // Site settings. Edit this file to switch on email sign-up and Google AdSense ads.
 // Nothing here is secret: it is read by visitors' browsers.
 window.SITE_CONFIG = {
-  // ---- Email updates (Brevo) ------------------------------------------------
-  // In Brevo, make three contact lists (daily, weekly, monthly) and one sign-up form for each
-  // list (Contacts > Forms > Create a subscription form; send to that list). For each form,
-  // open Share > "HTML code" and copy the form's action address, which looks like
-  //   https://xxxxxxxx.sibforms.com/serve/MUIFA...
-  // and paste it below. Visitors' choice of daily / weekly / monthly picks the form.
+  // ---- Email updates -------------------------------------------------------
+  // Buttondown (https://buttondown.com) is the default. Put your Buttondown username here,
+  // e.g. "biotechjobs". Sign-ups are tagged "daily", "weekly" or "monthly", and
+  // crawler/publish.py sends each group its own digest (see README).
   newsletter: {
-    provider: "brevo",           // "brevo", "buttondown" or "custom"
-    brevoForms: { daily: "", weekly: "", monthly: "" },
-    // Buttondown instead: provider "buttondown" and your username here
-    username: "",
-    // Another service: provider "custom", its form address and field names
-    action: "",
+    provider: "buttondown",      // "buttondown" or "custom"
+    username: "",                // Buttondown username; leave blank until you have one
+    // For another service, set provider: "custom" and give its form address and field names:
+    action: "",                  // e.g. "https://example.com/subscribe"
     emailField: "email",
     frequencyField: "tag"
   },
