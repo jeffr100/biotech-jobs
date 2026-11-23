@@ -492,7 +492,7 @@ function ads(){
   }
 }
 
-fetch('data/site.json').then(r=>r.json()).then(load).catch(()=>{
+fetch('data/site.json').then(r=>r.text()).then(t=>JSON.parse(t.replace(/:NaN\b/g,':""'))).then(load).catch(()=>{
   $('count').textContent=location.protocol==='file:'?'Start the local server to load jobs':'Could not load the job data';
   $('empty').hidden=false;$('empty').textContent=location.protocol==='file:'?'This page needs a small local web server to read its data. Double-click start_site.command (Mac) or start_site.bat (Windows), or run "python3 -m http.server 8000" in this folder, then open http://localhost:8000.':'data/site.json is missing or unreadable. Run python3 crawler/crawl.py to create it.';
 });

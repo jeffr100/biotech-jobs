@@ -17,6 +17,10 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    # Each attempt uploads the site under its own name, so re-running a run never leaves
+    # two "github-pages" uploads for the publish step to choose between.
+    outputs:
+      pages_artifact: github-pages-${{ github.run_attempt }}
     env:
       SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
       # Optional: Indeed / LinkedIn / Google Jobs feed and the "not on LinkedIn/Indeed" check
@@ -72,7 +76,7 @@ jobs:
         uses: actions/configure-pages@v5
       - if: ${{ vars.HOSTING != 'netlify' }}
         uses: actions/upload-pages-artifact@v4
-        with: { path: "_site" }
+        with: { path: "_site", name: "github-pages-${{ github.run_attempt }}" }
       # ---- Netlify (set the repository variable HOSTING=netlify to use this instead of GitHub Pages) ----
       # Each Netlify production deploy costs credits, so by default the site is deployed once a week
       # (Mondays) and whenever you run the workflow by hand. Set NETLIFY_DEPLOY=daily to deploy every day.
@@ -101,3 +105,4 @@ jobs:
     steps:
       - id: deploy
         uses: actions/deploy-pages@v4
+        with: { artifact_name: "${{ needs.crawl.outputs.pages_artifact }}" }

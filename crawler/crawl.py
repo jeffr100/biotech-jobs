@@ -72,6 +72,17 @@ def http_json(url, body=None, headers=None, tries=3):
     raise last
 
 
+def nan_safe(o):
+    """Replace NaN/inf (which json.dump writes but browsers can't read) with empty values."""
+    if isinstance(o, float) and (o != o or o in (float("inf"), float("-inf"))):
+        return ""
+    if isinstance(o, dict):
+        return {k: nan_safe(v) for k, v in o.items()}
+    if isinstance(o, list):
+        return [nan_safe(v) for v in o]
+    return o
+
+
 def job(title, location, dept, url, posted, source="board", via=""):
     d = {
         "title": (title or "").strip(),
@@ -338,7 +349,7 @@ def main():
         out_companies[name] = entry
 
     total = sum(len(v["jobs"]) for v in out_companies.values())
-    json.dump({"generated": today, "total_jobs": total, "companies": out_companies},
+    json.dump(nan_safe({"generated": today, "total_jobs": total, "companies": out_companies}),
               open(jobs_path, "w"), indent=0, ensure_ascii=False)
 
     ch_path = os.path.join(DATA, "changes.json")
@@ -370,8 +381,8 @@ def write_site(companies=None):
              "partial_total": c.get("partial_total") if c.get("partial_total") and len(jobs["companies"].get(c["name"], {}).get("jobs", [])) < c.get("partial_total", 0) else None}
             for c in companies]
     slim = {n: {"jobs": c["jobs"]} for n, c in jobs["companies"].items()}
-    json.dump({"generated": jobs["generated"], "first_run": first, "meta": meta, "companies": slim,
-               "changes": [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]},
+    json.dump(nan_safe({"generated": jobs["generated"], "first_run": first, "meta": meta, "companies": slim,
+               "changes": [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]}),
               open(os.path.join(DATA, "site.json"), "w"), separators=(",", ":"), ensure_ascii=False)
     write_feed(jobs)
 
