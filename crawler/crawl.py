@@ -144,6 +144,18 @@ def smartrecruiters(ats):
             return out
 
 
+def workday_location(j):
+    """Workday's location text; some sites (e.g. Moderna) leave it out, but the job's address
+    always starts with it: /job/Cambridge-MA/Title_R123 -> "Cambridge MA"."""
+    loc = (j.get("locationsText") or "").strip()
+    path = j.get("externalPath") or ""
+    if (not loc or loc.endswith("Locations")) and path.startswith("/job/") and path.count("/") >= 3:
+        from_path = urllib.parse.unquote(path.split("/")[2]).replace("-", " ").strip()
+        if from_path:
+            loc = from_path if not loc else f"{from_path} ({loc})"
+    return loc
+
+
 def workday(ats):
     # ats: {"host": "illumina.wd1.myworkdayjobs.com", "tenant": "illumina", "site": "illumina-careers"}
     base = f"https://{ats['host']}"
@@ -162,7 +174,9 @@ def workday(ats):
             total = d.get("total", 0)
         posts = d.get("jobPostings", [])
         for j in posts:
-            out.append(job(j.get("title"), j.get("locationsText"), "",
+            if not (j.get("title") or "").strip():
+                continue   # Workday sometimes returns empty placeholder rows
+            out.append(job(j.get("title"), workday_location(j), "",
                            f"{base}/en-US/{ats['site']}{j.get('externalPath', '')}", workday_date(j.get("postedOn", ""))))
         off += 20
         if not posts or off >= total or off >= MAX_JOBS_PER_COMPANY:
@@ -193,9 +207,16 @@ def _norm(s):
 
 def _same_employer(company, employer):
     import re
-    strip = lambda x: re.sub(r"\b(inc|llc|ltd|corp|corporation|co|plc|gmbh|ag|sa|the)\b", "", (x or "").lower())
+    strip = lambda x: re.sub(r"\b(inc|llc|ltd|corp|corporation|co|company|plc|gmbh|ag|sa|the|laboratories|laboratory|labs|holdings|group|usa|international)\b", "", (x or "").lower())
     a, b = _norm(strip(company)), _norm(strip(employer))
-    return bool(a) and bool(b) and (a in b or b in a)
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    # "10x Genomics" vs "10x Genomics Inc" is the same employer, but "AccuGenomics" vs "Genomics"
+    # or "Abbott Molecular" vs "Abbott" is not: one name may only add a short suffix to the other.
+    short, long_ = sorted((a, b), key=len)
+    return long_.startswith(short) and len(short) >= 5 and len(short) >= 0.75 * len(long_)
 
 
 def jobsearch(company):
@@ -227,12 +248,14 @@ def jobsearch(company):
                 loc = (loc + " (Remote)").strip()
             out.append(job(j.get("job_title"), loc, "", j.get("job_apply_link"),
                            j.get("job_posted_at_datetime_utc"), "aggregator", j.get("job_publisher") or "Google Jobs"))
+            out[-1]["employer"] = j.get("employer_name") or ""
     elif provider == "jobspy":
         import jobspy_source
         names = {"linkedin": "LinkedIn", "indeed": "Indeed", "glassdoor": "Glassdoor", "google": "Google Jobs"}
         for j in jobspy_source.listings(company, country or "us"):
             if _same_employer(company, j["company"]):
                 out.append(job(j["title"], j["location"], "", j["url"], "", "aggregator", names.get(j["site"], j["site"])))
+                out[-1]["employer"] = j["company"]
     elif provider == "serpapi":
         q = {"engine": "google_jobs", "q": f"{company} jobs", "api_key": key}
         if country or US_ONLY:
@@ -245,7 +268,11 @@ def jobsearch(company):
             link = opts[0].get("link") if opts else j.get("share_link", "")
             via = (j.get("via") or "Google Jobs").replace("via ", "")
             out.append(job(j.get("title"), j.get("location"), "", link, "", "aggregator", via))
+            out[-1]["employer"] = j.get("company_name") or ""
     return out
+
+
+SEARCH_ALLOWED = None   # with JobSpy: the companies allowed a LinkedIn/Indeed search this run
 
 
 def merge_aggregator(c, board_jobs):
@@ -253,6 +280,8 @@ def merge_aggregator(c, board_jobs):
     scope = (os.environ.get("JOBSEARCH_SCOPE") or "untracked")
     if scope != "all" and board_jobs is not None:
         return board_jobs, None
+    if SEARCH_ALLOWED is not None and c["name"] not in SEARCH_ALLOWED:
+        return board_jobs, None   # its turn comes on a later run
     try:
         extra = jobsearch(c["name"])
     except Exception as e:
@@ -312,6 +341,15 @@ def main():
     today = dt.date.today().isoformat()
 
     todo = [c for c in companies if not a.only or a.only.lower() in c["name"].lower()]
+    global SEARCH_ALLOWED
+    if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy":
+        # JobSpy can only search a limited number of companies per run without being blocked,
+        # so take turns: the companies searched longest ago (or never) go first.
+        scope = (os.environ.get("JOBSEARCH_SCOPE") or "untracked")
+        cap = int((os.environ.get("JOBSPY_MAX_COMPANIES") or "75") or 0) or len(todo)
+        wants = [c for c in todo if scope == "all" or not c.get("ats") or c["ats"].get("platform") not in ADAPTERS]
+        wants.sort(key=lambda c: prev.get("companies", {}).get(c["name"], {}).get("searched", ""))
+        SEARCH_ALLOWED = {c["name"] for c in wants[:cap]}
     results = {}
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         for name, jobs, err in ex.map(crawl_company, todo):
@@ -328,9 +366,13 @@ def main():
         old = prev.get("companies", {}).get(name, {})
         old_by_url = {j["url"]: j for j in old.get("jobs", [])}
         entry = {"checked": today, "error": err}
+        searched = SEARCH_ALLOWED is None or name in SEARCH_ALLOWED
+        if old.get("searched") or searched:
+            entry["searched"] = today if searched and (os.environ.get("JOBSEARCH_PROVIDER") or "") else old.get("searched", "")
         if jobs is None:
-            # keep last good list if the board failed this week
-            entry["jobs"] = old.get("jobs", [])
+            # keep last good list if the board failed this week. Drop LinkedIn/Indeed listings saved
+            # before the employer name was recorded: an earlier name match was too loose.
+            entry["jobs"] = [j for j in old.get("jobs", []) if j.get("source") != "aggregator" or j.get("employer")]
             entry["last_ok"] = old.get("last_ok")
         else:
             for j in jobs:
