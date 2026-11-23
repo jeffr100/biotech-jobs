@@ -199,7 +199,7 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
         <label class="sw"><input type="checkbox" data-t="large" checked><span>Large companies<small>About 1,000+ employees</small></span></label>
         <label class="sw"><input type="checkbox" data-t="small" checked><span>Startups and mid-size</span></label>
       </div>
-      <div class="fgroup"><h3>Where the job came from</h3>
+      <div class="fgroup" id="srcgroup"><h3>Where the job came from</h3>
         <label class="sw"><input type="checkbox" data-t="board" checked><span>Company career pages</span></label>
         <label class="sw"><input type="checkbox" data-t="aggregator" checked><span>Indeed, LinkedIn and Google Jobs</span></label>
         <label class="sw"><input type="checkbox" id="onlyhere"><span>Only jobs not on LinkedIn or Indeed<small id="onlyhere-note">Needs the LinkedIn/Indeed check</small></span></label>
@@ -335,8 +335,7 @@ function load(d){
   }
   COS=(d.meta||[]).map(m=>({...m,n:(d.companies[m.name]?.jobs||[]).length}));
   HAS_COV=ALL.some(j=>j.coverage);
-  if(!HAS_COV) $('onlyhere-note').textContent="Turns on after the LinkedIn/Indeed check runs";
-  else $('onlyhere-note').textContent=fmt(ALL.filter(onlyHere).length)+" jobs found only on company pages";
+  $('onlyhere-note').textContent=fmt(ALL.filter(onlyHere).length)+" jobs found only on company pages";
 
   // seniority lane + chips
   const lc={};for(const j of ALL)lc[j.lv]=(lc[j.lv]||0)+1;
@@ -360,7 +359,14 @@ function load(d){
   $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new, ${fmt(c.removed)} removed</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
   const agg=ALL.some(j=>j.from==='aggregator');
   $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the LastRound AI ATS Company Directory (CC BY 4.0). <a href="data/feed.xml">RSS feed of new jobs</a>.`;
-  readHash();renderCos();render();ads();
+  readHash();
+  // Show the job-site switches only when there is something behind them.
+  const liChecked=ALL.some(j=>j.coverage&&j.coverage.linkedin!=null);   // LinkedIn was actually searched
+  const hasAgg=ALL.some(j=>j.from==='aggregator');                      // jobs found on Indeed/LinkedIn/Google
+  if(!liChecked){$('onlyhere').closest('label').style.display='none';S.onlyHere=false;$('onlyhere').checked=false}
+  if(!hasAgg)for(const k of ['aggregator','board'])document.querySelector(`[data-t="${k}"]`).closest('label').style.display='none';
+  if(!liChecked&&!hasAgg)$('srcgroup').style.display='none';
+  renderCos();render();ads();
 }
 
 // A site recorded as null wasn't searched (for example LinkedIn refused the search), so it can't count as "not listed".
