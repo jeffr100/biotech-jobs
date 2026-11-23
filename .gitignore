@@ -1,9 +1,7 @@
-_site/
+*.zip
+.DS_Store
 .netlify/
 __pycache__/
-.DS_Store
-.DS_Store
-.netlify/
-*.zip
+_site/
 update/
 us-biotech-jobs/

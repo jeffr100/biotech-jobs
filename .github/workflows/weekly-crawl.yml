@@ -11,7 +11,7 @@ concurrency: { group: pages, cancel-in-progress: false }
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     environment:
       name: ${{ vars.HOSTING == 'netlify' && 'netlify' || 'github-pages' }}
     env:
@@ -24,6 +24,13 @@ jobs:
       JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
       JOBSPY_MAX_COMPANIES: ${{ secrets.JOBSPY_MAX_COMPANIES }}
       # Optional: newsletter / blog destinations
+      BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+      BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
+      BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
+      BREVO_LIST_DAILY: ${{ vars.BREVO_LIST_DAILY }}
+      BREVO_LIST_WEEKLY: ${{ vars.BREVO_LIST_WEEKLY }}
+      BREVO_LIST_MONTHLY: ${{ vars.BREVO_LIST_MONTHLY }}
+      BREVO_SEND: ${{ vars.BREVO_SEND }}
       BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
       BUTTONDOWN_SEND: ${{ secrets.BUTTONDOWN_SEND }}
       WP_URL: ${{ secrets.WP_URL }}

@@ -39,7 +39,7 @@ from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from usloc import is_us  # noqa: E402
 
-US_ONLY = os.environ.get("US_ONLY", "1") != "0"   # set US_ONLY=0 to keep jobs in every country
+US_ONLY = (os.environ.get("US_ONLY") or "1") != "0"   # set US_ONLY=0 to keep jobs in every country
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -106,7 +106,7 @@ def lever(ats):
         c = j.get("categories") or {}
         posted = ""
         if j.get("createdAt"):
-            posted = dt.datetime.utcfromtimestamp(j["createdAt"] / 1000).strftime("%Y-%m-%d")
+            posted = dt.datetime.fromtimestamp(j["createdAt"] / 1000, dt.timezone.utc).strftime("%Y-%m-%d")
         out.append(job(j.get("text"), c.get("location"), c.get("team") or c.get("department"),
                        j.get("hostedUrl"), posted))
     return out
@@ -188,15 +188,15 @@ def _same_employer(company, employer):
 
 
 def jobsearch(company):
-    provider = os.environ.get("JOBSEARCH_PROVIDER", "").lower()
-    key = os.environ.get("JOBSEARCH_API_KEY", "")
-    country = os.environ.get("JOBSEARCH_COUNTRY", "")
+    provider = (os.environ.get("JOBSEARCH_PROVIDER") or "").lower()
+    key = (os.environ.get("JOBSEARCH_API_KEY") or "")
+    country = (os.environ.get("JOBSEARCH_COUNTRY") or "")
     if not provider or (not key and provider != "jobspy"):
         return None
     import urllib.parse
     out = []
     if provider == "jsearch":
-        url = os.environ.get("JOBSEARCH_URL", "https://api.openwebninja.com/jsearch/search-v2")
+        url = (os.environ.get("JOBSEARCH_URL") or "https://api.openwebninja.com/jsearch/search-v2")
         q = {"query": f'jobs at "{company}"', "page": 1, "num_pages": 1, "date_posted": "month"}
         q["country"] = country or ("us" if US_ONLY else "")
         if not q["country"]:
@@ -239,7 +239,7 @@ def jobsearch(company):
 
 def merge_aggregator(c, board_jobs):
     """Add aggregator jobs that aren't already on the company's own board."""
-    scope = os.environ.get("JOBSEARCH_SCOPE", "untracked")
+    scope = (os.environ.get("JOBSEARCH_SCOPE") or "untracked")
     if scope != "all" and board_jobs is not None:
         return board_jobs, None
     try:
@@ -347,7 +347,7 @@ def main():
         changes.insert(0, {"date": today, "added": len(added), "removed": len(removed),
                            "added_jobs": added[:500], "removed_jobs": removed[:500]})
         json.dump(changes[:52], open(ch_path, "w"), indent=0, ensure_ascii=False)
-    if os.environ.get("JOBSEARCH_PROVIDER") and os.environ.get("COVERAGE_CHECK", "1") != "0":
+    if os.environ.get("JOBSEARCH_PROVIDER") and (os.environ.get("COVERAGE_CHECK") or "1") != "0":
         try:
             import coverage_check
             coverage_check.run(DATA, only_new=os.environ.get("COVERAGE_ALL") != "1")
@@ -379,7 +379,7 @@ def write_site(companies=None):
 def write_feed(jobs, site_url=None, limit=500):
     """RSS feed of jobs first seen in the latest run, for RSS-to-email newsletters."""
     from xml.sax.saxutils import escape
-    site_url = site_url or os.environ.get("SITE_URL", "")
+    site_url = site_url or (os.environ.get("SITE_URL") or "")
     latest = jobs["generated"]
     items = [(n, j) for n, c in jobs["companies"].items() for j in c["jobs"] if j.get("first_seen") == latest]
     first_run = all(j.get("first_seen") == latest for c in jobs["companies"].values() for j in c["jobs"])

@@ -46,12 +46,12 @@ def similar(a, b):
 
 def listings_for(company):
     """Return [(title, city, set_of_sites)] for the company from the job-search API."""
-    provider = os.environ.get("JOBSEARCH_PROVIDER", "").lower()
-    key = os.environ.get("JOBSEARCH_API_KEY", "")
+    provider = (os.environ.get("JOBSEARCH_PROVIDER") or "").lower()
+    key = (os.environ.get("JOBSEARCH_API_KEY") or "")
     out = []
     if provider == "jsearch":
-        url = os.environ.get("JOBSEARCH_URL", "https://api.openwebninja.com/jsearch/search-v2")
-        q = {"query": f'jobs at "{company}"', "page": 1, "num_pages": int(os.environ.get("JSEARCH_PAGES", "3")),
+        url = (os.environ.get("JOBSEARCH_URL") or "https://api.openwebninja.com/jsearch/search-v2")
+        q = {"query": f'jobs at "{company}"', "page": 1, "num_pages": int((os.environ.get("JSEARCH_PAGES") or "3")),
              "country": "us", "date_posted": "all"}
         headers = {"x-api-key": key}
         if "rapidapi" in url:
@@ -81,7 +81,7 @@ def listings_for(company):
             out.append((j.get("title"), (j.get("location") or "").lower(), pubs))
     elif provider == "jobspy":
         import jobspy_source
-        for j in jobspy_source.listings(company, os.environ.get("JOBSEARCH_COUNTRY", "us")):
+        for j in jobspy_source.listings(company, (os.environ.get("JOBSEARCH_COUNTRY") or "us")):
             if crawl._same_employer(company, j["company"]):
                 out.append((j["title"], j["location"].lower(), {j["site"].lower(), j["url"].lower()}))
     return out
@@ -89,12 +89,12 @@ def listings_for(company):
 
 def listings_for_job(company, title):
     """Targeted search for one job: '<title> <company>'. Returns [(title, city, set_of_sites)]."""
-    provider = os.environ.get("JOBSEARCH_PROVIDER", "").lower()
-    key = os.environ.get("JOBSEARCH_API_KEY", "")
-    country = os.environ.get("JOBSEARCH_COUNTRY", "us")
+    provider = (os.environ.get("JOBSEARCH_PROVIDER") or "").lower()
+    key = (os.environ.get("JOBSEARCH_API_KEY") or "")
+    country = (os.environ.get("JOBSEARCH_COUNTRY") or "us")
     out = []
     if provider == "jsearch":
-        url = os.environ.get("JOBSEARCH_URL", "https://api.openwebninja.com/jsearch/search-v2")
+        url = (os.environ.get("JOBSEARCH_URL") or "https://api.openwebninja.com/jsearch/search-v2")
         q = {"query": f"{title} at {company}", "page": 1, "num_pages": 1, "country": country, "date_posted": "all"}
         headers = {"x-api-key": key}
         if "rapidapi" in url:
@@ -138,6 +138,9 @@ def _mark(j, found, today, method):
 
 
 def run(data_dir, only_new=True):
+    if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy":
+        import jobspy_source
+        jobspy_source._count = 0   # the LinkedIn/Indeed check gets its own allowance of company searches
     path = os.path.join(data_dir, "jobs.json")
     jobs = json.load(open(path))
     today = dt.date.today().isoformat()
@@ -168,9 +171,10 @@ def per_job(jobs, today):
     company's first few dozen listings, so large employers' jobs are often missed there.
     COVERAGE_PER_JOB=0 turns this off; COVERAGE_PER_JOB_MAX caps searches per run (default 200;
     unchecked jobs are picked up on later runs, newest first)."""
-    if os.environ.get("COVERAGE_PER_JOB", "1") == "0":
+    if (os.environ.get("COVERAGE_PER_JOB") or "1") == "0":
         return
-    cap = int(os.environ.get("COVERAGE_PER_JOB_MAX", "200") or 0)
+    default_cap = "100" if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy" else "200"
+    cap = int((os.environ.get("COVERAGE_PER_JOB_MAX") or default_cap) or 0)
     todo = []
     for name, c in jobs["companies"].items():
         for j in c["jobs"]:
