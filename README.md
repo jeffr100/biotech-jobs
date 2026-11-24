@@ -191,3 +191,31 @@ Supported boards are Greenhouse, Lever, Ashby, SmartRecruiters and Workday. To a
   - Wikidata (CC0);
   - industry sponsors of trials on ClinicalTrials.gov.
 - **Jobs.** Each company's public job board.
+
+## Personal job alerts
+
+Visitors can set filters and click **Email me these jobs**. Their filters (the text after `#` in the
+page address) are saved on their Brevo contact, and each crawl emails them only the new jobs that
+match, daily, weekly or monthly. Every alert email has a "Stop this alert" link.
+
+Setup (once):
+1. In Brevo, two text contact attributes: `BIO_ALERT` and `BIO_ALERT_FREQ`; a list for alert sign-ups.
+2. A Brevo sign-up form that puts contacts in that list and has the email field plus the two attributes.
+   Copy its address (Share > HTML) into `site.config.js` > `newsletter.alerts.form`.
+3. Repository variable `BREVO_ALERT_LIST` = that list's ID (currently 12). `BREVO_SEND=1` sends for real.
+
+Alert emails are sent one per person through Brevo's transactional email, which shares the free plan's
+300-a-day limit with the digests; `ALERT_MAX` (default 200) caps alert emails per run.
+
+## Checking LinkedIn reliably (paid proxy, a few dollars a month)
+
+LinkedIn refuses searches from GitHub's servers, so without help jobs show "LinkedIn not checked".
+Routing only the LinkedIn searches through a rotating residential proxy fixes this; Indeed and Google
+are still searched directly, which keeps the proxy traffic small.
+
+1. Buy a rotating residential proxy plan billed per GB (for example Webshare, about $3.50 for 1 GB).
+2. Copy its connection string, `username:password@host:port`.
+3. Repository secret `JOBSPY_PROXIES` = that string; variable `JOBSPY_SITES` = `indeed,linkedin`
+   (and secret `JOBSEARCH_PROVIDER` = `jobspy` if it isn't set).
+
+Optional: `JOBSPY_PROXY_SITES` lists the sites sent through the proxy (default `linkedin`).

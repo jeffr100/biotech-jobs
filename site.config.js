@@ -14,6 +14,9 @@ window.SITE_CONFIG = {
       weekly:  "https://8361b465.sibforms.com/serve/MUIFAAGT9UvXfAzDpNBE1dvu9lftqKC_ZI-JMXSwWdDbm-0O2586ELUlu2cTGROAEv0Q0TTte8VIKMArWsO23fQ1iX9jabYBxBGvvIt0fqJ7PA4EQJaVhxRQBYsDmVO2zSlBRhHb5KTb52HL9KDxQqE6NEokF_6HHFNnFm3EbGMbaeosiqZ5tPf9GWQ4lFTVWJ1lpaczSgd8hLuVfA",
       monthly: "https://8361b465.sibforms.com/serve/MUIFAPLV9CS1D_3Bv6wu079sJWwNWkdKOEbpjTeW-RDGt9XZyAs-n64R6j4bAv5nNhlsUaqzxV5rKQrnK1vwCybGeNiqZrCkN9aS0YKUHBZpFkyJrZnJSG1vviUrNuI_rBRCTKXITzMzjTRAuya_RvziVbFualkQg3q63clctDWBRi0KgF8F3c07H1qrSF21iGUUI3WHHSdinHZn_g"
     },
+    // Personal job alerts: a Brevo form that saves the visitor's filters on their contact.
+    // Fill in the form address once that form exists (see crawler/alerts.py).
+    alerts: { form: "", filtersField: "BIO_ALERT", freqField: "BIO_ALERT_FREQ" },
     // Buttondown instead: provider "buttondown" and your username here
     username: "",
     // Another service: provider "custom", its form address and field names

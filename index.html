@@ -133,6 +133,17 @@ select{width:100%;height:40px;border:1.5px solid var(--line);background:var(--pa
 .wide h2{font:800 26px/1.1 var(--display);margin:0 0 8px;letter-spacing:-.015em}
 .wide p{margin:0;color:var(--mut)}
 
+/* job alerts */
+.alertbtn{height:36px;padding:0 14px;border-radius:999px;border:1.5px solid var(--eos);background:var(--card);color:var(--eos);font-weight:600;cursor:pointer}
+.alertbtn:hover{background:var(--eos);color:#fff}
+dialog{border:0;border-radius:var(--r2);padding:0;max-width:440px;width:calc(100% - 32px);background:transparent;color:var(--ink)}
+dialog::backdrop{background:rgba(20,12,40,.45)}
+dialog .subscribe{margin:0;box-shadow:0 18px 50px rgba(20,12,40,.3)}
+dialog #alertsum{color:var(--ink);font-size:14.5px}
+dialog #alertsum b{color:var(--hem)}
+dialog .cancel{background:transparent;color:var(--mut);margin-top:6px;height:34px}
+dialog .cancel:hover{color:var(--ink);filter:none}
+
 /* lower sections */
 .lower{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:32px;padding:34px 0 10px;border-top:1px solid var(--line)}
 .lower h2{font:700 22px var(--display);margin:0 0 12px}
@@ -225,7 +236,7 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
   <main>
     <div class="rhead">
       <h2 id="count">Loading jobs…</h2>
-      <div class="r"><span id="gen"></span>
+      <div class="r"><button class="alertbtn" id="alertbtn" type="button" hidden>Email me these jobs</button><span id="gen"></span>
         <select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="co">Company A–Z</option><option value="title">Title A–Z</option></select></div>
     </div>
     <div class="dates" id="dates" role="group" aria-label="Posted"></div>
@@ -269,6 +280,22 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
   </section>
 </div>
 <footer><div class="wrap" id="foot"></div></footer>
+
+<dialog id="alertdlg" aria-labelledby="alerttitle">
+  <form class="subscribe" id="alertform">
+    <h3 id="alerttitle">Email me these jobs</h3>
+    <p id="alertsum"></p>
+    <input type="email" name="email" required placeholder="you@example.com" aria-label="Email address">
+    <div class="freq" role="radiogroup" aria-label="How often" id="alertfreq">
+      <label><input type="radio" name="afreq" value="daily">Daily</label>
+      <label><input type="radio" name="afreq" value="weekly" checked>Weekly</label>
+      <label><input type="radio" name="afreq" value="monthly">Monthly</label>
+    </div>
+    <button type="submit" id="alertsave">Save alert</button>
+    <button type="button" class="cancel" id="alertcancel">Close</button>
+    <div class="msg" role="status"></div>
+  </form>
+</dialog>
 
 <script>
 {
@@ -433,8 +460,9 @@ function renderCos(){
 }
 
 /* ---------- URL hash keeps filters shareable ---------- */
-function writeHash(){const p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.loc)p.set('state',S.loc);if(S.dt)p.set('posted',S.dt);if(S.levels.size)p.set('level',[...S.levels].join(','));if(S.fields.size)p.set('field',[...S.fields].join(','));if(S.onlyHere)p.set('only','1');const h=p.toString();history.replaceState(null,'',h?'#'+h:location.pathname+location.search)}
-function readHash(){const p=new URLSearchParams(location.hash.slice(1));S.q=p.get('q')||'';$('q').value=S.q;S.loc=p.get('state')||'';$('loc').value=S.loc;S.dt=p.get('posted')||'';S.levels=new Set((p.get('level')||'').split(',').filter(k=>LV[k]));S.fields=new Set((p.get('field')||'').split(',').filter(Boolean).map(Number));S.onlyHere=p.get('only')==='1';$('onlyhere').checked=S.onlyHere}
+function hashStr(){const p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.loc)p.set('state',S.loc);if(S.dt)p.set('posted',S.dt);if(S.levels.size)p.set('level',[...S.levels].join(','));if(S.fields.size)p.set('field',[...S.fields].join(','));if(S.onlyHere)p.set('only','1');if(S.tog.large!==S.tog.small)p.set('size',S.tog.large?'large':'small');return p.toString()}
+function writeHash(){const h=hashStr();history.replaceState(null,'',h?'#'+h:location.pathname+location.search)}
+function readHash(){const p=new URLSearchParams(location.hash.slice(1));S.q=p.get('q')||'';$('q').value=S.q;S.loc=p.get('state')||'';$('loc').value=S.loc;S.dt=p.get('posted')||'';S.levels=new Set((p.get('level')||'').split(',').filter(k=>LV[k]));S.fields=new Set((p.get('field')||'').split(',').filter(Boolean).map(Number));S.onlyHere=p.get('only')==='1';$('onlyhere').checked=S.onlyHere;const sz=p.get('size');if(sz==='large'||sz==='small'){S.tog.large=sz==='large';S.tog.small=sz==='small';for(const k of ['large','small'])document.querySelector(`[data-t="${k}"]`).checked=S.tog[k]}}
 
 /* ---------- events ---------- */
 const go=()=>{shown=60;render()};
@@ -481,6 +509,39 @@ for(const form of document.querySelectorAll('[data-sub]')){
     try{await fetch(tg.url,{method:'POST',body:fd,mode:'no-cors'});msg.style.color='var(--ok)';msg.textContent=`Thanks, you're signed up for ${freq} emails.`;form.reset()}
     catch(err){msg.style.color='var(--eos)';msg.textContent='Couldn\'t reach the sign-up service. Check your connection and try again.'}
   });
+}
+
+/* ---------- personal job alerts ---------- */
+// The alert is the filter text from the address bar (after #). The crawler emails each subscriber
+// only the new jobs that match it; see crawler/alerts.py.
+const AL=NL.alerts||{};
+const STOP=new URLSearchParams(location.hash.slice(1)).get('stopalert');
+function alertSummary(){const parts=[...S.levels].map(k=>LV[k].name).concat([...S.fields].map(i=>FIELDS[i].n));
+  if(S.loc)parts.push(S.loc==='remote'?'Remote':(SN[S.loc]||S.loc));if(S.q.trim())parts.push('“'+S.q.trim()+'”');
+  if(S.tog.large!==S.tog.small)parts.push(S.tog.large?'large companies':'startups and mid-size');if(S.onlyHere)parts.push('not on LinkedIn or Indeed');return parts}
+function alertPost(email,filters,freq){const fd=new FormData();fd.append('EMAIL',email);fd.append(AL.filtersField,filters);fd.append(AL.freqField,freq);fd.append('email_address_check','');fd.append('locale','en');return fetch(AL.form,{method:'POST',body:fd,mode:'no-cors'})}
+function openAlert(stop){
+  const f=$('alertform'),msg=f.querySelector('.msg'),parts=stop?[]:alertSummary();msg.textContent='';
+  f.dataset.mode=stop?'stop':'save';$('alertfreq').hidden=!!stop;
+  $('alerttitle').textContent=stop?'Stop your job alert':'Email me these jobs';
+  $('alertsum').innerHTML=stop?'You will stop getting job-alert emails from this site. Daily, weekly or monthly digests you signed up for separately are not affected.'
+    :parts.length?'New jobs matching <b>'+parts.map(esc).join('</b> · <b>')+'</b>, as they appear.':'Choose some filters first (a seniority level, field, location or search words), then save them here as an alert.';
+  $('alertsave').textContent=stop?'Stop my alert':'Save alert';$('alertsave').disabled=!stop&&!parts.length;
+  if(stop)f.querySelector('[type=email]').value=stop;
+  $('alertdlg').showModal();
+}
+if(AL.form&&AL.filtersField&&AL.freqField){
+  $('alertbtn').hidden=false;$('alertbtn').addEventListener('click',()=>openAlert(null));
+  $('alertcancel').addEventListener('click',()=>$('alertdlg').close());
+  $('alertform').addEventListener('submit',async e=>{
+    e.preventDefault();const f=e.target,msg=f.querySelector('.msg'),email=f.querySelector('[type=email]').value.trim(),stop=f.dataset.mode==='stop';
+    const freq=(f.querySelector('[name=afreq]:checked')||{}).value||'weekly';
+    msg.style.color='var(--mut)';msg.textContent='Saving…';
+    try{await alertPost(email,stop?'stop':hashStr(),stop?'off':freq);msg.style.color='var(--ok)';
+      msg.textContent=stop?'Done. Your job alert is off.':`Saved. You'll get ${freq} emails when new jobs match. To change it later, set new filters and save again with the same email.`}
+    catch(err){msg.style.color='var(--eos)';msg.textContent='Couldn\'t reach the sign-up service. Check your connection and try again.'}
+  });
+  if(STOP)setTimeout(()=>openAlert(STOP),0);
 }
 
 /* ---------- Google AdSense ---------- */
