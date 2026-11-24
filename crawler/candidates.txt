@@ -1,0 +1,395 @@
+# US life-science companies: name|website|large (optional)
+# The 'Find more companies' workflow finds their job boards; tracked companies get the website from here.
+Illumina|illumina.com|large
+Pacific Biosciences|pacb.com|large
+Oxford Nanopore Technologies|nanoporetech.com|large
+Element Biosciences|elementbiosciences.com
+Ultima Genomics|ultimagenomics.com
+Singular Genomics|singulargenomics.com
+Twist Bioscience|twistbioscience.com|large
+Ginkgo Bioworks|ginkgobioworks.com|large
+Guardant Health|guardanthealth.com|large
+Natera|natera.com|large
+Exact Sciences|exactsciences.com|large
+GRAIL|grail.com|large
+Foundation Medicine|foundationmedicine.com|large
+Tempus AI|tempus.com|large
+Caris Life Sciences|carislifesciences.com|large
+Invitae|invitae.com
+Myriad Genetics|myriad.com|large
+Veracyte|veracyte.com|large
+NeoGenomics|neogenomics.com|large
+Personalis|personalis.com
+Freenome|freenome.com
+Delfi Diagnostics|delfidiagnostics.com
+Billiontoone|billiontoone.com
+Color Health|color.com
+GeneDx|genedx.com|large
+Ambry Genetics|ambrygen.com
+Fulgent Genetics|fulgentgenetics.com
+CareDx|caredx.com
+Castle Biosciences|castlebiosciences.com
+Biodesix|biodesix.com
+Exagen|exagen.com
+Labcorp|labcorp.com|large
+Quest Diagnostics|questdiagnostics.com|large
+Thermo Fisher Scientific|thermofisher.com|large
+Agilent Technologies|agilent.com|large
+Bio-Rad Laboratories|bio-rad.com|large
+Danaher|danaher.com|large
+Beckman Coulter|beckmancoulter.com|large
+Cepheid|cepheid.com|large
+Integrated DNA Technologies|idtdna.com|large
+Revvity|revvity.com|large
+Waters Corporation|waters.com|large
+Bruker|bruker.com|large
+Standard BioTools|standardbio.com
+10x Genomics|10xgenomics.com|large
+NanoString Technologies|nanostring.com
+Akoya Biosciences|akoyabio.com
+Vizgen|vizgen.com
+Seer|seer.bio
+Quantum-Si|quantum-si.com
+Nautilus Biotechnology|nautilus.bio
+Olink|olink.com
+SomaLogic|somalogic.com
+Berkeley Lights|phenomex.com
+Codex DNA|telesisbio.com
+New England Biolabs|neb.com|large
+Promega|promega.com|large
+Qiagen|qiagen.com|large
+Azenta Life Sciences|azenta.com|large
+Charles River Laboratories|criver.com|large
+Inotiv|inotiv.com
+Labcorp Drug Development|labcorp.com
+IQVIA|iqvia.com|large
+Medpace|medpace.com|large
+ICON plc|iconplc.com|large
+Parexel|parexel.com|large
+Syneos Health|syneoshealth.com|large
+Fortrea|fortrea.com|large
+PPD|ppd.com|large
+Catalent|catalent.com|large
+Lonza|lonza.com|large
+Fujifilm Diosynth Biotechnologies|fujifilmdiosynth.com|large
+Samsung Biologics|samsungbiologics.com
+National Resilience|resilience.com|large
+Amgen|amgen.com|large
+Gilead Sciences|gilead.com|large
+Regeneron|regeneron.com|large
+Vertex Pharmaceuticals|vrtx.com|large
+Biogen|biogen.com|large
+Moderna|modernatx.com|large
+BioNTech|biontech.com|large
+Genentech|gene.com|large
+Pfizer|pfizer.com|large
+Merck|merck.com|large
+Bristol Myers Squibb|bms.com|large
+Johnson & Johnson Innovative Medicine|jnj.com|large
+AbbVie|abbvie.com|large
+Eli Lilly|lilly.com|large
+Novartis|novartis.com|large
+Sanofi|sanofi.com|large
+AstraZeneca|astrazeneca.com|large
+GSK|gsk.com|large
+Takeda|takeda.com|large
+Novo Nordisk|novonordisk-us.com|large
+Bayer|bayer.com|large
+Boehringer Ingelheim|boehringer-ingelheim.com|large
+Daiichi Sankyo|daiichisankyo.com|large
+Astellas|astellas.com|large
+Alnylam Pharmaceuticals|alnylam.com|large
+BioMarin|biomarin.com|large
+Incyte|incyte.com|large
+Neurocrine Biosciences|neurocrine.com|large
+Sarepta Therapeutics|sarepta.com|large
+Ionis Pharmaceuticals|ionis.com|large
+Exelixis|exelixis.com|large
+United Therapeutics|unither.com|large
+Jazz Pharmaceuticals|jazzpharma.com|large
+Insmed|insmed.com
+Madrigal Pharmaceuticals|madrigalpharma.com
+Arcus Biosciences|arcusbio.com
+Recursion Pharmaceuticals|recursion.com
+Insitro|insitro.com
+Generate Biomedicines|generatebiomedicines.com
+Isomorphic Labs|isomorphiclabs.com
+Xaira Therapeutics|xaira.com
+Chai Discovery|chaidiscovery.com
+EvolutionaryScale|evolutionaryscale.ai
+Profluent|profluent.bio
+Absci|absci.com
+Inceptive|inceptive.life
+Iambic Therapeutics|iambic.ai
+Genesis Therapeutics|genesistherapeutics.ai
+Terray Therapeutics|terraytx.com
+Enveda Biosciences|envedabio.com
+Atomwise|atomwise.com
+Schrodinger|schrodinger.com
+Certara|certara.com
+Benchling|benchling.com
+Dotmatics|dotmatics.com
+DNAnexus|dnanexus.com
+Seven Bridges|velsera.com
+Velsera|velsera.com
+Form Bio|formbio.com
+Latch Bio|latch.bio
+Deep Genomics|deepgenomics.com
+Verily|verily.com|large
+Calico Life Sciences|calicolabs.com
+Altos Labs|altoslabs.com
+Arc Institute|arcinstitute.org
+Chan Zuckerberg Biohub|czbiohub.org
+Broad Institute|broadinstitute.org|large
+Jackson Laboratory|jax.org|large
+Fred Hutchinson Cancer Center|fredhutch.org|large
+Dana-Farber Cancer Institute|dana-farber.org|large
+Memorial Sloan Kettering|mskcc.org|large
+St. Jude Children's Research Hospital|stjude.org|large
+New York Genome Center|nygenome.org
+Cold Spring Harbor Laboratory|cshl.edu
+Salk Institute|salk.edu
+Scripps Research|scripps.edu|large
+Allen Institute|alleninstitute.org
+HudsonAlpha Institute for Biotechnology|hudsonalpha.org
+Translational Genomics Research Institute|tgen.org
+Rockefeller University|rockefeller.edu
+Whitehead Institute|wi.mit.edu
+Howard Hughes Medical Institute|hhmi.org
+Stowers Institute|stowers.org
+Van Andel Institute|vai.org
+Beam Therapeutics|beamtx.com
+Prime Medicine|primemedicine.com
+Intellia Therapeutics|intelliatx.com
+CRISPR Therapeutics|crisprtx.com
+Editas Medicine|editasmedicine.com
+Verve Therapeutics|vervetx.com
+Caribou Biosciences|cariboubio.com
+Mammoth Biosciences|mammoth.bio
+Metagenomi|metagenomi.co
+Arbor Biotechnologies|arbor.bio
+Tessera Therapeutics|tesseratherapeutics.com
+Chroma Medicine|nvelop.com
+Tune Therapeutics|tunetx.com
+Sana Biotechnology|sana.com
+Lyell Immunopharma|lyell.com
+Allogene Therapeutics|allogene.com
+Arcellx|arcellx.com
+Kite Pharma|kitepharma.com|large
+Legend Biotech|legendbiotech.com
+Cargo Therapeutics|cargo-tx.com
+Cabaletta Bio|cabalettabio.com
+Kyverna Therapeutics|kyvernatx.com
+Fate Therapeutics|fatetherapeutics.com
+Century Therapeutics|centurytx.com
+Nkarta|nkartatx.com
+Vor Bio|vorbio.com
+Orca Bio|orcabio.com
+Cellares|cellares.com
+Ultragenyx|ultragenyx.com|large
+Rocket Pharmaceuticals|rocketpharma.com
+Solid Biosciences|solidbio.com
+Dyno Therapeutics|dynotx.com
+4D Molecular Therapeutics|4dmoleculartherapeutics.com
+Regenxbio|regenxbio.com
+Avidity Biosciences|aviditybiosciences.com
+Dyne Therapeutics|dyne-tx.com
+Arrowhead Pharmaceuticals|arrowheadpharma.com
+Wave Life Sciences|wavelifesciences.com
+Stoke Therapeutics|stoketherapeutics.com
+Denali Therapeutics|denalitherapeutics.com
+Annexon Biosciences|annexonbio.com
+Praxis Precision Medicines|praxismedicines.com
+Cerevel Therapeutics|cerevel.com
+Karuna Therapeutics|karunatx.com
+Revolution Medicines|revmed.com
+Relay Therapeutics|relaytx.com
+Nuvalent|nuvalent.com
+Kymera Therapeutics|kymeratx.com
+Arvinas|arvinas.com
+C4 Therapeutics|c4therapeutics.com
+Monte Rosa Therapeutics|monterosatx.com
+Scorpion Therapeutics|scorpiontx.com
+Erasca|erasca.com
+Mirati Therapeutics|mirati.com
+Blueprint Medicines|blueprintmedicines.com
+Deciphera|deciphera.com
+IDEAYA Biosciences|ideayabio.com
+Repare Therapeutics|reparerx.com
+Tango Therapeutics|tangotx.com
+Zentalis|zentalis.com
+Immunocore|immunocore.com
+Iovance Biotherapeutics|iovance.com
+Xencor|xencor.com
+Zymeworks|zymeworks.com
+Mersana Therapeutics|mersana.com
+Sutro Biopharma|sutrobio.com
+ADC Therapeutics|adctherapeutics.com
+Bicycle Therapeutics|bicycletherapeutics.com
+Janux Therapeutics|januxrx.com
+Vir Biotechnology|vir.bio
+Adimab|adimab.com
+Abcellera|abcellera.com
+Generation Bio|generationbio.com
+ReNAgade Therapeutics|renagadetx.com
+Orna Therapeutics|ornatx.com
+Strand Therapeutics|strandtx.com
+Moonwalk Biosciences|moonwalkbio.com
+Flagship Pioneering|flagshippioneering.com
+ElevateBio|elevate.bio
+Ring Therapeutics|ringtx.com
+Laronde|sail.bio
+Cellarity|cellarity.com
+Inzen Therapeutics|inzentx.com
+Apogee Therapeutics|apogeetherapeutics.com
+Septerna|septerna.com
+Alumis|alumis.com
+Third Harmonic Bio|thirdharmonicbio.com
+Mirador Therapeutics|miradortx.com
+Odyssey Therapeutics|odysseytx.com
+Neumora Therapeutics|neumoratx.com
+Rapport Therapeutics|rapportrx.com
+Kailera Therapeutics|kailera.com
+Metsera|metsera.com
+Structure Therapeutics|structuretx.com
+Viking Therapeutics|vikingtherapeutics.com
+Verona Pharma|veronapharma.com
+Cytokinetics|cytokinetics.com
+Tenaya Therapeutics|tenayatherapeutics.com
+Lexeo Therapeutics|lexeotx.com
+Mural Oncology|muraloncology.com
+Corbus Pharmaceuticals|corbuspharma.com
+Sionna Therapeutics|sionnatx.com
+Upstream Bio|upstreambio.com
+Bicara Therapeutics|bicara.com
+Zenas BioPharma|zenasbio.com
+MBX Biosciences|mbxbio.com
+CG Oncology|cgoncology.com
+ArriVent Biopharma|arrivent.com
+Boundless Bio|boundlessbio.com
+Mendel AI|mendel.ai
+Owkin|owkin.com
+PathAI|pathai.com
+Paige|paige.ai
+Aspira Women's Health|aspirawh.com
+Lucid Diagnostics|luciddx.com
+Bionano Genomics|bionano.com
+Nucleix|nucleix.com
+Mission Bio|missionbio.com
+Parse Biosciences|parsebiosciences.com
+Scale Biosciences|scale.bio
+Fluent BioSciences|fluentbio.com
+Curio Bioscience|curiobioscience.com
+Complete Genomics|completegenomics.com
+Bioskryb Genomics|bioskryb.com
+Watchmaker Genomics|watchmakergenomics.com
+Inscripta|inscripta.com
+Synthego|synthego.com
+Ansa Biotechnologies|ansabio.com
+DNA Script|dnascript.com
+Elegen|elegenbio.com
+GenScript|genscript.com
+Addgene|addgene.org
+Zymo Research|zymoresearch.com
+Takara Bio USA|takarabio.com
+Cell Signaling Technology|cellsignal.com|large
+Abcam|abcam.com
+BioLegend|biolegend.com
+MilliporeSigma|sigmaaldrich.com|large
+Corning Life Sciences|corning.com|large
+Sartorius|sartorius.com|large
+Repligen|repligen.com
+Avantor|avantorsciences.com|large
+Cytiva|cytivalifesciences.com|large
+Hologic|hologic.com|large
+BD Biosciences|bd.com|large
+Roche Diagnostics|diagnostics.roche.com|large
+Abbott Laboratories|abbott.com|large
+Siemens Healthineers|siemens-healthineers.com|large
+bioMerieux|biomerieux.com|large
+Werfen|werfen.com
+Sysmex America|sysmex.com
+QuidelOrtho|quidelortho.com|large
+Bio-Techne|bio-techne.com|large
+OraSure Technologies|orasure.com
+Cue Health|cuehealth.com
+Talis Biomedical|talisbio.com
+Mammoth Diagnostics|mammoth.bio
+Karius|kariusdx.com
+Day Zero Diagnostics|dayzerodiagnostics.com
+Biofire Diagnostics|biofiredx.com
+T2 Biosystems|t2biosystems.com
+Sherlock Biosciences|sherlock.bio
+Inflammatix|inflammatix.com
+Prenuvo|prenuvo.com
+Function Health|functionhealth.com
+Everlywell|everlywell.com
+Nebula Genomics|nebula.org
+Helix|helix.com
+Gencove|gencove.com
+Regeneron Genetics Center|regeneron.com
+Variantyx|variantyx.com
+Fabric Genomics|fabricgenomics.com
+Genoox|franklin.genoox.com
+Emedgene|emedgene.com
+SOPHiA Genetics|sophiagenetics.com
+Golden Helix|goldenhelix.com
+Pillar Biosciences|pillarbiosci.com
+Swift Biosciences|swiftbiosci.com
+Twinstrand Biosciences|twinstrandbio.com
+Asuragen|asuragen.com
+Burning Rock|brbiotech.com
+Precipio|precipiodx.com
+Interpace Biosciences|interpacebio.com
+Oncocyte|oncocyte.com
+Agendia|agendia.com
+Biocept|biocept.com
+Lunit|lunit.io
+Strata Oncology|strataoncology.com
+Champions Oncology|championsoncology.com
+Crown Bioscience|crownbio.com
+WuXi AppTec|wuxiapptec.com|large
+Evotec|evotec.com|large
+Eurofins Scientific|eurofins.com|large
+Frontage Laboratories|frontagelab.com
+BioAgilytix|bioagilytix.com
+Q2 Solutions|q2labsolutions.com|large
+Precision for Medicine|precisionformedicine.com
+Worldwide Clinical Trials|worldwide.com
+Premier Research|premier-research.com
+Veeva Systems|veeva.com|large
+Medidata|medidata.com|large
+Flatiron Health|flatiron.com
+Komodo Health|komodohealth.com
+Aetion|aetion.com
+Science 37|science37.com
+Thread|threadresearch.com
+Saama|saama.com
+Elucidata|elucidata.io
+Genialis|genialis.com
+Rancho Biosciences|ranchobiosciences.com
+Basepair|basepairtech.com
+Strand Life Sciences|strandls.com
+Partek|partek.com
+Genedata|genedata.com
+CDD Vault|collaborativedrug.com
+BenevolentAI|benevolent.com
+Valo Health|valohealth.com
+Treeline Biosciences|treeline.bio
+Dewpoint Therapeutics|dewpointx.com
+Vividion Therapeutics|vividion.com
+Lilly Gateway Labs|lilly.com
+Bayer Crop Science|cropscience.bayer.com|large
+Corteva Agriscience|corteva.com|large
+Pivot Bio|pivotbio.com
+Inari Agriculture|inari.com
+Benson Hill|bensonhill.com
+Zymergen|zymergen.com
+Amyris|amyris.com
+Novonesis|novonesis.com|large
+Perfect Day|perfectday.com
+Arzeda|arzeda.com
+Cradle|cradle.bio
+Manifold Bio|manifold.bio
+Asimov|asimov.com
+Colossal Biosciences|colossal.com

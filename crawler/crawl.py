@@ -297,8 +297,55 @@ def merge_aggregator(c, board_jobs):
     return merged, None
 
 
+def _place(*parts):
+    return ", ".join(p for p in parts if p and isinstance(p, str))
+
+
+def workable(ats):
+    # Workable's public careers widget: {"name": ..., "jobs": [...]}
+    d = http_json(f"https://apply.workable.com/api/v1/widget/accounts/{ats['slug']}")
+    out = []
+    for j in d.get("jobs", []):
+        locs = j.get("locations") or [{"city": j.get("city"), "region": j.get("state"), "country": j.get("country")}]
+        loc = "; ".join(_place(l.get("city"), l.get("region"), l.get("country")) for l in locs if l) or \
+            ("Remote" if j.get("telecommuting") else "")
+        link = j.get("url") or j.get("shortlink") or \
+            (f"https://apply.workable.com/{ats['slug']}/j/{j['shortcode']}/" if j.get("shortcode") else "")
+        out.append(job(j.get("title"), loc, j.get("department"), link, j.get("published_on") or j.get("created_at")))
+    return out
+
+
+def bamboohr(ats):
+    # BambooHR careers page data: {"result": [{"id", "jobOpeningName", "location": {...}, ...}]}
+    d = http_json(f"https://{ats['slug']}.bamboohr.com/careers/list", headers={"Accept": "application/json"})
+    out = []
+    for j in d.get("result", []):
+        l = j.get("atsLocation") or j.get("location") or {}
+        loc = _place(l.get("city"), l.get("state") or l.get("province"), l.get("country")) or \
+            ("Remote" if j.get("isRemote") else "")
+        out.append(job(j.get("jobOpeningName"), loc, j.get("departmentLabel"),
+                       f"https://{ats['slug']}.bamboohr.com/careers/{j.get('id')}", ""))
+    return out
+
+
+def recruitee(ats):
+    d = http_json(f"https://{ats['slug']}.recruitee.com/api/offers/")
+    return [job(j.get("title"), j.get("location") or _place(j.get("city"), j.get("state_name"), j.get("country")),
+                j.get("department"), j.get("careers_url"), j.get("published_at")) for j in d.get("offers", [])]
+
+
+def breezy(ats):
+    d = http_json(f"https://{ats['slug']}.breezy.hr/json")
+    out = []
+    for j in d if isinstance(d, list) else []:
+        l = j.get("location") or {}
+        loc = l.get("name") or _place(l.get("city"), (l.get("state") or {}).get("name"), (l.get("country") or {}).get("name"))
+        out.append(job(j.get("name"), loc, j.get("department"), j.get("url"), j.get("published_date")))
+    return out
+
+
 ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
-            "smartrecruiters": smartrecruiters, "workday": workday}
+            "smartrecruiters": smartrecruiters, "workday": workday, "workable": workable, "bamboohr": bamboohr, "recruitee": recruitee, "breezy": breezy}
 
 
 def crawl_company(c):
@@ -332,7 +379,7 @@ def crawl_company(c):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="crawl only companies whose name contains this text")
-    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=16)
     a = ap.parse_args()
 
     companies = json.load(open(os.path.join(DATA, "companies.json")))

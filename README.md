@@ -173,7 +173,7 @@ Edit `companies.json` to correct it.
 
 ## Job boards
 
-Supported boards are Greenhouse, Lever, Ashby, SmartRecruiters and Workday. To add or fix a company, edit its `ats` field:
+Supported boards are Greenhouse, Lever, Ashby, SmartRecruiters, Workday, Workable, BambooHR, Recruitee and Breezy. To add or fix a company, edit its `ats` field (Workable, BambooHR, Recruitee and Breezy take a `slug` like Greenhouse):
 
 ```json
 {"platform": "greenhouse", "slug": "natera"}
@@ -182,6 +182,18 @@ Supported boards are Greenhouse, Lever, Ashby, SmartRecruiters and Workday. To a
 {"platform": "smartrecruiters", "slug": "abbvie"}
 {"platform": "workday", "host": "illumina.wd1.myworkdayjobs.com", "tenant": "illumina", "site": "illumina-careers"}
 ```
+
+## Finding more companies
+
+The **Find more companies** workflow runs on the 1st of each month (or by hand from the Actions tab).
+It looks for a readable job board for every tracked company that doesn't have one, by reading the
+company's careers page for board links and trying likely board names; does the same for the companies
+in `crawler/candidates.txt` (add a line `Name|website` to suggest one); and lists every public board on
+Greenhouse, Lever, Ashby, Workable, BambooHR, Recruitee and Breezy from
+[Common Crawl](https://commoncrawl.org)'s open web index, keeping employers whose US openings are
+mostly life-science roles (scientists, assay development, bioinformatics, clinical, lab and so on).
+A guessed board name is only accepted if it has life-science job titles, so a same-named unrelated
+company isn't added. Results go to `data/discover-report.json`.
 
 ## Data sources
 

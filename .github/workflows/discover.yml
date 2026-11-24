@@ -1,0 +1,49 @@
+name: Find more companies
+# Runs on the 1st of each month, or by hand (Actions > Find more companies > Run workflow).
+# 1. Looks for a readable job board for every tracked company that doesn't have one yet,
+#    by reading its careers page and trying likely board names.
+# 2. Does the same for the US life-science companies listed in crawler/candidates.txt.
+# 3. Lists every public job board on Greenhouse, Lever, Ashby, Workable, BambooHR, Recruitee and
+#    Breezy from Common Crawl's open web index, and adds the life-science employers hiring in the US.
+# Writes data/companies.json and data/discover-report.json; the next daily crawl reads the new boards.
+on:
+  schedule:
+    - cron: "17 9 1 * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only report, don't add companies"
+        type: boolean
+        default: false
+      index:
+        description: "Also search Common Crawl's web index for new boards (adds an hour or more)"
+        type: boolean
+        default: true
+      limit:
+        description: "Check at most this many listed companies (blank = all)"
+        type: string
+        default: ""
+permissions:
+  contents: write
+concurrency: { group: discover, cancel-in-progress: false }   # its own group, so it never cancels a waiting crawl
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - name: Look for companies' job boards
+        run: >
+          python3 crawler/discover.py
+          ${{ inputs.dry_run && '--dry-run' || '' }}
+          ${{ (github.event_name == 'schedule' || inputs.index) && '--index' || '' }}
+          ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
+      - name: Commit the updated company list
+        run: |
+          git config user.name "jobs-crawler"
+          git config user.email "jobs-crawler@users.noreply.github.com"
+          git add data/companies.json data/discover-report.json
+          git diff --cached --quiet || git commit -m "Add companies found by the company finder"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
