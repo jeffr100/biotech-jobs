@@ -1,8 +1,9 @@
-# 747 new biotech & genomics jobs today
+# 961 new biotech & genomics jobs today
 
-**425** of these were not found on LinkedIn, Indeed or Glassdoor (marked ★).
+**506** of these were not found on LinkedIn, Indeed or Glassdoor (marked ★).
 
 ## Johnson & Johnson (Janssen)
+- ★ [Account Executive (Jacksonville, FL) - Johnson & Johnson MedTech - Surgical Vision](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Account-Executive--Jacksonville--FL----Johnson---Johnson-MedTech---Surgical-Vision_R-112279-1) — Jacksonville Florida United States of America (2 Locations)
 - ★ [Account Executive - Advanced Surgical Instruments (Phoenix, AZ) – Johnson & Johnson MedTech, Surgery](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Phoenix-Arizona-United-States/Account-Executive---Advanced-Surgical-Instruments--Phoenix--AZ----Johnson---Johnson-MedTech--Surgery_R-110719-1) — Phoenix, Arizona, United States
 - ★ [Account Executive, Advanced Surgical Instruments (ASI) (Ft Lauderdale FL) – Johnson & Johnson MedTech, Surgery](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Ft-Lauderdale-Florida-United-States/Account-Executive--Advanced-Surgical-Instruments--ASI---Ft-Lauderdale-FL----Johnson---Johnson-MedTech--Surgery_R-105517-1) — Ft. Lauderdale, Florida, United States
 - ★ [Aseptic Manufacturing Operator CAR-T](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Aseptic-Manufacturing-Operator-CAR-T_R-112441) — Raritan, New Jersey, United States of America
@@ -25,11 +26,13 @@
 - ★ [Experienced Scientist, Formulation Scientist](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/Experienced-Scientist--Formulation-Scientist_R-112218-1) — Malvern, Pennsylvania, United States of America
 - ★ [Field Reimbursement Manager](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Field-Reimbursement-Manager_R-113052-2) — Danvers Massachusetts United States of America (21 Locations)
 - ★ [Field Reimbursement Manager, Dermatology - (Harrisburg, PA) - Patient Engagement & Customer Solution (PECS)](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Harrisburg-Pennsylvania-United-States/Field-Reimbursement-Manager--Dermatology----Harrisburg--PA----Patient-Engagement---Customer-Solution--PECS-_R-102019-1) — Harrisburg Pennsylvania United States (3 Locations)
+- ★ [Global Product Manager](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Global-Product-Manager_R-111834-1) — Danvers, Massachusetts, United States of America
 - ★ [Launch Management Lead](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Launch-Management-Lead_R-111225-1) — West Chester, Pennsylvania, United States of America
 - ★ [Lead Digital Analyst](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Lead-Digital-Analyst_R-097388-1) — New Brunswick, New Jersey, United States of America
 - ★ [Lead Local Operations Manager – Solid Tumor Oncology](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Lead-Local-Operations-Manager---Solid-Tumor-Oncology_R-112816) — Spring House Pennsylvania United States of America (2 Locations)
 - ★ [Lead, CTM Solutions](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Senior-Engineer--R-D-Digital_R-100546-2) — Horsham Pennsylvania United States of America (3 Locations)
 - ★ [Legal Services Procurement Specialist](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Legal-Services-Procurement-Specialist_R-112535-1) — New Brunswick, New Jersey, United States of America
+- ★ [Manager – Forward Deployed Engineer AI & Technology Platform](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager---Forward-Deployed-Engineer-AI---Technology-Platform_R-112870-1) — Titusville, New Jersey, United States of America
 - ★ [Manager, AI Next Frontiers](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--AI-Next-Frontiers_R-089505-1) — Titusville, New Jersey, United States of America
 - ★ [Manager, Analytical Operations (2nd shift)](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/Manager--Analytical-Operations--2nd-shift-_R-108514-1) — Malvern, Pennsylvania, United States of America
 - ★ [Manager, Business Analytics Solid Tumor Oncology - New Products and Business Development](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Manager--Business-Analytics-Solid-Tumor-Oncology---New-Products-and-Business-Development_R-112303-1) — Horsham, Pennsylvania, United States of America
@@ -37,6 +40,7 @@
 - ★ [Manager, Procurement A&D Integration & Transition](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Manager--Procurement-A-D-Integration---Transition_R-112828) — New Brunswick, New Jersey, United States of America
 - ★ [Manager, Scientific Operations](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--Scientific-Operations_R-112827-1) — Titusville, New Jersey, United States of America
 - ★ [Manager, Supplier Mangement and Operations Excellence (SMOx) - Johnson & Johnson HCS, Inc.](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--Supplier-Mangement-and-Operations-Excellence--SMOx----Johnson---Johnson-HCS--Inc_R-111809-1) — Titusville New Jersey United States of America (2 Locations)
+- ★ [Medical Director, Study Responsible Physician - Late Development, Prostate](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Medical-Director--Study-Responsible-Physician---Late-Development--Prostate_R-097854-1) — Spring House, Pennsylvania, United States of America
 - ★ [Medical Science Liaison, Rheumatology - South Texas/New Mexico/Louisiana](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Houston-Texas-United-States-of-America/Medical-Science-Liaison--Rheumatology---South-Texas-New-Mexico-Louisiana_R-100896-1) — Houston Texas United States of America (4 Locations)
 - ★ [Project Manager, A&D Operations](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Manager--A-D-Operations_R-079882) — New Brunswick, New Jersey, United States of America
 - ★ [Quality Assurance Supervisor](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Quality-Assurance-Supervisor_R-111720-1) — Santa Clara, California, United States of America
@@ -53,7 +57,10 @@
 - ★ [Senior Manager, Health Care Compliance Officer](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-Manager--Health-Care-Compliance-Officer_R-110269-1) — Titusville New Jersey United States of America (2 Locations)
 - ★ [Senior Occupational Health Nurse - Orthopedics](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Senior-Occupational-Health-Nurse---Orthopedics_R-112271-2) — Raynham, Massachusetts, United States of America
 - ★ [Senior Scientist, Biostatistics](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Scientist--Biostatistics_R-103837-2) — Raritan New Jersey United States of America (3 Locations)
+- ★ [Senior Scientist, Pharmacometrics](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Scientist--Pharmacometrics_R-102072-1) — Raritan New Jersey United States of America (2 Locations)
+- ★ [Senior Specialist, Strategy & Business Operations – Cell & Gene Therapy (2 openings)](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/Senior-Specialist--Strategy---Business-Operations---Cell---Gene-Therapy--2-openings-_R-110099) — Malvern, Pennsylvania, United States of America
 - ★ [Sr Manager, Quality Asset Management AT](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Manager--Quality-Asset-Management-AT_R-111017-1) — Raritan New Jersey United States of America (3 Locations)
+- ★ [Sr Op Manu Assmb](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Sr-Op-Manu-Assmb_R-112461) — Athens, Georgia, United States of America
 - ★ [Sr Scientist Data Science](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1) — Raritan, New Jersey, United States of America
 - ★ [Sr. Manager EUC Endpoint Management](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Manager-EUC-Endpoint-Management_R-110813-1) — Raritan, New Jersey, United States of America
 - ★ [Sr. Supervisor Operations, Warehouse& Distribution](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Supervisor-Operations--Warehouse--Distribution_R-111214-1) — Santa Clara California United States of America (2 Locations)
@@ -63,13 +70,16 @@
 
 ## Labcorp
 - ★ [1st Shift Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Milwaukee-WI/XMLNAME-1st-Shift-Phlebotomist_2641824) — Milwaukee WI
+- ★ [Administrative Assistant - Pathology Department](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Rochester-MI/Administrative-Assistant---Pathology-Department_2635693) — Rochester MI
 - ★ [Animal Technician](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---WI---Madison---3301-Kinsman-Boulevard/Animal-Technician_2642044) — USA - WI - Madison - 3301 Kinsman Boulevard
 - ★ [Certified Pathologists' Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Syracuse-NY/Certified-Pathologists--Assistant_2638741) — Syracuse NY
 - ★ [Clinical Laboratory Technician  - Chemistry](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tampa-FL/Lab-Technician_2612970) — Tampa FL
+- ★ [Clinical Laboratory Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Detroit-MI/Clinical-Laboratory-Technologist_2642107) — Detroit MI
 - ★ [Clinical Laboratory Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Mobile-AL/Clinical-Laboratory-Technologist_2641859) — Mobile AL
 - ★ [Clinical Laboratory Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---AL----Mobile---6801-Airport-Boulevard/Clinical-Laboratory-Technologist_2641725-1) — USA - AL  - Mobile - 6801 Airport Boulevard
 - ★ [Clinical Laboratory Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Worcester-MA/Clinical-Laboratory-Technologist_2640049) — Worcester MA
 - ★ [Clinical Laboratory Technologist - Direct Testing](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Clinical-Laboratory-Technologist---Direct-Testing_2641557) — Burlington NC
+- ★ [Clinical Laboratory Technologist - Flow Cytometry](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Research-Triangle-Park-NC/Clinical-Laboratory-Technologist---Flow-Cytometry_2638833) — Research Triangle Park NC
 - ★ [Clinical Laboratory Technologist - Infectious Disease](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Clinical-Laboratory-Technologist---Infectious-Disease_2641979) — Burlington NC
 - ★ [Clinical Laboratory Technologist - Infectious Disease](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Clinical-Laboratory-Technologist---Infectious-Disease_2638645) — Burlington NC
 - ★ [Clinical Laboratory Technologist - Microbiology](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Baltimore-MD/Clinical-Laboratory-Technologist---Microbiology_2641918) — Baltimore MD
@@ -77,8 +87,10 @@
 - ★ [Clinical Laboratory Technologist - Toxicology](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Clinical-Laboratory-Technologist---Toxicology_2634294) — Burlington NC
 - ★ [Clinical Laboratory Technologist – Cytogenetics (FISH)](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Shelton-CT/Clinical-Laboratory-Technologist---Cytogenetics--FISH-_2635730) — Shelton CT
 - ★ [Courier](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Pasadena-CA/Courier_2639985) — Pasadena CA
+- ★ [Cust Svc Support Rep-Client - remote M-TH 9-6pm EST and Fri 8-5pm EST](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Cust-Svc-Support-Rep-Client---remote-M-TH-9-6pm-EST-and-Fri-8-5pm-EST_2640209-1) — Burlington NC (2 Locations)
 - ★ [Cytotechnologist Casual / Per Diem](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Monrovia-CA/Cytotechnologist-Casual---Per-Diem_2641259) — Monrovia CA
 - ★ [Executive Director - High Velocity Engineering Platforms](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Executive-Director---High-Velocity-Engineering-Platforms_2635564-1) — Durham NC
+- ★ [Float Medical Lab Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Float-Medical-Lab-Technologist_2638176) — Seattle WA
 - ★ [Genomics Clinical Laboratory Technologist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Iselin-NJ/Genomics-Clinical-Laboratory-Technologist_2642075) — Iselin NJ
 - ★ [Histotechnician - PRN](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Histotechnician---PRN_2632114-1) — Phoenix AZ
 - ★ [Hospital Key Account Executive (Miami)](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Hospital-Key-Account-Executive--Miami-_2625181) — Miami FL
@@ -87,17 +99,19 @@
 - ★ [Intern - Real World Data Strategy](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---NC---Durham---10-Moore-Drive/Intern---Real-World-Data-Strategy_2641038) — USA   NC   Durham   10 Moore Drive (2 Locations)
 - ★ [Intern — User Experience Design](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---NC---Durham---10-Moore-Drive/Intern---User-Experience-Design_2632092) — USA   NC   Durham   10 Moore Drive (2 Locations)
 - ★ [Key Account Executive- Asheville/Western NC](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Asheville-NC/Key-Account-Executive--Asheville-Western-NC_2637270) — Asheville NC
+- ★ [Lab Assistant - 3rd Shift](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tulsa-OK/Lab-Assistant---3rd-Shift_2638921-1) — Tulsa OK
 - ★ [Lab Assistant - Full Time- 3rd Shift](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Lab-Assistant---Full-Time--3rd-Shift_2637821) — Houston TX
 - ★ [Lab Assistant - Pathology](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Pensacola-FL/Lab-Assistant---Pathology_2642066) — Pensacola FL
-- ★ [Lab Assistant - Toxicology](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Research-Triangle-Park-NC/Lab-Assistant---Toxicology_2640307-1) — Research Triangle Park NC
 - ★ [Lab Assistant - Triage](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raritan-NJ/Lab-Assistant---Triage_2632010) — Raritan NJ
 - ★ [Laboratory Clerk](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raritan-NJ/Laboratory-Clerk_2641843) — Raritan NJ
 - ★ [Manager, Quality Assurance](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Santa-Fe-NM/Manager--Quality-Assurance_2641234) — Santa Fe NM
 - ★ [Medical Courier I](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/North-Charleston-SC/Medical-Courier-I_2638609-1) — North Charleston SC
 - ★ [Phlebotomist - 2nd Shift - In-Patient](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Melrose-MA/Phlebotomist---2nd-Shift---In-Patient_2630034) — Melrose MA
-- ★ [Phlebotomist - IOP](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/South-Windsor-CT/Phlebotomist---IOP_2635077-1) — South Windsor CT
 - ★ [Phlebotomist - Part Time w/ Benefits](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Middle-Village-NY/Phlebotomist---Part-Time-w--Benefits_2525726) — Middle Village NY
 - ★ [Phlebotomist - Raleigh, NC](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raleigh-NC/Phlebotomist---Raleigh--NC_2639104) — Raleigh NC
+- ★ [Phlebotomist Casual](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Baxlet-GA/Phlebotomist-Casual_2640694) — Baxlet GA
+- ★ [Phlebotomist Casual](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Augusta-GA/Phlebotomist-Casual_2634675) — Augusta GA
+- ★ [Phlebotomist Float](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Clemmons-NC/Phlebotomist-Float_2641540) — Clemmons NC
 - ★ [Phlebotomist Float](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Owings-Mills-MD/Phlebotomist-Float_2637930) — Owings Mills MD
 - ★ [Phlebotomist Float  - Part Time w/ Benefits](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Plainview-NY/Phlebotomist-Float----Part-Time-w--Benefits_2614285) — Plainview NY
 - ★ [Phlebotomist PRN](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Prince-George-VA/Phlebotomist-PRN_2639910) — Prince George VA
@@ -107,19 +121,34 @@
 - ★ [Phlebotomist- Mandarin and/or Cantonese Speaking Preferred](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Flushing-NY/Phlebotomist--Mandarin-and-or-Cantonese-Speaking-Preferred_2640714) — Flushing NY
 - ★ [Phlebotomy](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Virginia-Beach-VA/Phlebotomy_2637044) — Virginia Beach VA
 - ★ [Phlebotomy](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raleigh-NC/Phlebotomy_2639111) — Raleigh NC
+- ★ [Phlebotomy Team Lead](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Jersey-City-NJ/Phlebotomy-Team-Lead_2630138) — Jersey City NJ
 - ★ [Regional Phlebotomy Manager, Raleigh, NC](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raleigh-NC/Regional-Phlebotomy-Manager--Raleigh--NC_2634602) — Raleigh NC (2 Locations)
 - ★ [Senior Manager, HR M&A](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Senior-Manager--HR-M-A_2639397-1) — Durham NC (2 Locations)
 - ★ [Senior Manager, Marketing Solutions for B2B Enterprise](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Senior-Manager--Marketing-Solutions-for-B2B-Enterprise_2635001) — Durham NC (5 Locations)
 - ★ [Senior Manager, Marketing Solutions for B2B Enterprise](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Senior-Manager--Marketing-Solutions-for-B2B-Enterprise_2634991) — Durham NC (5 Locations)
+- ★ [Specimen Management Specialist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raritan-NJ/Specimen-Management-Specialist_2642071) — Raritan NJ
 - ★ [Specimen Management Specialist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Raritan-NJ/Specimen-Management-Specialist_2633988) — Raritan NJ
 - ★ [Technologist Trainee - Cytogenetics/FISH](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Technologist-Trainee---Cytogenetics-FISH_2639493) — Phoenix AZ
 - ★ [Warehouse Associate](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tampa-FL/Warehouse-Associate_2638159) — Tampa FL
 - ★ [Warehouse Associate](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tampa-FL/Warehouse-Associate_2635688) — Tampa FL
+- [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Lab-Assistant_2638634) — Burlington NC
 - [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tampa-FL/Lab-Assistant_2636273) — Tampa FL
 - [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Calabasas-Hills-CA/Lab-Assistant-I_2641485-1) — Calabasas Hills CA
 - [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Lab-Assistant_2624612-1) — Burlington NC
 - [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Lab-Assistant_2637329) — Burlington NC
 - [Lab Assistant](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Lab-Assistant_2639780) — San Diego CA
+- [Lab Assistant - Toxicology](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Research-Triangle-Park-NC/Lab-Assistant---Toxicology_2640307-1) — Research Triangle Park NC
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Bayonne-NJ/Phlebotomist_2624256) — Bayonne NJ
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Ferrum-VA/Phlebotomist_2639435) — Ferrum VA
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Mechanicsville-VA/Phlebotomist_2637513) — Mechanicsville VA
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Midlothian-VA/Phlebotomist_2638383) — Midlothian VA
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Greenbelt-MD/Phlebotomist_2639002) — Greenbelt MD
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Manchester-NJ/Phlebotomist_2636766) — Manchester NJ
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Beaumont-TX/Phlebotomist_2630776) — Beaumont TX
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Silver-Spring-MD/Phlebotomist_2640603) — Silver Spring MD
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Advance-NC/Phlebotomist_2641539) — Advance NC
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Orange-TX/Phlebotomist_2637853) — Orange TX
+- [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Brentwood-CA/Phlebotomist_2637357-1) — Brentwood CA
 - [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Milwaukie-OR/Phlebotomist_2638452) — Milwaukie OR
 - [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Oregon-City-OR/Phlebotomist_2637882) — Oregon City OR
 - [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Richmond-VA/Phlebotomist_2638595) — Richmond VA
@@ -163,12 +192,15 @@
 - [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Draper-UT/Phlebotomist_2636995) — Draper UT
 - [Phlebotomist](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Wood-Ridge-NJ/Phlebotomist_2640101-1) — Wood-Ridge NJ
 - [Phlebotomist - 3rd Shift - In-Patient](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Melrose-MA/Phlebotomist---3rd-Shift---In-Patient_2637843) — Melrose MA
-- [Phlebotomist Casual](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Baxlet-GA/Phlebotomist-Casual_2640694) — Baxlet GA
-- [Phlebotomist Casual](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Augusta-GA/Phlebotomist-Casual_2634675) — Augusta GA
+- [Phlebotomist - IOP](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/South-Windsor-CT/Phlebotomist---IOP_2635077-1) — South Windsor CT
+- [Phlebotomist IOP](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Port-Arthur-TX/Phlebotomist-IOP_2625601) — Port Arthur TX
 - [Phlebotomist Part Time](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Hilton-Head-Island-SC/Phlebotomist-Part-Time_2640648) — Hilton Head Island SC
 - [Phlebotomist Part Time](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Columbia-SC/Phlebotomist-Part-Time_2639981) — Columbia SC
+- [Phlebotomist Trainee](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Portland-OR/Phlebotomist-Trainee_2637164) — Portland OR
+- [Reference Test Clerk](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Reference-Test-Clerk_2639063) — Charlotte NC
 - [Specimen Accessioner](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Specimen-Accessioner_2630392) — Charlotte NC
 - [Specimen Accessioner](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Specimen-Accessioner_2637862) — San Diego CA
+- [Specimen Processor](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Linthicum-MD/Specimen-Processor_2633503) — Linthicum MD
 - [Specimen Processor](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Woodland-Park-NJ/Specimen-Processor_2640347) — Woodland Park NJ
 - [Specimen Processor](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Specimen-Processor_2636464) — Chantilly VA
 - [Specimen Processor](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Specimen-Processor_2639842-1) — San Diego CA
@@ -178,7 +210,10 @@
 - ★ [Assembler II](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Colorado-Springs-Colorado-USA/Assembler-II_R-01372765) — Colorado Springs, Colorado, USA
 - ★ [Business Development Manager (BioPharma Partnerships)](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Ohio-USA/Business-Development-Manager--BioPharma-Partnerships-_R-01373502) — Remote Ohio USA (11 Locations)
 - ★ [Clinical Compliance Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Kentucky-USA/Clinical-Compliance-Specialist_R-01377295) — Remote, Kentucky, USA
+- ★ [Country Approval Associate](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Country-Approval-Associate_R-01375005) — Remote, North Carolina, USA
+- ★ [Data Analyst, Project Manager](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Pennsylvania-USA/Data-Analyst--Project-Manager_R-01362642) — Remote Pennsylvania USA (5 Locations)
 - ★ [Data Compliance Coordinator](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Data-Compliance-Coordinator_R-01363975-1) — Las Vegas, Nevada, USA
+- ★ [Demand Planner III](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Demand-Planner-III_R-01376619) — Pittsburgh, Pennsylvania, USA
 - ★ [Director - Vaccine Testing Labs](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Associate-Director---Vaccine-Testing-Labs_R-01358588) — Richmond, Virginia, USA
 - ★ [Director, Employment Counsel - Join a $45B Industry Leade!](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Carlsbad-California-USA/Director--Employment-Counsel---Join-a--45B-Industry-Leade-_R-01377190) — Carlsbad, California, USA
 - ★ [Director, R&D](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Tewksbury-Massachusetts-USA/Director--R-D_R-01376432) — Tewksbury, Massachusetts, USA
@@ -188,17 +223,15 @@
 - ★ [Equipment Maintenance Tech II - 3rd shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Grand-Island-New-York-USA/Equipment-Maintenance-Tech-II---Third-Shift_R-01360643) — Grand Island, New York, USA
 - ★ [Executive Assistant to VP HR BioPharma Services Sector and VP Finance PSG](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Executive-Assistant-to-VP-HR-BioPharma-Services-Sector-and-VP-Finance-PSG_R-01376231) — Waltham, Massachusetts, USA
 - ★ [Factory Automation Staff Engineer](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Carlsbad-California-USA/Factory-Automation-Staff-Engineer_R-01373419) — Carlsbad, California, USA
-- ★ [Formulation Technician II (12hr days, 2-2-3 rotation)](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Formulation-Technician-II--12hr-days--2-2-3-rotation-_R-01376564) — Greenville, North Carolina, USA
+- ★ [FSP Clinical Trial Coordinator](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/FSP-Clinical-Trial-Coordinator_R-01374716) — Remote, North Carolina, USA
 - ★ [GCS Cell and Gene Client and Portfolio Manager](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-New-Mexico-USA/GCS-Cell-and-Gene-Client-and-Portfolio-Manager_R-01367551-1) — Remote, New Mexico, USA
-- ★ [Kitting Technician - Day Shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Kitting-Technician---Day-Shift_R-01376237) — Lebanon, Tennessee, USA
-- ★ [Lab Assistant - Special Chemistry Lab](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Lab-Assistant---Special-Chemistry-Lab_R-01376049) — Highland Heights, Kentucky, USA
 - ★ [Lab Consumables Sales Representative](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Boston-Massachusetts-USA/Lab-Consumables-Sales-Representative_R-01369809) — Boston, Massachusetts, USA
-- ★ [Lead Site Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Boston-Massachusetts-USA/Lead-Site-Specialist_R-01374823) — Boston, Massachusetts, USA
 - ★ [Maintenance Technician III (Electrician) - 1st Shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Ridgefield-New-Jersey-USA/Maintenance-Technician-III--Electrician----1st-Shift_R-01376777-1) — Ridgefield, New Jersey, USA
 - ★ [Manager, Continuous Improvement - BioServices](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rockville-Maryland-USA/Manager--Continuous-Improvement---BioServices_R-01375481) — Rockville, Maryland, USA
 - ★ [Manager, Talent Acquisition](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Manager--Talent-Acquisition_R-01376660) — Remote, North Carolina, USA
 - ★ [Manufacturing Technician II - Rotating Weekend - Day Shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Chelmsford-Massachusetts-USA/Manufacturing-Technician-II---Day-Shift_R-01362146) — Chelmsford, Massachusetts, USA
 - ★ [Material Handler / Warehouse Worker](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greencastle-Pennsylvania-USA/Material-Handler---Warehouse-Worker_R-01358526) — Greencastle, Pennsylvania, USA
+- ★ [Material Handler I](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middletown-Virginia-USA/Material-Handler-I_R-01372101) — Middletown, Virginia, USA
 - ★ [Medical Technologist I - Chemistry](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Medical-Technologist-I---Chemistry_R-01370985) — Highland Heights, Kentucky, USA
 - ★ [Metrologist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Metrologist_R-01372415) — Middleton, Wisconsin, USA
 - ★ [Part Time Weekend w/Benefits - Material Handler](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Logan-Utah-USA/Part-Time-Weekend-w-Benefits---Material-Handler_R-01376236) — Logan, Utah, USA
@@ -206,6 +239,9 @@
 - ★ [Project Manager, Clinical Supplies](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager--Clinical-Supplies_R-01376024) — Remote, North Carolina, USA
 - ★ [Project Manager, Clinical Supplies](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager--Clinical-Supplies_R-01375941) — Remote, North Carolina, USA
 - ★ [Project Manager, Global Clinical Supplies](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager--Global-Clinical-Supplies_R-01358643-1) — Remote, North Carolina, USA
+- ★ [QC scientist I](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Florence-South-Carolina-USA/QC-scientist-I_R-01376322) — Florence, South Carolina, USA
+- ★ [Quality Operations Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Quality-Operations-Specialist_R-01363475) — Cincinnati, Ohio, USA
+- ★ [Regulatory Affairs Specialist III - Product Legislative Compliance](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Regulatory-Affairs-Specialist-III---Product-Legislative-Compliance_R-01371672) — Remote, North Carolina, USA
 - ★ [Reproductive Health Global Market Development Manager](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Carlsbad-California-USA/Reproductive-Health-Global-Market-Development-Manager_R-01376872) — Carlsbad California USA (7 Locations)
 - ★ [Sales Account Executive, Healthcare and Medical Distribution (Northern California)](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-California-USA/Sales-Account-Executive--Healthcare-and-Medical-Distribution--Northern-California-_R-01375578) — Remote California USA (6 Locations)
 - ★ [Sales Account Manager, Bioscience - Maryland](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bethesda-Maryland-USA/Sales-Account-Manager--Bioscience---Maryland_R-01376399) — Bethesda, Maryland, USA
@@ -213,32 +249,38 @@
 - ★ [Sample Management Supervisor, 1st Shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Covington-Kentucky---USA/Sample-Management-Supervisor--1st-Shift_R-01369279) — Covington, Kentucky - USA
 - ★ [Scientist III, Field Applications](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Texas-USA/Scientist-III--Field-Applications_R-01375025) — Remote Texas USA (3 Locations)
 - ★ [Scientist III, Molecular Biology](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Austin-Texas-USA/Scientist-III--Molecular-Biology_R-01376868-1) — Austin, Texas, USA
+- ★ [Scientist, Formulation and Process development](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Scientist--Formulation-and-Process-development_R-01376993) — Cincinnati, Ohio, USA
 - ★ [Senior Business Systems Analyst](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Kentucky-USA/Senior-Business-Systems-Analyst_R-01373126) — Remote, Kentucky, USA
-- ★ [Senior Centralized Monitoring Analyst I](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Raleigh-North-Carolina-USA/Senior-Centralized-Monitoring-Analyst-I_R-01375123) — Raleigh, North Carolina, USA
-- ★ [Senior Maintenance Technician- 3rd shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Grand-Island-New-York-USA/Senior-Maintenance-Technician--3rd-shift_R-01361632) — Grand Island, New York, USA
-- ★ [Senior Manager, Early Talent Programs](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Senior-Manager--Early-Talent-Programs_R-01376228) — Waltham Massachusetts USA (3 Locations)
 - ★ [Senior Patient Recruitment and Engagement Lead](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/Senior-Patient-Recruitment-and-Engagement-Lead_R-01369993) — Remote North Carolina USA (5 Locations)
 - ★ [Senior Staff AI / ML Solutions Engineer](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Senior-Staff-AI---ML-Solutions-Engineer_R-01374325) — Morrisville, North Carolina, USA
 - ★ [Site Master Production Scheduler and SIOP Coordinator](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Florence-South-Carolina-USA/Site-Master-Production-Scheduler-and-SIOP-Coordinator_R-01376972-1) — Florence, South Carolina, USA
 - ★ [Sr HR Manager (CAD)](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Tewksbury-Massachusetts-USA/Sr-HR-Manager--CAD-_R-01376563) — Tewksbury, Massachusetts, USA
-- ★ [Sr Quality Technician](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Sr-Quality-Technician_R-01377064) — Indianapolis, Indiana, USA
 - ★ [Sr. Manager, Project Management](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sr-Manager--Project-Management---Waltham--MA_R-01375867-1) — Remote Massachusetts USA (5 Locations)
+- ★ [Sr. Material Handler](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Sr-Material-Handler_R-01376994) — Cincinnati, Ohio, USA
 - ★ [Supervisor, Investigator Site Services](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Covington-Kentucky---USA/Team-Lead--Investigator-Site-Services_R-01365888-1) — Covington, Kentucky - USA
 - ★ [Supply Chain Specialist II – APAC Sunnyvale Escalations](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Supply-Chain-Specialist-II---APAC-Sunnyvale-Escalations_R-01373082) — Morrisville, North Carolina, USA
 - ★ [Team Leader Customer Site - Cell Culture Support](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cambridge-Massachusetts-USA/Team-Leader-Customer-Site---Cell-Culture-Support_R-01376465) — Cambridge, Massachusetts, USA
 - ★ [Validation Engineer II](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Santa-Clara-California-USA/Validation-Engineer-II_R-01376798) — Santa Clara, California, USA
 - ★ [Warehouse Worker II](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Suwanee-Georgia-USA/Warehouse-Worker-II_R-01376551-1) — Suwanee, Georgia, USA
-- [FSP Clinical Trial Coordinator](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-North-Carolina-USA/FSP-Clinical-Trial-Coordinator_R-01374716) — Remote, North Carolina, USA
+- [Formulation Technician II (12hr days, 2-2-3 rotation)](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Formulation-Technician-II--12hr-days--2-2-3-rotation-_R-01376564) — Greenville, North Carolina, USA
+- [Kitting Technician - Day Shift](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Kitting-Technician---Day-Shift_R-01376237) — Lebanon, Tennessee, USA
+- [Lab Assistant - Special Chemistry Lab](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Lab-Assistant---Special-Chemistry-Lab_R-01376049) — Highland Heights, Kentucky, USA
 - [Lead Scientific Support Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Boston-Massachusetts-USA/Lead-Scientific-Support-Specialist_R-01369803) — Boston, Massachusetts, USA
 - [Lead Scientific Support Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cambridge-Massachusetts-USA/Lead-Scientific-Support-Specialist_R-01376464) — Cambridge, Massachusetts, USA
 - [Lead Scientific Support Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Boston-Massachusetts-USA/Lead-Scientific-Support-Specialist_R-01374592) — Boston, Massachusetts, USA
-- [Material Handler I](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middletown-Virginia-USA/Material-Handler-I_R-01372101) — Middletown, Virginia, USA
-- [Sr. Material Handler](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Sr-Material-Handler_R-01376994) — Cincinnati, Ohio, USA
+- [Lead Site Specialist](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Boston-Massachusetts-USA/Lead-Site-Specialist_R-01374823) — Boston, Massachusetts, USA
+- [QC Technician II](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Middletown-Virginia-USA/QC-Technician-II_R-01376907) — Middletown, Virginia, USA
+- [Senior Centralized Monitoring Analyst I](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Raleigh-North-Carolina-USA/Senior-Centralized-Monitoring-Analyst-I_R-01375123) — Raleigh, North Carolina, USA
+- [Senior Manager, Early Talent Programs](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Senior-Manager--Early-Talent-Programs_R-01376228) — Waltham Massachusetts USA (3 Locations)
+- [Sr Inventory Coordinator](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenfield-Indiana-USA/Sr-Inventory-Coordinator_R-01376296) — Greenfield, Indiana, USA
+- [Sr Quality Technician](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Sr-Quality-Technician_R-01377064) — Indianapolis, Indiana, USA
 
 ## Danaher
 - ★ [Administrative Assistant](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Irvine-California-United-States/Administrative-Assistant_R1323485-1) — Irvine, California, United States
+- ★ [Assembler I (Elements)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/New-Port-Richey-Florida-United-States/Assembler-I--Elements-_R1323595) — New Port Richey, Florida, United States
 - ★ [Assembler I (Elements)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/New-Port-Richey-Florida-United-States/Assembler-I--Elements-_R1322694) — New Port Richey, Florida, United States
 - ★ [Business Applications Analyst](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Hebron-Kentucky-United-States/Business-Applications-Analyst_R1319068-1) — Hebron Kentucky United States (3 Locations)
+- ★ [Clinical Applications Specialist- Central US](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Chicago-Illinois-United-States/Clinical-Applications-Specialist--Central-US_R1323163) — Chicago Illinois United States (5 Locations)
 - ★ [CNC Machine Operator II - 3rd Shift](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Cortland-New-York-United-States/CNC-Machine-Operator-II---3rd-Shift_R1323308-1) — Cortland, New York, United States
 - ★ [Director, AI Product Manager](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Washington-DC-United-States/Director--AI-Product-Manager_R1323560) — Washington DC, United States
 - ★ [Environmental Health & Safety Specialist](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Duncan-South-Carolina-United-States/Environmental-Health---Safety-Specialist_R1322468) — Duncan, South Carolina, United States
@@ -258,6 +300,9 @@
 - ★ [Material Handler III](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Lodi-California-United-States/Material-Handler-III_R1323226) — Lodi, California, United States
 - ★ [Material Handler III](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Lodi-California-United-States/Material-Handler-III_R1323229) — Lodi, California, United States
 - ★ [New Product Introduction Manager, NGS](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Boulder-Colorado-United-States/New-Product-Introduction-Manager--NGS_R1322591) — Boulder, Colorado, United States
+- ★ [Production Associate O1 (SUT 2nd shift 2:00pm - 10:30pm)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Logan-Utah-United-States/Production-Associate-O1--SUT-2nd-shift-2-00pm---10-30pm-_R1322902) — Logan, Utah, United States
+- ★ [Production Associate O1 (SUT 2nd shift 2:00pm - 10:30pm)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Logan-Utah-United-States/Production-Associate-O1--SUT-2nd-shift-2-00pm---10-30pm-_R1322900) — Logan, Utah, United States
+- ★ [Production Associate O1 (SUT 2nd shift 2:00pm - 10:30pm)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Logan-Utah-United-States/Production-Associate-O1--SUT-2nd-shift-2-00pm---10-30pm-_R1322903) — Logan, Utah, United States
 - ★ [Production Associate O1 - DPM (2nd shift, M/F, 2 - 10:30 pm)](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Logan-Utah-United-States/Production-Associate-O1---DPM--2nd-shift--M-F--2---10-30-pm-_R1318525) — Logan, Utah, United States
 - ★ [Production Operator II - 12hr/day](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Pensacola-Florida-United-States/Production-Operator-II---12hr-day_R1322817) — Pensacola, Florida, United States
 - ★ [Production Operator II - 12hr/day](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Pensacola-Florida-United-States/Production-Operator-II---12hr-day_R1322814) — Pensacola, Florida, United States
@@ -265,6 +310,7 @@
 - ★ [Production Operator II - 12hr/nights](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Pensacola-Florida-United-States/Production-Operator-II---12hr-nights_R1322812) — Pensacola, Florida, United States
 - ★ [Research Scientist III](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Coralville-Iowa-United-States/Research-Scientist-III_R1323020) — Coralville, Iowa, United States
 - ★ [Scientist II R&D](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Fargo-North-Dakota-United-States/Scientist-II-R-D_R1323556) — Fargo, North Dakota, United States
+- ★ [Senior Field Service Engineer - Philadelphia](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Philadelphia-Pennsylvania-United-States/Senior-Field-Service-Engineer---Philadelphia_R1322589) — Philadelphia, Pennsylvania, United States
 - ★ [Senior Manufacturing Scientist](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Chaska-Minnesota-United-States/Senior-Manufacturing-Scientist_R1321711) — Chaska, Minnesota, United States
 - ★ [Senior Manufacturing Scientist - Production - Hebron](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/USA---Hebron---Beckman-Coulter-Inc/Senior-Manufacturing-Scientist---Production---Hebron_R1318786) — USA - Hebron - Beckman Coulter, Inc.
 - ★ [Senior Manufacturing Scientist - Production - Hialeah](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Hialeah-Florida-United-States/Senior-Manufacturing-Scientist---Production---Hialeah_R1318787) — Hialeah, Florida, United States
@@ -272,11 +318,54 @@
 - ★ [Technical Project Manager](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/San-Jose-California-United-States/Technical-Project-Manager_R1323053) — San Jose, California, United States
 - ★ [Territory Manager, Alternate Care](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Irvine-California-United-States/Territory-Manager--Alternate-Care_R1323511) — Irvine California United States (2 Locations)
 - ★ [TNFRP - Custom and Stock Product Technician II Su - Th - 3p-12a](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Coralville-Iowa-United-States/TNFRP---Custom-and-Stock-Product-Technician-II-Su---Th---3p-12a_R1323475-1) — Coralville, Iowa, United States
+- ★ [Warehouse Associate](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Middleburg-Heights-Ohio-United-States/Warehouse-Associate_R1323465) — Middleburg Heights, Ohio, United States
+- ★ [Welder / Fabricator](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Deland-Florida-United-States/Welder---Fabricator_R1323563) — Deland, Florida, United States
+
+## Eurofins Scientific
+- ★ [Analyst I - Environment Testing -Wed-Sun, 1st Shift -Kittanning, PA](https://jobs.smartrecruiters.com/eurofins/744000163534279) — Kittanning, PA, US
+- ★ [Analyst, Asbestos](https://jobs.smartrecruiters.com/eurofins/744000163519062) — New Orleans, LA, US
+- ★ [Analytical Day 1 Chemist](https://jobs.smartrecruiters.com/eurofins/744000163478159) — Rensselaer, NY, US
+- ★ [Analytical Sciences GMP Data Reviewer](https://jobs.smartrecruiters.com/eurofins/744000163487489) — Rensselaer, NY, US
+- ★ [Applied AI Engineer](https://jobs.smartrecruiters.com/eurofins/744000163468691) — Stafford, TX, US
+- ★ [Business Development Manager - Environmental Monitoring & Facility Validation](https://jobs.smartrecruiters.com/eurofins/744000163307037) — Houston, TX, US
+- ★ [CAR-T Scientist](https://jobs.smartrecruiters.com/eurofins/744000163295271) — East Hanover, NJ, US
+- ★ [Full-Time Laboratory Technician I](https://jobs.smartrecruiters.com/eurofins/744000163529309) — DeSoto, TX, US
+- ★ [Grain Inspector - Part-time](https://jobs.smartrecruiters.com/eurofins/744000163305549) — Fort Dodge, IA, US
+- ★ [IT Manager](https://jobs.smartrecruiters.com/eurofins/744000163508875) — Strongsville, OH, US
+- ★ [Laboratory Analyst](https://jobs.smartrecruiters.com/eurofins/744000163521399) — Barberton, OH, US
+- ★ [Laboratory Analyst III - Eurofins Drinking Water and Wastewater Southeast - Nokomis, FL](https://jobs.smartrecruiters.com/eurofins/744000163537559) — Nokomis, FL, US
+- ★ [Laboratory Analyst, 2nd Shift](https://jobs.smartrecruiters.com/eurofins/744000163521319) — Barberton, OH, US
+- ★ [Laboratory Analyst, Eurofins Environment Testing, Little Rock, AR](https://jobs.smartrecruiters.com/eurofins/744000163355793) — Little Rock, AR, US
+- ★ [Laboratory Group Lead](https://jobs.smartrecruiters.com/eurofins/744000163306749) — Battle Creek, MI, US
+- ★ [Laboratory Technician I](https://jobs.smartrecruiters.com/eurofins/744000163490869) — Philadelphia, PA, US
+- ★ [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://jobs.smartrecruiters.com/eurofins/744000163291471) — Tustin, CA, US
+- ★ [Laboratory Technician l](https://jobs.smartrecruiters.com/eurofins/744000163343839) — Omaha, NE, US
+- ★ [Laboratory Technician l (3rd Shift)](https://jobs.smartrecruiters.com/eurofins/744000163343494) — Omaha, NE, US
+- ★ [Materials Analyst, Microscopy](https://jobs.smartrecruiters.com/eurofins/744000163343569) — Phoenix, AZ, US
+- ★ [Materials Scientist (Atom Probe Tomography)](https://jobs.smartrecruiters.com/eurofins/744000163336939) — Milpitas, CA, US
+- ★ [National Sales Specialist](https://jobs.smartrecruiters.com/eurofins/744000163509532) — Strongsville, OH, US
+- ★ [PCR Assay Scientist](https://jobs.smartrecruiters.com/eurofins/744000163545509) — West Point, PA, US
+- ★ [Project Manager](https://jobs.smartrecruiters.com/eurofins/744000163529759) — Saint Charles, MO, US
+- ★ [Proposal Manager](https://jobs.smartrecruiters.com/eurofins/744000163510049) — Lancaster, PA, US
+- ★ [QC Medical Packaging Scientist](https://jobs.smartrecruiters.com/eurofins/744000163458243) — Indianapolis, IN, US
+- ★ [QC Microbiology Analyst - 2nd Shift, Wed-Sat](https://jobs.smartrecruiters.com/eurofins/744000163290417) — Rensselaer, NY, US
+- ★ [QC Sample Management Technician - (3rd Shift, Sat-Tues)](https://jobs.smartrecruiters.com/eurofins/744000163530577) — Rensselaer, NY, US
+- ★ [Quality Assurance Coordinator](https://jobs.smartrecruiters.com/eurofins/744000163545665) — Centennial, CO, US
+- ★ [R&D Laboratory Technician](https://jobs.smartrecruiters.com/eurofins/744000163543749) — Davis, CA, US
+- ★ [Sample and Receiving Technician](https://jobs.smartrecruiters.com/eurofins/744000163533670) — Barberton, OH, US
+- ★ [Sample Coordinator/Lab Technician - Temp](https://jobs.smartrecruiters.com/eurofins/744000163297323) — North Brunswick Township, NJ, US
+- ★ [Sample Receiving Technician, Eurofins Environment Testing, Concord, New Hampshire](https://jobs.smartrecruiters.com/eurofins/744000163545626) — Concord, NH, US
+- ★ [Scientist](https://jobs.smartrecruiters.com/eurofins/744000163295470) — San Diego, CA, US
+- ★ [Scientist I (GCMS) - Eurofins Drinking Water and Wastewater West, LLC - Pomona, CA](https://jobs.smartrecruiters.com/eurofins/744000163547399) — Pomona, CA, US
+- ★ [Senior Chemist Group Leader Inorganics Lab](https://jobs.smartrecruiters.com/eurofins/744000163523574) — Winston-Salem, NC, US
+- ★ [Senior Scientist, Formulation Chemistry](https://jobs.smartrecruiters.com/eurofins/744000163331879) — Cambridge, MA, US
 
 ## Merck & Co. (MSD)
-- ★ [2027 Future Talent Program - Finance Leadership Development Program, Internal Audit Specialist - Information Technology, Cybersecurity & AI](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-Leadership-Development-Program--Audit-Specialist_R415343-1) — USA - New Jersey - Rahway
+- ★ [2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) — USA - New Jersey - Rahway
+- ★ [2027 Future Talent Program - Internal Audit Specialist - Information Technology, Cybersecurity & AI](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-Leadership-Development-Program--Audit-Specialist_R415343-1) — USA - New Jersey - Rahway
 - ★ [Associate Director, Expense Management](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Director--Expense-Management_R427328-1) — USA   New Jersey   Rahway (5 Locations)
 - ★ [Associate Director, GRACS Standards & Training](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director--GRACS-Standards---Training_R428319) — USA   Pennsylvania   North Wales Upper Gwynedd (2 Locations)
+- ★ [Associate Director, Thought Leader Marketing Liaison-Great Lakes/Ohio Valley](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director--Thought-Leader-Marketing-Liaison-Great-Lakes-Ohio-Valley_R428988-1) — USA   Pennsylvania   North Wales Upper Gwynedd (5 Locations)
 - ★ [Associate Director, Thought Leader Marketing Liaison-Northeast](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director--Thought-Leader-Marketing-Liaison-Northeast_R428998-1) — USA   Pennsylvania   North Wales Upper Gwynedd (4 Locations)
 - ★ [Associate Principal Scientist, In Vivo Pharmacology](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---California---South-San-Francisco-Gateway-Blvd/Associate-Principal-Scientist--In-Vivo-Pharmacology_R418733-1) — USA - California - South San Francisco (Gateway Blvd)
 - ★ [Associate Specialist, GCTO Project Management Office (PMO)](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Specialist--GCTO-Project-Management-Office--PMO-_R427961-1) — USA - Pennsylvania - North Wales (Upper Gwynedd)
@@ -285,6 +374,7 @@
 - ★ [Director of AI Delivery Management](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Director-of-AI-Delivery-Management_R424235) — USA - New Jersey - Rahway
 - ★ [Director, Consumer Marketing Team Lead, US HIV Treatments](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director-US-Marketing--Product-Marketing-Owner---HCC-Team-Lead--HIV-Treatments_R423415) — USA - Pennsylvania - North Wales (Upper Gwynedd)
 - ★ [Director, Global Program Lead-Immunology](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Global-Program-Lead-Immunology_R427815-1) — USA   Pennsylvania   North Wales Upper Gwynedd (3 Locations)
+- ★ [Director, Integrated Measurement](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Director--Integrated-Measurement_R428192) — USA   New Jersey   Rahway (2 Locations)
 - ★ [Director, Manufacturing Platforms](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Nebraska---Elkhorn/Director--Manufacturing-Platforms_R396772-1) — USA   Nebraska   Elkhorn (3 Locations)
 - ★ [Distinguished Scientist, Clinical Research, Thoracic Malignancies](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Distinguished-Scientist--Clinical-Research--Thoracic-Malignancies_R381175) — USA   New Jersey   Rahway (3 Locations)
 - ★ [Ejecutivo de Cuenta Oncología Tijuana](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/MEX---Baja-California---Tijuana/Ejecutivo-de-Cuenta-Oncologa-Tijuana_R416745) — MEX - Baja California - Tijuana
@@ -308,49 +398,14 @@
 - ★ [Senior Specialist, Nonclinical Medical Writing](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Specialist--Nonclinical-Medical-Writing_R413595-1) — USA - California - South San Francisco (Grand Ave)
 - ★ [Sr. Spclst, Engineering](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/Sr-Spclst--Engineering_R428953-1) — USA - Pennsylvania - West Point
 
-## Eurofins Scientific
-- ★ [Analyst I - Environment Testing -Wed-Sun, 1st Shift -Kittanning, PA](https://jobs.smartrecruiters.com/eurofins/744000163534279) — Kittanning, PA, US
-- ★ [Analyst, Asbestos](https://jobs.smartrecruiters.com/eurofins/744000163519062) — New Orleans, LA, US
-- ★ [Analytical Day 1 Chemist](https://jobs.smartrecruiters.com/eurofins/744000163478159) — Rensselaer, NY, US
-- ★ [Analytical Sciences GMP Data Reviewer](https://jobs.smartrecruiters.com/eurofins/744000163487489) — Rensselaer, NY, US
-- ★ [Applied AI Engineer](https://jobs.smartrecruiters.com/eurofins/744000163468691) — Stafford, TX, US
-- ★ [Business Development Manager - Environmental Monitoring & Facility Validation](https://jobs.smartrecruiters.com/eurofins/744000163307037) — Houston, TX, US
-- ★ [CAR-T Scientist](https://jobs.smartrecruiters.com/eurofins/744000163295271) — East Hanover, NJ, US
-- ★ [Full-Time Laboratory Technician I](https://jobs.smartrecruiters.com/eurofins/744000163529309) — DeSoto, TX, US
-- ★ [Grain Inspector - Part-time](https://jobs.smartrecruiters.com/eurofins/744000163305549) — Fort Dodge, IA, US
-- ★ [IT Manager](https://jobs.smartrecruiters.com/eurofins/744000163508875) — Strongsville, OH, US
-- ★ [Laboratory Analyst](https://jobs.smartrecruiters.com/eurofins/744000163521399) — Barberton, OH, US
-- ★ [Laboratory Analyst, 2nd Shift](https://jobs.smartrecruiters.com/eurofins/744000163521319) — Barberton, OH, US
-- ★ [Laboratory Analyst, Eurofins Environment Testing, Little Rock, AR](https://jobs.smartrecruiters.com/eurofins/744000163355793) — Little Rock, AR, US
-- ★ [Laboratory Group Lead](https://jobs.smartrecruiters.com/eurofins/744000163306749) — Battle Creek, MI, US
-- ★ [Laboratory Technician I](https://jobs.smartrecruiters.com/eurofins/744000163490869) — Philadelphia, PA, US
-- ★ [Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA](https://jobs.smartrecruiters.com/eurofins/744000163291471) — Tustin, CA, US
-- ★ [Laboratory Technician l](https://jobs.smartrecruiters.com/eurofins/744000163343839) — Omaha, NE, US
-- ★ [Laboratory Technician l (3rd Shift)](https://jobs.smartrecruiters.com/eurofins/744000163343494) — Omaha, NE, US
-- ★ [Materials Analyst, Microscopy](https://jobs.smartrecruiters.com/eurofins/744000163343569) — Phoenix, AZ, US
-- ★ [Materials Scientist (Atom Probe Tomography)](https://jobs.smartrecruiters.com/eurofins/744000163336939) — Milpitas, CA, US
-- ★ [National Sales Specialist](https://jobs.smartrecruiters.com/eurofins/744000163509532) — Strongsville, OH, US
-- ★ [Project Manager](https://jobs.smartrecruiters.com/eurofins/744000163529759) — Saint Charles, MO, US
-- ★ [Proposal Manager](https://jobs.smartrecruiters.com/eurofins/744000163510049) — Lancaster, PA, US
-- ★ [QC Medical Packaging Scientist](https://jobs.smartrecruiters.com/eurofins/744000163458243) — Indianapolis, IN, US
-- ★ [QC Microbiology Analyst - 2nd Shift, Wed-Sat](https://jobs.smartrecruiters.com/eurofins/744000163290417) — Rensselaer, NY, US
-- ★ [QC Sample Management Technician - (3rd Shift, Sat-Tues)](https://jobs.smartrecruiters.com/eurofins/744000163530577) — Rensselaer, NY, US
-- ★ [Sample and Receiving Technician](https://jobs.smartrecruiters.com/eurofins/744000163533670) — Barberton, OH, US
-- ★ [Sample Coordinator/Lab Technician - Temp](https://jobs.smartrecruiters.com/eurofins/744000163297323) — North Brunswick Township, NJ, US
-- ★ [Scientist](https://jobs.smartrecruiters.com/eurofins/744000163295470) — San Diego, CA, US
-- ★ [Senior Chemist](https://jobs.smartrecruiters.com/eurofins/744000163511730) — Midland, MI, US
-- ★ [Senior Chemist Group Leader Inorganics Lab](https://jobs.smartrecruiters.com/eurofins/744000163523574) — Winston-Salem, NC, US
-- ★ [Senior Scientist, Formulation Chemistry](https://jobs.smartrecruiters.com/eurofins/744000163331879) — Cambridge, MA, US
-
 ## Pfizer
-- ★ [AI & Learning Experience Director, Marketing Academy](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/AI---Learning-Experience-Director--Marketing-Academy_4968382) — United States   New York   New York City (3 Locations)
-- ★ [Area Rare Cardiac Specialist (ARCS), Rare Cardiac - Westchester, NY](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Westchester/Area-Rare-Cardiac-Specialist--ARCS---Rare-Cardiac---Westchester--NY_4968448-1) — United States   New York   Westchester (2 Locations)
+- ★ [Computational Clinical Scientist](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Applied-AI-Workflow-Clinical-Scientist_4962397-1) — United States - Massachusetts - Cambridge
 - ★ [Director - Architect, Cyber / IAM & Secure Connectors (Commercial)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Director---Architect--Cyber---IAM---Secure-Connectors--Commercial-_4968289-2) — United States   Pennsylvania   Collegeville (2 Locations)
 - ★ [Director, AI Quality, Evaluation & Observability Engineering](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Director--AI-Quality--Evaluation---Observability-Engineering_4968453-1) — United States   Pennsylvania   Collegeville (2 Locations)
 - ★ [Director, Content Business Process Lead](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Content-Business-Process-Lead_4968370) — United States   New York   New York City (6 Locations)
+- ★ [Director, Pharmacy Strategy & Execution Business Unit (Primary Care)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Pharmacy-Strategy---Execution-Business-Unit--Primary-Care-_4968503-1) — United States   New York   New York City (6 Locations)
 - ★ [Director, US TUKYSA HCP Marketing Lead](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--US-TUKYSA-HCP-Marketing-Lead_4965783-1) — United States   New York   New York City (3 Locations)
 - ★ [eClinical Outcome Assessment (eCOA) Project Manager](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Pennsylvania---Collegeville/eClinical-Outcome-Assessment--eCOA--Project-Manager_4968237) — United States   Pennsylvania   Collegeville (4 Locations)
-- ★ [Gastroenterology Health & Science Specialist - Long Island, NY](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Long-Island-City/Gastroenterology-Health---Science-Specialist---Long-Island--NY_4968431-1) — United States   New York   Long Island City (2 Locations)
 - ★ [Gastroenterology Health & Science Specialist - Riverside, CA](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---California---Remote/Gastroenterology-Health---Science-Sales-Specialist---Riverside--CA_4965155-1) — United States   California   Remote (3 Locations)
 - ★ [Hospital Business Unit Sterile Injectables Senior Health and Science Sales Specialist - Mobile, AL](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Alabama---Remote/Hospital-Business-Unit-Sterile-Injectables-Senior-Health-and-Science-Sales-Specialist---Mobile--AL_4967216-2) — United States   Alabama   Remote (6 Locations)
 - ★ [Internal Medicine Health & Science System Specialist - Cincinnati, OH](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Ohio---Cincinnati/Internal-Medicine-Health---Science-System-Specialist---Cincinnati--OH_4968372-1) — United States   Ohio   Cincinnati (4 Locations)
@@ -361,13 +416,17 @@
 - ★ [Medical Writing, Manager](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Maryland---Remote/Medical-Writing--Manager_4967939-2) — United States   Maryland   Remote (4 Locations)
 - ★ [Neuroscience Specialist, Health and Science Professional - Wausau, WI](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Wisconsin---Wausau/Neuroscience-Specialist--Health-and-Science-Professional---Wausau--WI_4966146-1) — United States   Wisconsin   Wausau (3 Locations)
 - ★ [Oncology Field Medical, Director Thoracic (non-MD)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---California---Remote/Oncology-Field-Medical--Director-Thoracic--non-MD-_4963434-1) — United States - California - Remote
-- ★ [Scientist (IHC Lab)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Scientist--IHC-Lab-_4968438) — United States - Washington – Bothell
 - ★ [Scientist, Systems Immunology](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Scientist--Systems-Immunology_4967207-2) — United States - Massachusetts - Cambridge
 - ★ [Senior Automation Engineer](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Andover/Senior-Automation-Engineer_4958931-2) — United States - Massachusetts - Andover
 - ★ [Senior Manager, AI Engineer – Applied Intelligence](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Senior-Manager--AI-Engineer---Applied-Intelligence_4968088-2) — United States   New York   New York City (3 Locations)
 - ★ [Senior Manager, CX Messaging and Activation Lead](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Senior-Manager--CX-Messaging-and-Activation-Lead_4962939-1) — United States   Pennsylvania   Collegeville (6 Locations)
 - ★ [Senior Manager, GRC Technology, Metrics, and Automation](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Senior-Manager--GRC-Technology--Metrics--and-Automation_4963107) — United States   New York   New York City (2 Locations)
-- ★ [​​Manager, AMER LAN Engineer​](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/XMLNAME---Manager--AMER-LAN-Engineer-_4968168-2) — United States - New York - New York City
+- ★ [Warehouse Logistics Sr. Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Wisconsin---Pleasant-Prairie/Warehouse-Logistics-Sr-Associate_4968384-1) — United States - Wisconsin - Pleasant Prairie
+- [AI & Learning Experience Director, Marketing Academy](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/AI---Learning-Experience-Director--Marketing-Academy_4968382) — United States   New York   New York City (3 Locations)
+- [Area Rare Cardiac Specialist (ARCS), Rare Cardiac - Westchester, NY](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Westchester/Area-Rare-Cardiac-Specialist--ARCS---Rare-Cardiac---Westchester--NY_4968448-1) — United States   New York   Westchester (2 Locations)
+- [Gastroenterology Health & Science Specialist - Long Island, NY](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Long-Island-City/Gastroenterology-Health---Science-Specialist---Long-Island--NY_4968431-1) — United States   New York   Long Island City (2 Locations)
+- [Scientist (IHC Lab)](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Scientist--IHC-Lab-_4968438) — United States - Washington – Bothell
+- [​​Manager, AMER LAN Engineer​](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/XMLNAME---Manager--AMER-LAN-Engineer-_4968168-2) — United States - New York - New York City
 
 ## Bristol Myers Squibb
 - ★ [Associate Director of CMC - Quality Assurance](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Indianapolis---RayzeBio---IN/Associate-Director-of-CMC---Quality-Assurance_R1608904) — Indianapolis   RayzeBio   IN (2 Locations)
@@ -376,6 +435,7 @@
 - ★ [Associate Director, WW Medical Skills](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Associate-Director--WW-Medical-Skills_R1606551) — Princeton - NJ - US
 - ★ [Associate I, Manufacturing, Cell Therapy](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Summit-West---NJ---US/Associate-I--Manufacturing--Cell-Therapy_R1608596-1) — Summit West - NJ - US
 - ★ [Clinical Trial Manager](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Remote---United-States---US/Clinical-Trial-Manager_R1608830) — Remote - United States - US
+- ★ [Compliance & Ethics Lead, LR LATAM (Associate Director Level)](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Bogot---CO/Compliance---Ethics-Lead--LR-LatAm_R1607598) — Bogotá - CO
 - ★ [Director, Consumer/Caregiver US Marketing – KarXT (Alzheimer’s Disease)](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Director--Consumer-Caregiver-US-Marketing---KarXT--Alzheimer-s-Disease-_R1608851) — Princeton - NJ - US
 - ★ [Inspection & Packaging Operator I](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Inspection---Packaging-Operator-I_R1607733) — Manati - PR - US
 - ★ [Manager, ICON Compliance Monitoring & Remediation](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Buenos-Aires---AR/Manager--ICON-Compliance-Monitoring---Remediation_R1608737) — Buenos Aires - AR
@@ -384,67 +444,28 @@
 - ★ [Senior Director, EHSS Programs](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/New-Brunswick---NJ---US/Senior-Director--EHSS-Programs_R1608524-1) — New Brunswick   NJ   US (6 Locations)
 - ★ [Senior Manager of CMC, Quality Assurance](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Indianapolis---RayzeBio---IN/Senior-Manager-of-CMC--Quality-Assurance_R1608905) — Indianapolis   RayzeBio   IN (2 Locations)
 - ★ [Senior Manager, Competitive Intelligence, Business Development & Strategy](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Senior-Manager--Competitive-Intelligence--Business-Development---Strategy_R1608573-1) — Princeton - NJ - US
+- ★ [Specialist, QC Analytical, Cell Therapy](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Summit-West---NJ---US/Specialist--QC-Analytical--Cell-Therapy_R1608793) — Summit West - NJ - US
+- ★ [Specialist, QC Equipment Lifecycle Management, Cell Therapy](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Devens---MA---US/Specialist--QC-Equipment-Lifecycle-Management--Cell-Therapy_R1608829-1) — Devens - MA - US
 - ★ [Sr Manager, CAR-T Site Supply Chain Product Planner](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Summit-West---NJ---US/Sr-Manager--CAR-T-Site-Supply-Chain-Product-Planner_R1608824) — Summit West - NJ - US
 - ★ [Sr. Environmental Health & Safety (EHS) Associate](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Indianapolis---RayzeBio---IN/Sr-Environmental-Health---Safety--EHS--Associate_R1608735) — Indianapolis - RayzeBio - IN
 - ★ [Summer 2027 – Undergraduate Precision Medicine, BioAnalytical and Translational Sciences Internship](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Clinical-Flow-Cytometry-Intern_R1608049) — Princeton - NJ - US
 
-## AstraZeneca
-- ★ [Associate Director, Digital Proteomics and AI Innovation](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Digital-Proteomics-and-AI-Innovation_R-256166) — US - Gaithersburg - MD
-- ★ [Associate Director, Manufacturing](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Santa-Monica-Colorado-Avenue--CA/Associate-Director--Manufacturing_R-259125-1) — US – Santa Monica Colorado Avenue – CA
-- ★ [Associate Director, Oncology Outcomes Research](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Oncology-Outcomes-Research_R-258233) — US - Gaithersburg - MD
-- ★ [Associate Director, US Health Economics and Outcomes Research, Boston Seaport](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Associate-Director--US-Health-Economics-and-Outcomes-Research--Boston-Seaport_R-264646-1) — US - Boston - MA
-- ★ [Cell Therapy Document Control Quality Specialist; Wednesday-Saturday (4X10)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Rockville---MD/Cell-Therapy-Document-Control-Quality-Specialist--Wednesday-Saturday--4X10-_R-264929) — US - Rockville - MD
-- ★ [Cell Therapy Quality Assurance Specialist; Wednesday-Saturday (4X10)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Rockville---MD/Cell-Therapy-Quality-Assurance-Specialist--Wednesday-Saturday--4X10-_R-264930) — US - Rockville - MD
-- ★ [Director, CVRM Communications (Weight Management)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Director-of-Communications--Obesity--CVRM_R-257788) — US - Cambridge Kendall SQ - MA
-- ★ [EWH Technician II](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Bogart---GA/EWH-Technician-II_R-264989) — US - Bogart - GA
-- ★ [Executive Director – Translational Medicine, Multimodal Biomarker Delivery  & AI](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Executive-Director---Translational-Medicine--Multimodal-Biomarker-Delivery----AI_R-264970) — US   Gaithersburg   MD (2 Locations)
-- ★ [Global Commercial Director - EGFR Lung Cancer](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Global-Commercial-Director---EGFR-Lung-Cancer_R-261284) — US - Gaithersburg - MD
-- ★ [Medical Director, Senior Patient Safety Physician, Cell Therapy - Multiple Myeloma](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Director--Senior-Patient-Safety-Physician--Cell-Therapy---Multiple-Myeloma_R-264983-1) — US - Gaithersburg - MD
-- ★ [Medical Director, Senior Patient Safety Physician, Cell Therapy - Oncology](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Director--Senior-Patient-Safety-Physician--Cell-Therapy---Oncology_R-264986) — US - Gaithersburg - MD
-- ★ [Medical Lead - GI Cancer](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Lead---GI-Cancer_R-257655) — US - Gaithersburg - MD
-- ★ [Quality Control Senior Specialist](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Bogart---GA/Quality-Control-Senior-Specialist_R-265005-2) — US - Bogart - GA
-- ★ [Senior Director, Global Diagnostics](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Senior-Director--Global-Diagnostics_R-261934) — US - Gaithersburg - MD
-- ★ [Senior Forward Deployed Design Researcher - Evinova (Remote)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US/Senior-Forward-Deployed-Design-Researcher---Evinova_R-264903-1) — US
-- [(Sr Dir) Head, AI Drug Discovery & Design](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME--Sr-Dir--Head--AI-Drug-Discovery---Design_R-264912-1) — US - Cambridge Kendall SQ - MA
-- [Associate Director, Process Lead, Integrated Planning & Capacity Management](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Process-Lead--Integrated-Planning---Capacity-Management_R-264926-1) — US   Gaithersburg   MD (2 Locations)
-- [Associate Director, Process Lead, Materials Planning & Supply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Process-Lead--Materials-Planning---Supply_R-264927-1) — US   Gaithersburg   MD (2 Locations)
-- [Director Site Management & Monitoring-Cell Therapy (Study Start-Up, Region Americas)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US/Director-Site-Management---Monitoring-Cell-Therapy--Study-Start-Up--Region-Americas-_R-264918) — US
-- [Director, Planning Center of Excellence (CoE) Lead](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Director--Planning-Center-of-Excellence--CoE--Lead_R-264925-1) — US   Gaithersburg   MD (2 Locations)
-- [Engineer, Automation](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Engineer--Automation_R-264985) — US - Gaithersburg - MD
-- [Global Commercial Director Dyslipidemia](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Global-Commercial-Director-Dyslipidemia_R-263663-1) — US - Cambridge Kendall SQ - MA
-- [Global Senior Commercial Director ETA-S2i](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Global-Senior-Commercial-Director-ETA-S2i_R-264913) — US - Gaithersburg - MD
-- [Medical Science Liaison/Sr. Medical Science Liaison (Asthma) - MD/DC/VA/DE](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Baltimore---MD/Medical-Science-Liaison-Sr-Medical-Science-Liaison--Asthma----MD-DC-VA-DE_R-264916-1) — US   Baltimore   MD (3 Locations)
-- [MLR Planning Manager](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/MLR-Planning-Manager_R-263859) — US - Gaithersburg - MD
-
-## NVIDIA
-- ★ [Developer Technology Intern, AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178) — US, CA, Santa Clara
-- ★ [Director, DSX and DGX Cloud Business Development](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--DSX-and-DGX-Cloud-Business-Development_JR2030213) — US, CA, Santa Clara
-- ★ [Senior ASIC Verification Engineer, Coherent High Speed Interconnect](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017175-1) — US CA Santa Clara (4 Locations)
-- ★ [Senior Director, Developer Marketing](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003) — US, CA, Santa Clara
-- ★ [Senior HPC Architect, Identity and Security at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Identity-and-Security-at-Scale_JR2030465) — US CA Santa Clara (6 Locations)
-- ★ [Senior Machine Learning Engineer, AI Safety Evaluations](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--AI-Safety-Evaluations_JR2029416) — US CA Santa Clara (2 Locations)
-- ★ [Senior Packaging Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Packaging-Engineer_JR2030628) — US, CA, Santa Clara
-- ★ [Senior Staff FinOps Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-FinOps-Engineer_JR2030444) — US CA Santa Clara (3 Locations)
-- ★ [Senior System Software Engineer, Telemetry at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Telemetry-at-Scale_JR2030471) — US CA Santa Clara (6 Locations)
-- ★ [Senior Systems Software Engineer - Chromium Engineering For GeForce Now](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Chromium-Engineering-For-GeForce-Now_JR2030271) — US CA Santa Clara (2 Locations)
-- ★ [Senior Technical Program Manager, At-Scale GPU Clusters](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--At-Scale-GPU-Clusters_JR2030475) — US CA Santa Clara (7 Locations)
-- ★ [Senior Technical Project Manager – Developer Programs](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Project-Manager---Developer-Programs_JR2030528) — US CA Santa Clara (6 Locations)
-- ★ [Senior Technical Trainer and Content Developer, AI Compute Systems](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030132) — US TX Remote (3 Locations)
-- ★ [Senior Technical Trainer and Content Developer, AI Data Centers](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Trainer-and-Content-Developer--AI-Data-Centers_JR2030345) — US CA Santa Clara (6 Locations)
-- [Senior Director, Finance Data Center Neoclouds](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Finance-Data-Center-Neoclouds_JR2030456) — US, CA, Santa Clara
-- [Senior HPC Architect, Storage Management at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Storage-Management-at-Scale_JR2030470) — US CA Santa Clara (6 Locations)
-- [Senior Software Safety Engineer - Halos Solutions](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Engineer---Halos-Solutions_JR2030242) — US CA Santa Clara (3 Locations)
-
 ## Amgen
 - ★ [Associate Manufacturing - Day Shift](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Rhode-Island---West-Greenwich/Associate-Manufacturing---Day-Shift_R-262369) — US - Rhode Island - West Greenwich
+- ★ [Associate QC I](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---North-Carolina---Holly-Springs/Associate-QC-I_R-259543) — US - North Carolina - Holly Springs
 - ★ [Associate Quality Control -  Clinical Process & Chemical Analysis](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Associate-Quality-Control----Clinical-Process---Chemical-Analysis_R-253325) — US - California - Thousand Oaks
+- ★ [Associate Upstream Manufacturing - Nights](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Rhode-Island---West-Greenwich/Associate-Upstream-Manufacturing---Nights_R-262313) — US - Rhode Island - West Greenwich
 - ★ [Business Performance Dir](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Business-Performance-Dir_R-261332-1) — United States - Remote
 - ★ [Director, Field Effectiveness, Obesity and Related Conditions](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Director--Field-Effectiveness--Obesity-and-Related-Conditions_R-258151) — United States   Remote (3 Locations)
 - ★ [Global Marketing Director Oncology](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Global-Marketing-Director-Oncology_R-262350) — United States - Remote
 - ★ [Grad Intern – DPS Cell-Free Expression (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---South-San-Francisco/Grad-Intern---DPS-Cell-Free-Expression--Summer-2027-_R-262561) — US - California - South San Francisco
+- ★ [Learning Operations Manager](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Learning-Operations-Manager_R-261716) — US - California - Thousand Oaks
 - ★ [NextGen Cardiovascular Specialist](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Los-Angeles/NextGen-Cardiovascular-Specialist_R-262708) — US   California   Los Angeles (8 Locations)
 - ★ [Scientist, Rare Disease Biology](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Scientist--Rare-Disease-Biology_R-260732) — US - California - Thousand Oaks
 - ★ [Senior Associate Manufacturing - Nights](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Rhode-Island---West-Greenwich/Senior-Associate-Manufacturing---Nights_R-262570) — US - Rhode Island - West Greenwich
+- ★ [Senior Specialty Representative - Respiratory Biologic - Gastroenterology (GI) - Boston N, MA](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Massachusetts---Boston/Senior-Specialty-Representative---Respiratory-Biologic---Gastroenterology--GI----Cleveland--OH_R-262594) — US   Massachusetts   Boston (3 Locations)
+- ★ [Senior Specialty Representative - Respiratory Biologic - Gastroenterology (GI)-Boston S, MA](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Massachusetts---Boston/Senior-Specialty-Representative---Respiratory-Biologic---Gastroenterology--GI--Boston-S--MA_R-262595) — US   Massachusetts   Boston (3 Locations)
+- ★ [Senior Specialty Representative - Respiratory Biologic - Gastroenterology (GI)-Hudson Valley, NY](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---New-Jersey---Trenton/Senior-Specialty-Representative---Respiratory-Biologic---Gastroenterology--GI--Hudson-Valley--NY_R-262596) — US   New Jersey   Trenton (2 Locations)
 - ★ [Undergrad Co-op - Operations - Facilities & Engineering (Electrical) (Jan -Mar 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Operations---Facilities---Engineering--Electrical---Jan--Mar-2027-_R-262184) — US - Rhode Island - West Greenwich
 - ★ [Undergrad Intern - Commercialization Technology and Decision Support (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Commercialization-Technology-and-Decision-Support--Summer-2027-_R-261663) — United States - Remote
 - ★ [Undergrad Intern – Global Patient Safety (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Global-Patient-Safety--Summer-2027-_R-260144) — United States - Remote
@@ -476,6 +497,60 @@
 - [Sr. Engineer - Drug Substance Engineering Technical Authority (ETA)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---North-Carolina---Holly-Springs/Sr-Engineer---Drug-Substance-Engineering-Technical-Authority--ETA-_R-258761) — US - North Carolina - Holly Springs
 - [Sr. Manager Deviations & Complaints](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Ohio---New-Albany/Sr-Manager-Deviations---Complaints_R-255967) — US - Ohio - New Albany
 
+## AstraZeneca
+- ★ [Associate Director, Digital Proteomics and AI Innovation](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Digital-Proteomics-and-AI-Innovation_R-256166) — US - Gaithersburg - MD
+- ★ [Associate Director, Manufacturing](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Santa-Monica-Colorado-Avenue--CA/Associate-Director--Manufacturing_R-259125-1) — US – Santa Monica Colorado Avenue – CA
+- ★ [Associate Director, Oncology Outcomes Research](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Oncology-Outcomes-Research_R-258233) — US - Gaithersburg - MD
+- ★ [Associate Director, US Health Economics and Outcomes Research, Boston Seaport](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Associate-Director--US-Health-Economics-and-Outcomes-Research--Boston-Seaport_R-264646-1) — US - Boston - MA
+- ★ [Cell Therapy Document Control Quality Specialist; Wednesday-Saturday (4X10)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Rockville---MD/Cell-Therapy-Document-Control-Quality-Specialist--Wednesday-Saturday--4X10-_R-264929) — US - Rockville - MD
+- ★ [Cell Therapy Quality Assurance Specialist; Wednesday-Saturday (4X10)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Rockville---MD/Cell-Therapy-Quality-Assurance-Specialist--Wednesday-Saturday--4X10-_R-264930) — US - Rockville - MD
+- ★ [Creative Lead, GCS Creative Services](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Wilmington---DE/Creative-Lead--GCS-Creative-Services_R-259116) — US - Wilmington - DE
+- ★ [Director, CVRM Communications (Weight Management)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Director-of-Communications--Obesity--CVRM_R-257788) — US - Cambridge Kendall SQ - MA
+- ★ [EWH Technician II](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Bogart---GA/EWH-Technician-II_R-264989) — US - Bogart - GA
+- ★ [Executive Director – Translational Medicine, Multimodal Biomarker Delivery  & AI](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Executive-Director---Translational-Medicine--Multimodal-Biomarker-Delivery----AI_R-264970) — US   Gaithersburg   MD (2 Locations)
+- ★ [Global Commercial Director - EGFR Lung Cancer](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Global-Commercial-Director---EGFR-Lung-Cancer_R-261284) — US - Gaithersburg - MD
+- ★ [Medical Director, Senior Patient Safety Physician, Cell Therapy - Multiple Myeloma](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Director--Senior-Patient-Safety-Physician--Cell-Therapy---Multiple-Myeloma_R-264983-1) — US - Gaithersburg - MD
+- ★ [Medical Director, Senior Patient Safety Physician, Cell Therapy - Oncology](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Director--Senior-Patient-Safety-Physician--Cell-Therapy---Oncology_R-264986) — US - Gaithersburg - MD
+- ★ [Medical Lead - GI Cancer](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Lead---GI-Cancer_R-257655) — US - Gaithersburg - MD
+- ★ [Quality Control Senior Specialist](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Bogart---GA/Quality-Control-Senior-Specialist_R-265005-2) — US - Bogart - GA
+- ★ [Senior Director, Global Diagnostics](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Senior-Director--Global-Diagnostics_R-261934) — US - Gaithersburg - MD
+- ★ [Senior Forward Deployed Design Researcher - Evinova (Remote)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US/Senior-Forward-Deployed-Design-Researcher---Evinova_R-264903-1) — US
+- ★ [Senior Process Engineer, Cell Therapy Process Development](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Santa-Monica-Colorado-Avenue--CA/Senior-Process-Engineer--Cell-Therapy-Process-Development_R-264438) — US – Santa Monica Colorado Avenue – CA
+- [(Sr Dir) Head, AI Drug Discovery & Design](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME--Sr-Dir--Head--AI-Drug-Discovery---Design_R-264912-1) — US - Cambridge Kendall SQ - MA
+- [Associate Director, Global Analytical Lifecycle Management](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Global-Analytical-Lifecycle-Management_R-264348-1) — US - Gaithersburg - MD
+- [Associate Director, Process Lead, Integrated Planning & Capacity Management](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Process-Lead--Integrated-Planning---Capacity-Management_R-264926-1) — US   Gaithersburg   MD (2 Locations)
+- [Associate Director, Process Lead, Materials Planning & Supply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Associate-Director--Process-Lead--Materials-Planning---Supply_R-264927-1) — US   Gaithersburg   MD (2 Locations)
+- [Director Site Management & Monitoring-Cell Therapy (Study Start-Up, Region Americas)](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US/Director-Site-Management---Monitoring-Cell-Therapy--Study-Start-Up--Region-Americas-_R-264918) — US
+- [Director, Planning Center of Excellence (CoE) Lead](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Director--Planning-Center-of-Excellence--CoE--Lead_R-264925-1) — US   Gaithersburg   MD (2 Locations)
+- [Engineer, Automation](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Engineer--Automation_R-264985) — US - Gaithersburg - MD
+- [Global Commercial Director Dyslipidemia](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Global-Commercial-Director-Dyslipidemia_R-263663-1) — US - Cambridge Kendall SQ - MA
+- [Global Senior Commercial Director ETA-S2i](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Global-Senior-Commercial-Director-ETA-S2i_R-264913) — US - Gaithersburg - MD
+- [Medical Science Liaison (Immunology) - Michigan](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Detroit---MI/Medical-Science-Liaison--Immunology----Michigan_R-265014-1) — US   Detroit   MI (2 Locations)
+- [Medical Science Liaison/Sr. Medical Science Liaison (Asthma) - MD/DC/VA/DE](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Baltimore---MD/Medical-Science-Liaison-Sr-Medical-Science-Liaison--Asthma----MD-DC-VA-DE_R-264916-1) — US   Baltimore   MD (3 Locations)
+- [MLR Planning Manager](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/MLR-Planning-Manager_R-263859) — US - Gaithersburg - MD
+
+## NVIDIA
+- ★ [Developer Technology Intern, AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178) — US, CA, Santa Clara
+- ★ [Director, DSX and DGX Cloud Business Development](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--DSX-and-DGX-Cloud-Business-Development_JR2030213) — US, CA, Santa Clara
+- ★ [Principal Product Manager - Laptop GPU and SoC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---Laptop-GPU-and-SoC_JR2024647-1) — US, CA, Santa Clara
+- ★ [Senior ASIC Verification Engineer, Coherent High Speed Interconnect](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017175-1) — US CA Santa Clara (4 Locations)
+- ★ [Senior Director, Developer Marketing](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003) — US, CA, Santa Clara
+- ★ [Senior HPC Architect, Identity and Security at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Identity-and-Security-at-Scale_JR2030465) — US CA Santa Clara (6 Locations)
+- ★ [Senior HPC Architect, Storage Management at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Storage-Management-at-Scale_JR2030470) — US CA Santa Clara (6 Locations)
+- ★ [Senior Machine Learning Engineer, AI Safety Evaluations](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--AI-Safety-Evaluations_JR2029416) — US CA Santa Clara (2 Locations)
+- ★ [Senior Packaging Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Packaging-Engineer_JR2030628) — US, CA, Santa Clara
+- ★ [Senior Packaging Engineer - Advanced Technology Group](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Packaging-Engineer---Advanced-Technology-Group_JR2030610) — US, CA, Santa Clara
+- ★ [Senior RTL Analysis Methodology Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-RTL-Analysis-Methodology-Engineer_JR2030580) — US CA Santa Clara (2 Locations)
+- ★ [Senior Staff FinOps Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-FinOps-Engineer_JR2030444) — US CA Santa Clara (3 Locations)
+- ★ [Senior System Software Engineer, Telemetry at Scale](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Telemetry-at-Scale_JR2030471) — US CA Santa Clara (6 Locations)
+- ★ [Senior Systems Software Engineer - Chromium Engineering For GeForce Now](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Chromium-Engineering-For-GeForce-Now_JR2030271) — US CA Santa Clara (2 Locations)
+- ★ [Senior Technical Program Manager, At-Scale GPU Clusters](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--At-Scale-GPU-Clusters_JR2030475) — US CA Santa Clara (7 Locations)
+- ★ [Senior Technical Project Manager – Developer Programs](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Project-Manager---Developer-Programs_JR2030528) — US CA Santa Clara (6 Locations)
+- ★ [Senior Technical Trainer and Content Developer, AI Compute Systems](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030132) — US TX Remote (3 Locations)
+- ★ [Senior Technical Trainer and Content Developer, AI Data Centers](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Trainer-and-Content-Developer--AI-Data-Centers_JR2030345) — US CA Santa Clara (6 Locations)
+- [Senior Director, Finance Data Center Neoclouds](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Finance-Data-Center-Neoclouds_JR2030456) — US, CA, Santa Clara
+- [Senior Software Safety Engineer - Halos Solutions](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Engineer---Halos-Solutions_JR2030242) — US CA Santa Clara (3 Locations)
+
 ## Sanofi
 - ★ [2027 Post-Doctoral Associate, Cell Line Development, Framingham, MA](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Post-Doctoral-Associate--Cell-Line-Development--Framingham--MA_R2880248) — Framingham, MA
 - ★ [2027 Summer Co-op Purification Process Development, Framingham, MA](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Purification-Process-Development--Framingham--MA_R2866056) — Framingham, MA
@@ -486,27 +561,32 @@
 - ★ [Associate Director, Marketing New Products](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Morristown-NJ/Associate-Director--Marketing-New-Products_R2879472) — Morristown, NJ
 - ★ [Head of Biomarkers and Precision Medicine Respiratory and Dermatology](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Head-of-Biomarkers-and-Precision-Medicine-Respiratory-and-Dermatology_R2878547-1) — Cambridge, MA
 - ★ [Hemophilia Clinical Educator](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Detroit-MI/Hemophilia-Clinical-Educator_R2877443-1) — Detroit MI (3 Locations)
+- ★ [Lead Data Analyst, Market Research & Competitive Intelligence](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Morristown-NJ/Lead-Data-Analyst--Market-Research---Competitive-Intelligence_R2876910) — Morristown, NJ
 - ★ [Senior Product Manager, AI & Digital Marketing, LSD Rare Disease Portfolio](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Senior-Product-Manager--AI---Digital-Marketing--LSD-Rare-Disease-Portfolio_R2878815) — Cambridge, MA
 
-## Gilead Sciences
-- ★ [Associate Director, Commercial Learning & Development, Market Access Training Lead](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---El-Segundo/Associate-Director--Commercial-Learning---Development--Market-Access-Training-Lead_R0056748-2) — United States   California   El Segundo (2 Locations)
-- ★ [Director, Pharmacovigilance Science](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Director--Pharmacovigilance-Science_R0056567-2) — United States   California   Foster City (4 Locations)
-- ★ [Executive Director, Gilead and Kite Global Oncology Public Affairs](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Executive-Director--Gilead-and-Kite-Global-Oncology-Public-Affairs_R0056603-1) — United States - California - Foster City
-- ★ [Manager, End-to-End Commercial Supply Planner](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Manager--End-to-End-Commercial-Supply-Planner_R0055993) — United States   California   Foster City (2 Locations)
-- ★ [Senior Director Patient Safety Physician (MD)- CAR-T Programs](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---New-Jersey---Parsippany/Senior-Director-Patient-Safety-Physician--MD---CAR-T-Programs_R0056460-2) — United States   New Jersey   Parsippany (3 Locations)
-- ★ [Senior Prevention Specialist, HIV- Jackson/Mobile](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---Field/Senior-Prevention-Specialist--HIV--Jackson-Mobile_R0056517-1) — United States   Field (2 Locations)
-- ★ [Vice President, Policy](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---District-of-Columbia---Washington/Vice-President--Policy_R0056737-2) — United States   District of Columbia   Washington (2 Locations)
-- [Sr People Technology Product Manager - Workday](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-People-Technology-Product-Manager---Workday_R0056692-3) — United States - California - Foster City
-- [Sr Scientist, Process Development](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Process-Development_R0056685-2) — United States - California - Foster City
+## Moderna
+- ★ [2027 Co-Op, mRNA Design Engineering](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20129) — Cambridge Massachusetts
+- ★ [Co-Op, Clinical Cytometry](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Co-Op--Clinical-Cytometry_R19860) — Norwood Massachusetts
+- ★ [Global Medical Affairs Lead, Oncology](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Senior-Director--Global-Medical-Affairs--Oncology_R18620-1) — Cambridge Massachusetts
+- ★ [Senior Analytics Engineer, People Data](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Senior-Analytics-Engineer--People-Data_R20237) — Cambridge Massachusetts
+- ★ [Specialist,  Quality Control](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Specialist---Quality-Control_R20071) — Norwood Massachusetts
+- ★ [Specialist, Quality Control, Bioassay/Microbiology](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Marlborough-Massachusetts/Specialist--Quality-Control--Bioassay-Microbiology_R20287-1) — Marlborough Massachusetts
+- ★ [Technologist II, Biobank](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Technologist-II--Biobank_R20177) — Norwood Massachusetts
 
-## Regeneron
-- ★ [Manager Program Finance](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Manager-Program-Finance_R53221) — SLEEPY HOLLOW
-- ★ [Manager Validation, Sterility Assurance](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---TEMPEL-LN/Manager-Validation--Sterility-Assurance_R52902-1) — RENSS - TEMPEL LN
-- ★ [Medical Director, Clinical Development, Classical Hematology](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Medical-Director--Clinical-Development--Classical-Hematology_R52841) — TARRYTOWN
-- ★ [Senior Director, International Marketing - Oncology (Lung)](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Senior-Director--International-Marketing---Oncology--Lung-_R52909) — SLEEPY HOLLOW
-- ★ [Senior Director, International Marketing - Oncology (Skin)](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Senior-Director--Skin-Marketing--Oncology-Global_R52823) — SLEEPY HOLLOW
-- ★ [Sr. Device Development Engineer- Product Design](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---TECH-VALLEY/Senior-Device-Development-Engineer_R51448) — RENSS - TECH VALLEY
-- [Talent Acquisition Coordinator](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Talent-Acquisition-Coordinator_R53187) — SLEEPY HOLLOW
+## Natera
+- ★ [Associate Director of Bioinformatics (Oncology Algorithms)](https://job-boards.greenhouse.io/natera/jobs/6270547004) — San Carlos, CA
+- ★ [Associate Director of Bioinformatics (Oncology Algorithms)](https://job-boards.greenhouse.io/natera/jobs/6268558004) — US Remote
+- ★ [Clinical Lab Operator I](https://job-boards.greenhouse.io/natera/jobs/6203762004) — Austin, TX
+- ★ [IOP/PSC Team Lead - CO](https://job-boards.greenhouse.io/natera/jobs/6270359004) — Northern Colorado
+- ★ [Lead Medical Lab Scientist](https://job-boards.greenhouse.io/natera/jobs/6206847004) — Austin, TX
+- ★ [PSC Manager - Greeley, CO](https://job-boards.greenhouse.io/natera/jobs/6270368004) — Greeley, CO
+- ★ [Sr EHR Implementation Manager](https://job-boards.greenhouse.io/natera/jobs/6266956004) — US Remote
+- [Phlebotomist Test Coordinator - Maywood, IL](https://job-boards.greenhouse.io/natera/jobs/6270364004) — US Remote
+- [Principal Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/6250652004) — US Remote
+- [Research Associate 1](https://job-boards.greenhouse.io/natera/jobs/6260844004) — San Carlos, CA
+- [Senior Manager, Development and Design Transfer](https://job-boards.greenhouse.io/natera/jobs/6267607004) — San Carlos, CA
+- [Senior Product Manager, ClinicalAI Real-World Data (RWD)](https://job-boards.greenhouse.io/natera/jobs/6239213004) — US Remote
+- [Staff Scientist, R&D](https://job-boards.greenhouse.io/natera/jobs/6266127004) — Austin, TX
 
 ## Roche
 - ★ [2027 Summer Intern - Service Data and Analytics](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686) — Indianapolis
@@ -514,6 +594,7 @@
 - ★ [Digital Solution Architect](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Indianapolis/Digital-Solution-Architect_202610-127877-1) — Indianapolis
 - ★ [Global Digital Marketing Manager](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Indianapolis/FoDM---Global-Digital-Marketing-Manager_202610-126434-2) — Indianapolis (2 Locations)
 - ★ [Medical Copywriter](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/San-Jose-Costa-Rica/Medical-Copywriter_202609-123377) — San Jose, Costa Rica
+- ★ [Senior R&D Engineer - Sequencing Systems](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Santa-Clara/Senior-R-D-Engineer---Sequencing-Systems_202610-125203-2) — Santa Clara
 - ★ [Talent Marketing Specialist - Employer Brand & Content](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/San-Jose-Costa-Rica/Talent-Marketing-Specialist---Employer-Brand---Content_202611-129775) — San Jose, Costa Rica
 
 ## AbbVie
@@ -525,20 +606,28 @@
 - [Account Executive I/II, Parkinson's Disease - Chicago South](https://jobs.smartrecruiters.com/abbvie/3743990017047446) — Chicago, IL, US
 - [Associate Data Scientist II – Early Discovery Science](https://jobs.smartrecruiters.com/abbvie/3743990017066596) — North Chicago, IL, US
 - [Associate Director - IT Mergers, Acquisitions, Divestitures, and Collaborations](https://jobs.smartrecruiters.com/abbvie/3743990017043136) — North Chicago, IL, US
+- [Associate Director AI Engineering - Operations](https://jobs.smartrecruiters.com/abbvie/3743990017074706) — North Chicago, IL, US
 - [Associate Director Omnichannel Marketing - Oncology](https://jobs.smartrecruiters.com/abbvie/3743990017060706) — Mettawa, IL, US
 - [Associate Director, Enterprise Forecasting Platform Product Owner](https://jobs.smartrecruiters.com/abbvie/3743990017063798) — Mettawa, IL, US
 - [Associate Director, Finance, Immunology Forecasting](https://jobs.smartrecruiters.com/abbvie/3743990017046166) — Mettawa, IL, US
 - [Associate Director, Omnichannel Experience Lead- Dermatology](https://jobs.smartrecruiters.com/abbvie/3743990017044096) — Mettawa, IL, US
 - [Associate Director, Strategic Planning and Operations Aesthetics PCS](https://jobs.smartrecruiters.com/abbvie/3743990017045316) — Irvine, CA, US
 - [Associate Director, Talent Management](https://jobs.smartrecruiters.com/abbvie/3743990017067136) — Mettawa, IL, US
-- [Associate Scientist I/II – Formulation](https://jobs.smartrecruiters.com/abbvie/3743990017071156) — North Chicago, IL, US
+- [Associate Scientist II - Analytical R&D](https://jobs.smartrecruiters.com/abbvie/3743990017072966) — North Chicago, IL, US
 - [Batch Record Specialist](https://jobs.smartrecruiters.com/abbvie/3743990017069636) — Cincinnati, OH, US
 - [Business Operations, Financial Planning and Analysis](https://jobs.smartrecruiters.com/abbvie/3743990017045416) — North Chicago, IL, US
 - [Clinical Account Executive, Multiple Myeloma - Denver, CO](https://jobs.smartrecruiters.com/abbvie/3743990017039467) — Denver, CO, US
+- [Clinical Account Executive, Oncology - Charlotte, NC](https://jobs.smartrecruiters.com/abbvie/3743990017071746) — Charlotte, NC, US
 - [Coordinator, Global Security Access Control Analyst](https://jobs.smartrecruiters.com/abbvie/3743990017042576) — North Chicago, IL, US
+- [Coordinator, Production Training](https://jobs.smartrecruiters.com/abbvie/3743990017072506) — Tempe, AZ, US
 - [Customer Service Representative III](https://jobs.smartrecruiters.com/abbvie/3743990017049676) — Austin, TX, US
 - [Director, Corporate Strategy & Business Operations](https://jobs.smartrecruiters.com/abbvie/3743990017045506) — North Chicago, IL, US
 - [Director, Global Program Manager - Oncology](https://jobs.smartrecruiters.com/abbvie/3743990017044336) — North Chicago, IL, US
+- [Director, Health Economics & Outcomes Research (HEOR) Strategy, Psychiatry Pipeline](https://jobs.smartrecruiters.com/abbvie/3743990017072106) — Florham Park, NJ, US
+- [Director, Health Economics & Outcomes Research (HEOR) Strategy, Psychiatry Pipeline](https://jobs.smartrecruiters.com/abbvie/3743990017071834) — Mettawa, IL, US
+- [District Manager, Psychiatry - Northern Ohio](https://jobs.smartrecruiters.com/abbvie/3743990017075927) — Toledo, OH, US
+- [End to End Sr. Supply Chain Planner](https://jobs.smartrecruiters.com/abbvie/3743990017076246) — Florham Park, NJ, US
+- [Finance Lead, Systems Governance & Administration](https://jobs.smartrecruiters.com/abbvie/3743990017076697) — Newark, NJ, US
 - [Global Head of Pathology, Preclinical Safety](https://jobs.smartrecruiters.com/abbvie/3743990017050286) — North Chicago, IL, US
 - [Instruments Technician I (Day Shift)](https://jobs.smartrecruiters.com/abbvie/3743990017048196) — North Chicago, IL, US
 - [Lead, Patient Access](https://jobs.smartrecruiters.com/abbvie/3743990017064419) — North Chicago, IL, US
@@ -565,47 +654,60 @@
 - [Senior Electrical Engineer, Medical Device Product Development](https://jobs.smartrecruiters.com/abbvie/3743990017046576) — Tempe, AZ, US
 - [Senior Electrical Engineer, Medical Device Product Development](https://jobs.smartrecruiters.com/abbvie/3743990017046381) — North Chicago, IL, US
 - [Senior Manager, Market Insights & Analytics - Neuroscience Pipeline](https://jobs.smartrecruiters.com/abbvie/3743990017046506) — Mettawa, IL, US
+- [Senior Manager, OneHUB External Hubs](https://jobs.smartrecruiters.com/abbvie/3743990017076166) — North Chicago, IL, US
 - [Senior Medical Director, Clinical Development Neuroscience](https://jobs.smartrecruiters.com/abbvie/3743990017058616) — North Chicago, IL, US
 - [Senior Medical Director, Clinical Development Neuroscience](https://jobs.smartrecruiters.com/abbvie/3743990017057712) — Waltham, MA, US
+- [Senior Scientist I - Cell Culture Process Development](https://jobs.smartrecruiters.com/abbvie/3743990017074236) — Worcester, MA, US
 - [Senior Scientist II](https://jobs.smartrecruiters.com/abbvie/3743990017043057) — Worcester, MA, US
 - [Senior Scientist II - Analytical Chemistry](https://jobs.smartrecruiters.com/abbvie/3743990017046376) — North Chicago, IL, US
+- [Senior Training Manager, Oncology](https://jobs.smartrecruiters.com/abbvie/3743990017076296) — Mettawa, IL, US
+- [Specialist, Communications](https://jobs.smartrecruiters.com/abbvie/3743990017073876) — Tempe, AZ, US
 - [Sr Medical Director, Oncology Clinical Development (Solid Tumors)](https://jobs.smartrecruiters.com/abbvie/3743990017046826) — Florham Park, NJ, US
+- [Sr Principal Engineer Black Utilities](https://jobs.smartrecruiters.com/abbvie/3743990017071846) — North Chicago, IL, US
 - [Sr Principal Engineer, Mechanical](https://jobs.smartrecruiters.com/abbvie/3743990017059736) — North Chicago, IL, US
 - [Thought Leader Liaison, Dermatology - Florida/Georgia](https://jobs.smartrecruiters.com/abbvie/3743990017050346) — Orlando, FL, US
 - [Thought Leader Liaison, Dermatology- New York West](https://jobs.smartrecruiters.com/abbvie/3743990017050156) — Buffalo, NY, US
 - [Training Manager, Chronic Migraine](https://jobs.smartrecruiters.com/abbvie/3743990017049116) — Mettawa, IL, US
 
-## Moderna
-- ★ [2027 Co-Op, mRNA Design Engineering](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20129) — Cambridge Massachusetts
-- ★ [Global Medical Affairs Lead, Oncology](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Senior-Director--Global-Medical-Affairs--Oncology_R18620-1) — Cambridge Massachusetts
-- ★ [Senior Analytics Engineer, People Data](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Senior-Analytics-Engineer--People-Data_R20237) — Cambridge Massachusetts
-- ★ [Specialist, Quality Control, Bioassay/Microbiology](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Marlborough-Massachusetts/Specialist--Quality-Control--Bioassay-Microbiology_R20287-1) — Marlborough Massachusetts
-- [Specialist,  Quality Control](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Specialist---Quality-Control_R20071) — Norwood Massachusetts
-- [Technologist II, Biobank](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Technologist-II--Biobank_R20177) — Norwood Massachusetts
+## GSK
+- ★ [Associate Director, Large Molecule Analytical Development](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Massachusetts---Waltham/Associate-Director--Large-Molecule-Analytical-Development_451618) — USA   Massachusetts   Waltham (2 Locations)
+- ★ [Principal Medical Writer](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Durham-Blackwell-Street/Principal-Medical-Writer_452140-1) — Durham Blackwell Street (4 Locations)
+- ★ [Regional Sales Director - Mid-Atlantic](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---North-Carolina---Carolinas/Regional-Sales-Director---Mid---Atlantic_445724) — USA   North Carolina   Carolinas (6 Locations)
+- ★ [SR ACCT SPEC, USC IMMUNOLOGY (Arkansas & Oklahoma)](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Arkansas---Bentonville/SR-ACCT-SPEC--USC-IMMUNOLOGY--Arkansas---Oklahoma-_450666) — USA   Arkansas   Bentonville (7 Locations)
+- ★ [Territory Account Manager, ViiV - PHOENIX, AZ](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Arizona---Phoenix/Territory-Account-Manager--ViiV---PHOENIX--AZ_452188-1) — USA   Arizona   Phoenix (2 Locations)
+- [Alliance - Project Manager](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Massachusetts---Waltham/Alliance---Project-Manager_451541) — USA - Massachusetts - Waltham
+- [External Operations Senior Specialist](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/External-Packaging-Senior-Specialist_451772) — USA   Pennsylvania   Upper Providence (2 Locations)
+- [MSAT Product and Process Validation Specialist](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Marietta/MSAT-Product-and-Process-Validation-Specialist_451969) — USA - Pennsylvania - Marietta
+- [Product Director, Commercial Data Platforms](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Philadelphia/Product-Director--Commercial-Data-Platforms_450778) — USA   Pennsylvania   Philadelphia (3 Locations)
+- [Senior Director, Oncology Global RWE & HO Targeted Lung Asset Lead](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Senior-Director--Oncology-Global-RWE---HO-Targeted-Lung-Asset-Lead_451676) — USA   Pennsylvania   Upper Providence (5 Locations)
+- [Sr Director, Market Access Strategy, Access Optimization – Oncology](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Philadelphia/Sr-Director--Market-Access-Strategy--Access-Optimization---Oncology_449759-1) — USA   Pennsylvania   Philadelphia (2 Locations)
+- [Study Delivery Lead - Non-interventional Study Planning and Delivery](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Study-Delivery-Lead---Non-interventional-Study-Planning-and-Delivery_451320) — USA   Pennsylvania   Upper Providence (2 Locations)
+- [ViiV Healthcare (GSK) - Manager, Clinical Development (Durham, NC or London, UK)](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Durham-Blackwell-Street/ViiV-Healthcare--GSK----Manager--Clinical-Development--Durham--NC-or-London--UK-_451910-1) — Durham Blackwell Street (2 Locations)
 
-## Biogen
-- ★ [Physical Safety Sr. Associate II](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Physical-Safety-Sr-Associate-II_REQ24594) — Research Triangle Park, NC
-- ★ [Rare Disease Account Executive Pittsburgh](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/Rare-Disease-Account-Executive-Pittsburgh_REQ24597) — Pittsburgh PA (2 Locations)
-- ★ [Sr. Supervisor, Utilities Operations (Days)](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Sr-Supervisor--Utilities-Operations--Days-_REQ24589) — Research Triangle Park, NC
-- [Director, Protective Operations](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Director--Protective-Operations_REQ24585) — Cambridge, MA
-- [Regional Business Director- West Region](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Denver-CO/Regional-Business-Director--West-Region_REQ24584) — Denver CO (4 Locations)
-- [Sr. Utilities Technician II (Days)](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Sr-Utilities-Technician-II--Days-_REQ24590) — Research Triangle Park, NC
+## Regeneron
+- ★ [Senior Director, International Marketing - Oncology (Lung)](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Senior-Director--International-Marketing---Oncology--Lung-_R52909) — SLEEPY HOLLOW
+- ★ [Senior Director, International Marketing - Oncology (Skin)](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Senior-Director--Skin-Marketing--Oncology-Global_R52823) — SLEEPY HOLLOW
+- ★ [Sr Talent Acquisition Specialist](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Sr-Talent-Acquisition-Specialist_R53293) — SLEEPY HOLLOW
+- ★ [Sr Talent Acquisition Specialist](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Sr-Talent-Acquisition-Specialist_R53294) — SLEEPY HOLLOW
+- ★ [Sr. Device Development Engineer- Product Design](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---TECH-VALLEY/Senior-Device-Development-Engineer_R51448) — RENSS - TECH VALLEY
+- [Manager Program Finance](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Manager-Program-Finance_R53221) — SLEEPY HOLLOW
+- [Manager Validation, Sterility Assurance](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---TEMPEL-LN/Manager-Validation--Sterility-Assurance_R52902-1) — RENSS - TEMPEL LN
+- [Medical Director, Clinical Development, Classical Hematology](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Medical-Director--Clinical-Development--Classical-Hematology_R52841) — TARRYTOWN
+- [Scientist, Regeneron Cell Medicines (RCM)](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Seattle/Scientist--Regeneron-Cell-Medicines--RCM-_R53108) — Seattle
+- [Talent Acquisition Coordinator](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/SLEEPY-HOLLOW/Talent-Acquisition-Coordinator_R53187) — SLEEPY HOLLOW
 
-## Natera
-- ★ [Phlebotomist Test Coordinator - Maywood, IL](https://job-boards.greenhouse.io/natera/jobs/6270364004) — US Remote
-- ★ [Principal Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/6250652004) — US Remote
-- ★ [Sr EHR Implementation Manager](https://job-boards.greenhouse.io/natera/jobs/6266956004) — US Remote
-- [Research Associate 1](https://job-boards.greenhouse.io/natera/jobs/6260844004) — San Carlos, CA
-- [Senior Manager, Development and Design Transfer](https://job-boards.greenhouse.io/natera/jobs/6267607004) — San Carlos, CA
-- [Senior Product Manager, ClinicalAI Real-World Data (RWD)](https://job-boards.greenhouse.io/natera/jobs/6239213004) — US Remote
-- [Staff Scientist, R&D](https://job-boards.greenhouse.io/natera/jobs/6266127004) — Austin, TX
-
-## Novartis
-- ★ [Dir, Innovative Customer Data Product Lead](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/East-Hanover-New-Jersey/Dir--Innovative-Customer-Data-Product-Lead_REQ-10086342-1) — East Hanover (New Jersey)
-- ★ [Director, Therapeutic Area Strategy, CRM](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/East-Hanover/Director--Therapeutic-Area-Strategy--CRM_REQ-10093133-1) — East Hanover (2 Locations)
-- ★ [Principal Scientist I](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Cambridge-USA/Principal-Scientist-I_REQ-10093135-1) — Cambridge (USA)
+## Revolution Medicines
+- ★ [Director, Individual Case Safety Report Medical Review](https://www.revmed.com/careers-list/?gh_jid=8208880003) — Redwood City, California, United States
+- ★ [Executive Director, Chief Global Commercialization Officer Operations](https://www.revmed.com/careers-list/?gh_jid=8210969003) — Remote (United States)
+- ★ [Senior Administrative Assistant II, Commercialization](https://www.revmed.com/careers-list/?gh_jid=8003631003) — Redwood City, California, United States
+- ★ [Senior Computational Clinical Scientist, Clinical Bioinformatics](https://www.revmed.com/careers-list/?gh_jid=8215716003) — Redwood City, California, United States
+- ★ [Senior Scientist II, Biochemistry, Biophysics](https://www.revmed.com/careers-list/?gh_jid=7712460003) — Redwood City, California, United States
+- [Associate Director, Competitive Intelligence](https://www.revmed.com/careers-list/?gh_jid=8214484003) — Redwood City, California, United States
+- [Executive Director, Research Program Management](https://www.revmed.com/careers-list/?gh_jid=8209819003) — Redwood City, California, United States
 
 ## Agilent Technologies
+- ★ [Director, Automation Enablement](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-CA-Santa-Clara/Director--Automation-Enablement_4040822) — US-CA-Santa Clara
+- ★ [Enterprise Climate & Resource Resilience Manager](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-CA-Santa-Clara/Enterprise-Climate---Resource-Resilience-Manager_4040950) — US CA Santa Clara (2 Locations)
 - ★ [Field Service Engineer-- LC/GC](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-MD-Remote-Location/Field-Service-Engineer---LC-GC_4040421) — US-MD-Remote Location
 - ★ [Production Operator - 2nd Shift](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-DE-Newport/Production-Operator---2nd-Shift_4040727) — US-DE-Newport
 - [Business Development Leader, AMG](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-CA-Santa-Clara/Business-Development-Leader_4040830) — US-CA-Santa Clara
@@ -616,25 +718,59 @@
 - [Material Handler- Replenishment](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-VT-Winooski/Material-Handler--Replenishment_4040816-1) — US-VT-Winooski
 - [Regional Operational Excellence Industry 4.0 Lead](https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/US-DE-Wilmington/Regional-Operational-Excellence-Industry-40-Lead_4040868) — US DE Wilmington (22 Locations)
 
+## Alnylam Pharmaceuticals
+- ★ [Associate Director, Competitive Intelligence](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4520233009) — Cambridge, MA
+- ★ [Associate Director, Portfolio and Program Finance](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4510307009) — Cambridge, MA, United States
+- ★ [Health System Director -  Great Lakes North](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4516607009) — Minneapolis, MN
+- ★ [Sr. Manager, Study Start Up](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4520257009) — United States
+
+## Beam Therapeutics
+- ★ [IT Validation/Compliance Specialist II](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8961378002) — Cambridge, MA
+- ★ [Senior Scientist II, Clinical Bioanalytics & Biomarkers](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8960120002) — Cambridge, MA
+- ★ [Vice President, Engineering & Facilities](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8961076002) — Durham, NC
+- ★ [Vice President, Manufacturing Sciences and Technology](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8961109002) — Durham, NC
+
+## Biogen
+- ★ [Physical Safety Sr. Associate II](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Physical-Safety-Sr-Associate-II_REQ24594) — Research Triangle Park, NC
+- ★ [Rare Disease Account Executive Pittsburgh](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/Rare-Disease-Account-Executive-Pittsburgh_REQ24597) — Pittsburgh PA (2 Locations)
+- ★ [Sr. Supervisor, Utilities Operations (Days)](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Sr-Supervisor--Utilities-Operations--Days-_REQ24589) — Research Triangle Park, NC
+- [Director, Protective Operations](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Director--Protective-Operations_REQ24585) — Cambridge, MA
+- [Regional Business Director- West Region](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Denver-CO/Regional-Business-Director--West-Region_REQ24584) — Denver CO (4 Locations)
+- [Sr. Utilities Technician II (Days)](https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Research-Triangle-Park-NC/Sr-Utilities-Technician-II--Days-_REQ24590) — Research Triangle Park, NC
+
+## Gilead Sciences
+- ★ [Director, Pharmacovigilance Science](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Director--Pharmacovigilance-Science_R0056567-2) — United States   California   Foster City (4 Locations)
+- ★ [Senior Director Patient Safety Physician (MD)- CAR-T Programs](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---New-Jersey---Parsippany/Senior-Director-Patient-Safety-Physician--MD---CAR-T-Programs_R0056460-2) — United States   New Jersey   Parsippany (3 Locations)
+- ★ [Senior Prevention Specialist, HIV- Jackson/Mobile](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---Field/Senior-Prevention-Specialist--HIV--Jackson-Mobile_R0056517-1) — United States   Field (2 Locations)
+- [Associate Director, Commercial Learning & Development, Market Access Training Lead](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---El-Segundo/Associate-Director--Commercial-Learning---Development--Market-Access-Training-Lead_R0056748-2) — United States   California   El Segundo (2 Locations)
+- [Executive Director, Gilead and Kite Global Oncology Public Affairs](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Executive-Director--Gilead-and-Kite-Global-Oncology-Public-Affairs_R0056603-1) — United States - California - Foster City
+- [Manager, End-to-End Commercial Supply Planner](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Manager--End-to-End-Commercial-Supply-Planner_R0055993) — United States   California   Foster City (2 Locations)
+- [Sr People Technology Product Manager - Workday](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-People-Technology-Product-Manager---Workday_R0056692-3) — United States - California - Foster City
+- [Sr Scientist, Process Development](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Process-Development_R0056685-2) — United States - California - Foster City
+- [Vice President, Policy](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---District-of-Columbia---Washington/Vice-President--Policy_R0056737-2) — United States   District of Columbia   Washington (2 Locations)
+
+## Novartis
+- ★ [Dir, Innovative Customer Data Product Lead](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/East-Hanover-New-Jersey/Dir--Innovative-Customer-Data-Product-Lead_REQ-10086342-1) — East Hanover (New Jersey)
+- ★ [Director, Therapeutic Area Strategy, CRM](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/East-Hanover/Director--Therapeutic-Area-Strategy--CRM_REQ-10093133-1) — East Hanover (2 Locations)
+- ★ [Principal Scientist I](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Cambridge-USA/Principal-Scientist-I_REQ-10093135-1) — Cambridge (USA)
+
+## Profluent
+- ★ [Associate Scientist, In Vivo Pharmacology](https://job-boards.greenhouse.io/profluent/jobs/5491563008) — Emeryville, California, United States; On-site
+- ★ [Machine Learning Scientist, Reinforcement Learning](https://job-boards.greenhouse.io/profluent/jobs/5238462008) — Emeryville, California, United States; Hybrid (2-3 days on-site)
+- ★ [Senior Research Associate II, In Vivo Pharmacology](https://job-boards.greenhouse.io/profluent/jobs/5493034008) — Emeryville, California, United States; On-site
+
 ## BeOne Medicines
 - ★ [Associate Medical Director, Biotech Unit](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Director-Clinical-Development--Solid-Tumor_R36363) — Remote (US)
 - ★ [Senior Manager, Global Regulatory Project & Submission Management](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Manager--Global-Regulatory-Project---Submission-Management_R37929) — Remote (US)
 - [Associate Director, Market Access Strategy - Segment](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Director--US-Market-Access-Strategic-Evidence_R36916) — Remote (US)
 
+## BridgeBio Pharma
+- ★ [Therapeutic Sales Specialist - Ft. Lauderdale, FL](https://job-boards.greenhouse.io/bridgebio/jobs/5306454007) — Remote - USA
+- ★ [Therapeutic Sales Specialist - Orlando, FL](https://job-boards.greenhouse.io/bridgebio/jobs/5306452007) — Remote - USA
+
 ## GenScript ProBio
 - ★ [Shipping Specialist](https://job-boards.greenhouse.io/genscript/jobs/5283411007) — Piscataway, New Jersey, United States
 - ★ [Warehouse Operations Specialist](https://job-boards.greenhouse.io/genscript/jobs/5308253007) — Piscataway, New Jersey, United States
-
-## GSK
-- ★ [Associate Director, Large Molecule Analytical Development](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Massachusetts---Waltham/Associate-Director--Large-Molecule-Analytical-Development_451618) — USA   Massachusetts   Waltham (2 Locations)
-- ★ [SR ACCT SPEC, USC IMMUNOLOGY (Arkansas & Oklahoma)](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Arkansas---Bentonville/SR-ACCT-SPEC--USC-IMMUNOLOGY--Arkansas---Oklahoma-_450666) — USA   Arkansas   Bentonville (7 Locations)
-- [Alliance - Project Manager](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Massachusetts---Waltham/Alliance---Project-Manager_451541) — USA - Massachusetts - Waltham
-- [External Operations Senior Specialist](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/External-Packaging-Senior-Specialist_451772) — USA   Pennsylvania   Upper Providence (2 Locations)
-- [Product Director, Commercial Data Platforms](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Philadelphia/Product-Director--Commercial-Data-Platforms_450778) — USA   Pennsylvania   Philadelphia (3 Locations)
-- [Senior Director, Oncology Global RWE & HO Targeted Lung Asset Lead](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Senior-Director--Oncology-Global-RWE---HO-Targeted-Lung-Asset-Lead_451676) — USA   Pennsylvania   Upper Providence (5 Locations)
-- [Sr Director, Market Access Strategy, Access Optimization – Oncology](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Philadelphia/Sr-Director--Market-Access-Strategy--Access-Optimization---Oncology_449759-1) — USA   Pennsylvania   Philadelphia (2 Locations)
-- [Study Delivery Lead - Non-interventional Study Planning and Delivery](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Study-Delivery-Lead---Non-interventional-Study-Planning-and-Delivery_451320) — USA   Pennsylvania   Upper Providence (2 Locations)
-- [ViiV Healthcare (GSK) - Manager, Clinical Development (Durham, NC or London, UK)](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Durham-Blackwell-Street/ViiV-Healthcare--GSK----Manager--Clinical-Development--Durham--NC-or-London--UK-_451910-1) — Durham Blackwell Street (2 Locations)
 
 ## Kura Oncology
 - ★ [Assoc Director/Director, Enterprise Technology & AI Strategy](https://job-boards.greenhouse.io/kuraoncology/jobs/6268830004) — remote
@@ -644,15 +780,8 @@
 - ★ [Global Head GRA, Development and Product Strategy](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8214019003) — Princeton, New Jersey
 - ★ [Senior Product Manager Patient Marketing, Rare Disease](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8208488003) — Princeton, New Jersey
 
-## Profluent
-- ★ [Associate Scientist, In Vivo Pharmacology](https://job-boards.greenhouse.io/profluent/jobs/5491563008) — Emeryville, California, United States; On-site
-- ★ [Senior Research Associate II, In Vivo Pharmacology](https://job-boards.greenhouse.io/profluent/jobs/5493034008) — Emeryville, California, United States; On-site
-
-## Beam Therapeutics
-- ★ [Senior Scientist II, Clinical Bioanalytics & Biomarkers](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8960120002) — Cambridge, MA
-
-## BridgeBio Pharma
-- ★ [Therapeutic Sales Specialist - Orlando, FL](https://job-boards.greenhouse.io/bridgebio/jobs/5306452007) — Remote - USA
+## Atavistik Bio
+- ★ [Associate Director, Business Development](https://jobs.lever.co/atavistik-bio/240c318f-2797-4a4e-bf6c-dfd763376e57) — Cambridge, MA
 
 ## Care Access
 - ★ [Senior Associate, Strategic Finance](https://job-boards.greenhouse.io/careaccess/jobs/4519635009) — USA Remote
@@ -662,18 +791,39 @@
 - [Clinical Lab Scientist - Part-Time](https://job-boards.greenhouse.io/caredxinc/jobs/4472237009) — Brisbane, CA
 - [Specialty Oncology Sales Rep - TN](https://job-boards.greenhouse.io/caredxinc/jobs/4515688009) — Nashville, TN
 
+## Cerus
+- ★ [Regional Business Development Director](https://www.cerus.com/careers/job-board?gh_jid=5284819007) — Remote, US
+
 ## Colossal Biosciences
 - ★ [Research Associate, Embryology](https://colossal.com/careers/?gh_jid=6270488004) — Dallas, TX
+
+## Compass Pathways
+- ★ [Senior Manager, Scientific Communications](https://job-boards.eu.greenhouse.io/compasspathways/jobs/5047831101) — United States
+
+## Corcept Therapeutics
+- ★ [Associate Director, R&D Operations](https://www.corcept.com/careers/current-opportunities/?gh_jid=6269244004) — Redwood City, California, United States
+
+## Crescent Biopharma
+- ★ [Director, Biostatistics](https://jobs.lever.co/crescent-biopharma/b2a242d8-1dcc-42cb-80be-289ad9598268) — Waltham, MA
+
+## Enveda
+- ★ [Natural Products Isolation Intern](https://jobs.lever.co/enveda/a91d6e6c-0434-44cf-baf5-12de307e0ecb) — Boulder, CO.
 
 ## Forge Biologics
 - ★ [Inventory Analyst II](https://boards.greenhouse.io/forgebiologics/jobs/6262755004?gh_jid=6262755004) — Columbus, Ohio
 - [Maintenance Operations Specialist II](https://boards.greenhouse.io/forgebiologics/jobs/6254818004?gh_jid=6254818004) — Columbus, Ohio
 
-## Illumina
-- ★ [Sr. Staff Medical Science Liaison - Oncology](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Florida---Remote/SrStaff-Medical-Science-Liaison---Oncology_43645-JOB) — US - Florida - Remote
+## Gator Bio
+- ★ [Production Biochemist](https://jobs.lever.co/gatorbio/d34b1597-37a1-4f85-ad63-b587e4874a9f) — Palo Alto, CA
+- [Laboratory Quality Manager](https://jobs.lever.co/gatorbio/19f79cdf-7208-4ecf-b601-1068ad987a01) — Palo Alto, CA
+- [Shipping & Receiving Associate](https://jobs.lever.co/gatorbio/88cfecff-6df7-4755-a2e1-723291b010f4) — Palo Alto, CA
 
 ## Invivyd
 - ★ [Vice President, CMC Regulatory and Quality](https://job-boards.greenhouse.io/invivyd/jobs/4731709006) — New Haven, CT
+
+## Kailera Therapeutics
+- ★ [Director, Corporate Communications](https://job-boards.greenhouse.io/kailera/jobs/5493853008) — Waltham, Massachusetts
+- [Director, Clinical Quality Assurance](https://job-boards.greenhouse.io/kailera/jobs/5489950008) — US-Remote
 
 ## Kardigan
 - ★ [Sr. Director, People and Culture Business Partner - Contract to Hire](https://job-boards.greenhouse.io/kardigan/jobs/5192626008) — Princeton, New Jersey
@@ -684,20 +834,31 @@
 ## PathAI
 - ★ [Staff Software Engineer, Database & Data Platform](https://www.pathai.com/careers/8959069002?gh_jid=8959069002) — Boston, MA (Hybrid)
 - [Senior Software Engineer, Deployment & Platform](https://www.pathai.com/careers/8959078002?gh_jid=8959078002) — Boston, MA (Hybrid)
+- [Staff Site Reliability Engineer](https://www.pathai.com/careers/8961170002?gh_jid=8961170002) — Boston or NYC (Preferred), Remote Considered
 
 ## Plasmidsaurus
 - ★ [Robotics Research Associate](https://jobs.ashbyhq.com/plasmidsaurus/57b8a6d1-3c61-4a98-a9b5-6090795ba2ea) — San Francisco
 
+## ProTrials Research
+- ★ [Sr. Director of Business Development](https://jobs.lever.co/protrials/d065fd5b-ee1c-44cc-aa06-1920c2c0fb32) — Regional: Western US
+
+## Rapport Therapeutics
+- ★ [Senior Medical Director, CNS / Neurology](https://www.rapportrx.com/careers-board/?gh_jid=5086607007) — 99 High Street, Suite 2100 , Boston, MA 02110
+
 ## Recursion
 - ★ [Executive Director, Clinical Development, Rare Disease](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8414524) — New York, New York; Salt Lake City, Utah
 
-## Revolution Medicines
-- ★ [Senior Administrative Assistant II, Commercialization](https://www.revmed.com/careers-list/?gh_jid=8003631003) — Redwood City, California, United States
-- [Associate Director, Competitive Intelligence](https://www.revmed.com/careers-list/?gh_jid=8214484003) — Redwood City, California, United States
-- [Executive Director, Research Program Management](https://www.revmed.com/careers-list/?gh_jid=8209819003) — Redwood City, California, United States
+## Scholar Rock
+- ★ [Director, Quality Systems & Digital Quality](https://jobs.lever.co/scholarrock/5c066149-9239-4b9f-a0f6-b31a04081ae0) — Cambridge, MA
+
+## Spyre Therapeutics
+- ★ [Associate Director, Clinical Operations](https://job-boards.greenhouse.io/spyretherapeutics/jobs/5468648008) — US- Remote
 
 ## Ultragenyx Pharmaceutical
 - ★ [Co-op, Human Resources](https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4757927005?gh_jid=4757927005) — Somerville, MA
+
+## WEP Clinical
+- ★ [Clinical Trial Project Manager](https://jobs.lever.co/wepclinical/077bc242-ff8f-4fe3-8bc1-d292872d272f) — Remote, US
 
 ## Xenon Pharmaceuticals
 - ★ [Associate Director, Commercial & Medical Information Systems](https://jobs.ashbyhq.com/xenon/a4ff79b4-e794-466f-afc6-673b3dc9b84d) — Boston
@@ -724,12 +885,6 @@
 
 ## Alimentiv
 - [Histotechnologist](https://jobs.lever.co/alimentiv-2/6fe746b9-5e51-499e-b4b0-15acd8beb1b0) — San Diego, California
-
-## Alnylam Pharmaceuticals
-- [Associate Director, Competitive Intelligence](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4520233009) — Cambridge, MA
-- [Associate Director, Portfolio and Program Finance](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4510307009) — Cambridge, MA, United States
-- [Health System Director -  Great Lakes North](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4516607009) — Minneapolis, MN
-- [Sr. Manager, Study Start Up](https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4520257009) — United States
 
 ## Araceli Biosciences
 - [Field Service Engineer - US East (FSE)](https://ht-jobs.net/wibos1h?s=in) — Boston, MA, USA
@@ -779,6 +934,9 @@
 - [Talent Development Specialist I](https://recruiting2.ultipro.com/ARU1000ARUP/JobBoard/62cc791d-612e-42e6-909f-0de27efe2038/OpportunityDetail?opportunityId=dee1df05-464b-49f9-9091-b7d37d87ffd3&postingId=4f41da44-63bf-46e1-9222-14ab77ed0a4e) — Salt Lake City, UT, USA
 - [Technician I](https://recruiting2.ultipro.com/ARU1000ARUP/JobBoard/62cc791d-612e-42e6-909f-0de27efe2038/OpportunityDetail?opportunityId=da5329f0-d23e-4821-84d8-8433dc11ecb5&postingId=b6110fb6-e696-4984-91f7-c394bc411897) — Salt Lake City, UT, USA
 
+## Ascidian Therapeutics
+- [Associate Director, Controller](https://job-boards.greenhouse.io/ascidiantherapeutics/jobs/6270577004) — Boston, MA
+
 ## Assembly Biosciences
 - [Director, Clinical Development](https://assemblybioinc.bamboohr.com/careers/204?source=indeed&src=indeed&postedDate=2026-11-10) — South San Francisco, CA, USA
 - [Director, Medicinal Chemistry](https://assemblybioinc.bamboohr.com/careers/202?source=indeed&src=indeed&postedDate=2026-10-02) — South San Francisco, CA, USA
@@ -794,44 +952,137 @@
 ## AxoGen
 - [Area Sales Manager - Breast Specialty - Boston, MA](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8950489002) — Boston, Massachusetts, United States
 - [Area Sales Manager - Rochester/Upstate NY](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8888201002) — Buffalo, New York, United States; Rochester, New York, United States; Syracuse, New York, United States
+- [Customer Care Specialist](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8949794002) — Alachua, Florida, United States; Burleson, Texas, United States
+- [D365 Manufacturing & Applications Lead](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8943379002) — Vandalia, Ohio, United States
+
+## Azalea Therapeutics
+- [Associate Director, Analytical Development / Quality Control](https://app.trinethire.com/companies/219698-azalea-therapeutics-inc/jobs/123635-associate-director-analytical-development-quality-control?source=indeed) — Berkeley, CA, USA
+- [Director/Senior Director, Quality Assurance](https://app.trinethire.com/companies/219698-azalea-therapeutics-inc/jobs/125115-director-senior-director-quality-assurance?source=indeed) — Berkeley, CA, USA
+- [Principal Engineer I, MSAT / Viral Vector Upstream](https://app.trinethire.com/companies/219698-azalea-therapeutics-inc/jobs/126742-principal-engineer-i-msat-viral-vector-upstream?source=indeed) — Berkeley, CA, USA
+- [Principal Engineer I/II, MSAT / Viral Vector Downstream](https://app.trinethire.com/companies/219698-azalea-therapeutics-inc/jobs/123633-principal-engineer-i-ii-msat-viral-vector-downstream?source=indeed) — Berkeley, CA, USA
+
+## Bayer
+- [Breeding Operations Associate](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Arlington-WI/Breeding-Operations-Associate_JR10000613) — Arlington, WI, USA
+- [Field Associate II](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Waterman-IL/Field-Associate-II_JR10000288) — Waterman, IL, USA
+- [Field Sales Representative IV CP](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Saint-Louis-MO/Field-Sales-Representative-IV-CP_JR10001323) — St. Louis, MO, USA
+- [GSOC Specialist](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Saint-Louis-MO/GSOC-Specialist_JR10000294) — St. Louis, MO, USA
+- [Head of Machine Learning Research](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Cambridge-MA/Head-of-Machine-Learning-Research_JR10000331) — Cambridge, MA, USA
+- [IT Automation Analyst](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Saint-Louis-MO/IT-Automation-Analyst_JR10001161) — St. Louis, MO, USA
+- [Manufacturing Associate](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Pittsburgh-PA/Manufacturing-Associate_JR10000081) — Pittsburgh, PA, USA
+- [Manufacturing Associate I – Indianola- 2nd Shift – 2pm - 10:20pm](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Indianola-PA/Manufacturing-Associate-I---Indianola--2nd-Shift---2pm---10-20pm-_JR10000706) — Indianola, PA, USA
+- [Production Technician - Multi-Purpose Unit](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Muscatine-IA/Production-Technician---Multi-Purpose-Unit_JR10001316) — Muscatine, IA, USA
+- [Project Manager CUB](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Columbus-OH/Project-Manager-CUB_JR10000306) — Columbus, OH, USA
+- [Project Manager Lab Office WH Site](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Columbus-OH/Project-Manager-Lab-Office-WH-Site_JR10000308) — Columbus, OH, USA
+- [Rotational Associate Finance (Hybrid Finance × Data × Business) – Product Supply](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Myerstown-PA/Rotational-Associate-Finance--Hybrid-Finance---Data---Business----Product-Supply_JR10000317-1) — Myerstown, PA, USA
+- [Seed Technician](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Urbandale-IA/Seed-Technician_JR10000458) — Urbandale, IA, USA
 
 ## Beacon Biosignals
 - [Senior Algorithm Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4314636009) — Boston, MA / Remote
 
+## BGI
+- [Accounts Payable Senior & T&E Administrator](https://www.indeed.com/viewjob?jk=fe635fed6d2aa6da) — Mount Pleasant, SC, USA
+- [Assembly Associate](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a221c987-aea8-4dd5-b95a-0690f2f01190&ccId=19000101_000003&jobId=957652&jwId=SYS:JW:001&source=IN&lang=en_US) — Norcross, GA, USA
+- [Transportation Coordinator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a221c987-aea8-4dd5-b95a-0690f2f01190&ccId=19000101_000001&jobId=956412&source=IN&lang=en_US) — Marietta, GA, USA
+- [Warehouse Associate](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a221c987-aea8-4dd5-b95a-0690f2f01190&ccId=19000101_000003&jobId=957578&jwId=SYS:JW:001&source=IN&lang=en_US) — Coconut Creek, FL, USA
+
 ## Bicara Therapeutics
 - [Director, Biostatistics](https://jobs.ashbyhq.com/bicara-therapeutics/249400b4-a96e-4c76-9ab1-e5993c32e766) — Boston
+
+## BigHat Biosciences
+- [Director of Machine Learning](https://bighatbiosciences.pinpointhq.com/postings/0c79bfdf-a3f1-4e55-a1e4-93abb5930c45?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [Head of People](https://bighatbiosciences.pinpointhq.com/postings/74a8ebb9-62d2-4471-832d-14f4fff66693?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [Research Associate I, CFPS Production](https://bighatbiosciences.pinpointhq.com/postings/0767a763-ce20-4a2d-9e91-d44e17be65c2?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [Scientist I, Display Technologies](https://bighatbiosciences.pinpointhq.com/postings/f343b5b0-e798-4752-80c3-afa6e608bdc2?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [Senior Director, Controller](https://bighatbiosciences.pinpointhq.com/postings/8d947f68-7a9d-4a67-a0c0-93965f960bcf?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [Senior Scientist I, Antibody Engineering](https://bighatbiosciences.pinpointhq.com/postings/f237fe02-5f68-47bc-8403-ba6502fd88f6?utm_medium=job_board&utm_source=indeed) — San Mateo, CA, USA
+- [SharePoint Consultant](https://bighatbiosciences.pinpointhq.com/postings/a80b04dd-8c16-452c-8dbd-a4bc4b249d2b?utm_medium=job_board&utm_source=indeed) — CA, USA
 
 ## BillionToOne
 - [Clinical Genomics Scientist, Prenatal (Part-Time Contractor)](https://job-boards.greenhouse.io/billiontoone/jobs/4758147005) — Remote
 - [Oncology Medical Science Liaison](https://job-boards.greenhouse.io/billiontoone/jobs/4758136005) — Southern California
 
+## Bio-Techne
+- [Advanced Manufacturing Technician](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Advanced-Manufacturing-Technician_JR102071-1) — Minneapolis, MN, USA
+- [Advanced Quality Assurance Operations Specialist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/St-Paul-MN/Advanced-Quality-Assurance-Operations-Specialist_JR102270) — Saint Paul, MN, USA
+- [AP Specialist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/AP-Specialist_JR102264) — Newark, CA, USA
+- [Applications Scientist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Applications-Scientist_JR102162-1) — Newark, CA, USA
+- [Assembler - Kit Assembly](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Assembler---Kit-Assembly_JR102272-1) — Minneapolis, MN, USA
+- [Buyer](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Buyer_JR102200) — San Jose, CA, USA
+- [Chemistry Associate](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Marcos-CA/Chemistry-Associate_JR102254) — San Marcos, CA, USA
+- [Customer Service Advisor](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Customer-Service-Advisor_JR102274) — Minneapolis, MN, USA
+- [Director, Applications - Spatial Biology Division](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Director--Applications---Spatial-Biology-Division_JR102161) — Newark, CA, USA
+- [Document Coordinator](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Devens-MA/Document-Clerk_JR102232) — Devens, MA, USA
+- [Field Applications Scientist, Immunoassay Specialist (Midwest)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/US---Minnesota---Remote/Field-Applications-Scientist--Immunoassay-Specialist--Midwest-_JR102210) — MN, USA
+- [GMP Process Engineer](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/St-Paul-MN/GMP-Process-Engineer_JR102213) — Saint Paul, MN, USA
+- [Immunoassay Sales Specialist (Boston)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/US---Massachusetts---Remote/Immunoassay-Sales-Specialist--Boston-_JR102208) — MA, USA
+- [Immunoassay Sales Specialist (South San Francisco)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Francisco-CA/Immunoassay-Sales-Specialist--South-San-Francisco-_JR102275) — San Francisco, CA, USA
+- [Lab Assistant, Hematology](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Lab-Assistant--Hematology_JR102292-1) — Minneapolis, MN, USA
+- [Maintenance Technician](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Devens-MA/Maintenance-Technician_JR102263-1) — Devens, MA, USA
+- [Manager, Program Management](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Manager--Program-Management_JR102171) — Newark, CA, USA
+- [Manager, Quality Control](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Devens-MA/Manager--Quality-Control_JR102273) — Devens, MA, USA
+- [Manufacturing Technician - 2nd Shift](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Manufacturing-Technician---2nd-Shift_JR102295-1) — Wallingford, CT, USA
+- [Manufacturing Technician – Machine Operator (1st Shift)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Devens-MA/Manufacturing-Technician---Machine-Operator--1st-Shift-_JR102176) — Devens, MA, USA
+- [Mechanical Engineer II](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Mechanical-Engineer-II_JR102245) — San Jose, CA, USA
+- [Quality Technician - 2nd Shift](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Quality-Technician---2nd-Shift_JR102305-1) — Wallingford, CT, USA
+- [Reagent Sales Specialist (Texas)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/US---Texas---Remote/Reagent-Sales-Specialist--Texas-_JR102081) — TX, USA
+- [Research Associate](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Research-Associate_JR102099) — Minneapolis, MN, USA
+- [Research Associate, Analytical QC](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Research-Associate--Analytical-QC_JR102259-2) — Minneapolis, MN, USA
+- [Scientific Marketing Manager](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Scientific-Marketing-Manager_JR102128) — Newark, CA, USA
+- [Scientific Support Specialist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Scientific-Support-Specialist_JR102242) — Minneapolis, MN, USA
+- [Senior Equipment Technician](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/St-Paul-MN/Senior-Equipment-Technician_JR102133) — Saint Paul, MN, USA
+- [Senior Manager, Materials](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Senior-Manager--Materials_JR102261) — San Jose, CA, USA
+- [Senior Mechanical Engineer](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Senior-Mechanical-Engineer_JR102163) — San Jose, CA, USA
+- [Senior Project Manager](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Senior-Project-Manager_JR102185) — Wallingford, CT, USA
+- [Senior Quality Assurance Specialist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Senior-Quality-Assurance-Specialist_JR102125) — Newark, CA, USA
+- [Senior Software Engineer](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Senior-Software-Engineer_JR102186) — Wallingford, CT, USA
+- [Senior Transportation & Logistics Manager](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Senior-Transportation---Logistics-Manager_JR102262) — Minneapolis, MN, USA
+- [Service Support Manager](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Service-Support-Manager_JR102164) — San Jose, CA, USA
+- [Sourcing Manager - Direct Materials](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Sourcing-Manager---Direct-Materials_JR102170-1) — Minneapolis, MN, USA
+- [Supervisor, Kit Assembly](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Minneapolis-MN/Supervisor--Kit-Assembly_JR102117) — Minneapolis, MN, USA
+- [Supplier Quality Engineer](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Supplier-Quality-Engineer_JR102260) — San Jose, CA, USA
+- [Technical Support Scientist](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Newark-CA/Technical-Support-Scientist_JR102251) — Newark, CA, USA
+
+## BioAge Labs
+- [(Senior) Manager, Contracts, Budgets & Outsourcing](https://ats.rippling.com/bioage-labs/jobs/1d9b3a92-0649-4296-bb74-63cfd5f47a40?jobSite=Indeed) — Remote, USA
+- [Clinical Trials Associate (or Senior)](https://ats.rippling.com/bioage-labs/jobs/81fd443d-5add-4400-a39c-bbc101a4dbec?jobSite=Indeed) — Remote, USA
+- [Director, Clinical Supply Chain (or Senior)](https://ats.rippling.com/bioage-labs/jobs/52a5276d-ec29-469c-9b55-129533ce63f3?jobSite=Indeed) — Remote, USA
+- [Translational AI Scientist/Engineer](https://ats.rippling.com/bioage-labs/jobs/b6eb65d8-111b-4a98-98fb-9d874115468f?jobSite=Indeed) — Remote, USA
+
 ## BioAgilytix
 - [Associate Principal Scientist - ADA/PK/Biomarkers](https://jobs.lever.co/bioagilytix/0f0d1c77-563f-4c22-af28-f8d9dab75c89) — Durham, NC
 
-## Cerus
-- [Regional Business Development Director](https://www.cerus.com/careers/job-board?gh_jid=5284819007) — Remote, US
+## Biocartis
+- [Director Strategic Accounts US, South Central (commercial oncology experience required)](https://www.biocartis.com/en/careers/director-strategic-accounts-us-south-central-commercial-oncology-experience-required) — USA
+- [National Accounts Director, US (commercial oncology experience required)](https://www.biocartis.com/en/careers/national-accounts-director-us-commercial-oncology-experience-required) — USA
+- [senior Market Manager US (Oncology experience required)](https://www.biocartis.com/en/careers/senior-market-manager-us-oncology-experience-required) — Chicago, IL, USA
+- [US senior Market Manager (Oncology experience required)](https://www.biocartis.com/en/careers/us-senior-market-manager-oncology-experience-required) — USA
 
-## Corcept Therapeutics
-- [Associate Director, R&D Operations](https://www.corcept.com/careers/current-opportunities/?gh_jid=6269244004) — Redwood City, California, United States
+## Biodesix
+- [Director – Marketing Communications](https://grnh.se/0wphjy7j9us) — Louisville, CO, USA
+- [Director – Sales Training](https://grnh.se/fv6kxh0z9us) — Louisville, CO, USA
+- [General Practice Sales Consultant (Louisville KY)](https://grnh.se/5a0sopfe9us) — Louisville, KY, USA
+- [General Practice Sales Consultant (Washington, DC)](https://grnh.se/t4p4i1iw9us) — Virginia Beach, VA, USA
+- [Home Phlebotomy Specialist](https://grnh.se/0edx6eii9us) — Louisville, CO, USA
+- [PharmD Advance Pharmacy Practice Rotation](https://grnh.se/3gye6ecu9us) — Remote, USA
+- [Sales Consultant - Pulmonary (Fort Worth)](https://grnh.se/whfa5rnt9us) — Fort Worth, TX, USA
+- [Sales Support Specialist- Northeast](https://grnh.se/8hn544sj9us) — Morristown, NJ, USA
 
-## Crescent Biopharma
-- [Director, Biostatistics](https://jobs.lever.co/crescent-biopharma/b2a242d8-1dcc-42cb-80be-289ad9598268) — Waltham, MA
+## bioLytical Laboratories
+- [Vice President, Scientific Affairs](https://careers.risepeople.com/biolytical-us/en/17873) — Jacksonville, FL, USA
+
+## Biotium
+- [Research Associate – Molecular Biology](https://www.indeed.com/viewjob?jk=7b4ef7f34f36518d) — Fremont, CA, USA
 
 ## Eikon Therapeutics
 - [Clinical Trial Associate](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5304166007) — Jersey City, NJ ; Millbrae, CA
 - [Clinical Trial Manager](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5299123007) — Jersey City, NJ
 
-## Gator Bio
-- [Laboratory Quality Manager](https://jobs.lever.co/gatorbio/19f79cdf-7208-4ecf-b601-1068ad987a01) — Palo Alto, CA
-- [Production Biochemist](https://jobs.lever.co/gatorbio/d34b1597-37a1-4f85-ad63-b587e4874a9f) — Palo Alto, CA
-- [Shipping & Receiving Associate](https://jobs.lever.co/gatorbio/88cfecff-6df7-4755-a2e1-723291b010f4) — Palo Alto, CA
-
 ## GRAIL
-- [Inside Sales Representative #4977 (East Coast)](https://jobs.lever.co/grailbio/15ec481e-e407-40ee-b2dd-044fefede3b6) — Remote - GA
+- [Inside Sales Representative #4977 (Central)](https://jobs.lever.co/grailbio/15ec481e-e407-40ee-b2dd-044fefede3b6) — Remote - GA
 - [IT Help Desk Specialist - #4988](https://jobs.lever.co/grailbio/2a1a7b7d-0a2f-4bcc-8211-aa8b1f20ad3e) — Durham, NC
 
-## Kailera Therapeutics
-- [Director, Clinical Quality Assurance](https://job-boards.greenhouse.io/kailera/jobs/5489950008) — US-Remote
+## Illumina
+- [Sr. Staff Medical Science Liaison - Oncology](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Florida---Remote/SrStaff-Medical-Science-Liaison---Oncology_43645-JOB) — US - Florida - Remote
 
 ## KCAS Bio
 - [Analyst II – LC-MS/MS Bioanalysis (Method Development)](https://jobs.lever.co/kcasbio/c45a174e-e3b6-4c89-89bf-7108db91d8ea) — Kansas City
@@ -872,17 +1123,8 @@
 - [Assistant Clinical Research Coordinator (Carlsbad, CA)](https://jobs.lever.co/profoundresearch/4fa0fcc9-6e4c-48c5-8610-b5b03c8bd27e) — Carlsbad, CA
 - [Clinical Research Coordinator II/ Sr Clinical Research Coordinator (Cardiology & Neurology)](https://jobs.lever.co/profoundresearch/7f9ac472-b87f-4b1a-bdae-f5109604a190) — Munster, IN
 
-## ProTrials Research
-- [Sr. Director of Business Development](https://jobs.lever.co/protrials/d065fd5b-ee1c-44cc-aa06-1920c2c0fb32) — Regional: Western US
-
-## Rapport Therapeutics
-- [Senior Medical Director, CNS / Neurology](https://www.rapportrx.com/careers-board/?gh_jid=5086607007) — 99 High Street, Suite 2100 , Boston, MA 02110
-
 ## Rezolute
 - [Senior Manager, Project Management - External Manufacturing](https://jobs.lever.co/rezolutebio/f8ba4d2b-0cde-48cd-9abd-5b0588c1eb9e) — Redwood City
-
-## Scholar Rock
-- [Director, Quality Systems & Digital Quality](https://jobs.lever.co/scholarrock/5c066149-9239-4b9f-a0f6-b31a04081ae0) — Cambridge, MA
 
 ## Septerna
 - [Clinical Trial Associate](https://job-boards.greenhouse.io/septerna/jobs/5493200008) — South San Francisco, California, United States
@@ -890,23 +1132,26 @@
 ## Serán BioScience
 - [Materials Specialist I](https://jobs.lever.co/seranbio/0ba58657-2cc2-4500-8a8c-af8f1e864fa0) — Bend, Oregon
 
-## Spyre Therapeutics
-- [Associate Director, Clinical Operations](https://job-boards.greenhouse.io/spyretherapeutics/jobs/5468648008) — US- Remote
-
 ## Streck
 - [Part-Time Custodian (5:00pm-9:00pm) M-F](https://jobs.lever.co/streck/eb18effe-b4f1-4908-aa20-677de5c1fe30) — La Vista, Nebraska
 
 ## Summit Therapeutics
+- [Associate Director, Clinical Operations](https://job-boards.greenhouse.io/summittherapeutics/jobs/4404319009) — Remote
 - [Clinical Trial Manager](https://job-boards.greenhouse.io/summittherapeutics/jobs/4516849009) — Remote
 - [Legal Specialist, Contract Database](https://job-boards.greenhouse.io/summittherapeutics/jobs/4519034009) — Palo Alto, CA (US)
 
 ## Syndax Pharmaceuticals
 - [Contractor, Senior Clinical Research Associate](https://syndax.com/join-us/careers/?gh_jid=6269229004) — New York, NY
 
+## Treeline Biosciences
+- [Senior Clinical Trial Associate / Clinical Trial Associate](https://job-boards.greenhouse.io/treelinebiosciences/jobs/6270560004) — Watertown, Massachusetts, United States
+
 ## Twist Bioscience
+- [Manufacturing Associate](https://job-boards.greenhouse.io/twistbioscience/jobs/8402706) — USA - Portland, OR
 - [Operational Excellence Specialist](https://job-boards.greenhouse.io/twistbioscience/jobs/8382937) — USA - Portland, OR
 
 ## Tyra Biosciences
+- [Clinical Trial Manager (ONC)](https://jobs.ashbyhq.com/TyraBiosciences/9c251d10-0e73-4cb9-9d9f-2612089ffdee) — Remote, US
 - [Executive Director / Vice President, Translational Medicine & Companion Diagnostics](https://jobs.ashbyhq.com/TyraBiosciences/6db951ac-28f4-4b89-9a30-c67d392da796) — Remote, US
 - [Senior Medical Science Liaison, West](https://jobs.ashbyhq.com/TyraBiosciences/fb252a11-4b73-4627-8901-7dc477133d1d) — Remote, US
 
@@ -938,6 +1183,7 @@
 - [Associate Scientist](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Associate-Scientist_JR00022191) — Kalamazoo   Downtown Portage Street (2 Locations)
 - [Diagnostic Technical Specialist](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-FL-Remote/Diagnostic-Technical-Specialist_JR00022228-1) — US FL Remote
 - [Sales Excellence Manager](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/Sales-Excellence-Manager_JR00022178-1) — US Remote (15 Locations)
+- [Scientist - Analytical](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Scientist---Analytical_JR00022190) — Kalamazoo - Downtown Portage Street
 - [Senior Associate Scientist](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Senior-Associate-Scientist_JR00022175-1) — Kalamazoo - Downtown Portage Street
 - [Senior Scientist - Vaccine and Adjuvant Formulation](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Senior-Scientist---Vaccine-and-Adjuvant-Formulation_JR00022194) — Kalamazoo - Downtown Portage Street
 
