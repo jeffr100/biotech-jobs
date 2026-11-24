@@ -102,7 +102,8 @@ jobs:
           git config user.email "jobs-crawler@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Job crawl $(date -u +%Y-%m-%d)"
-          git push
+          # Someone may have pushed while the crawl ran (a code update, the company finder): catch up and retry.
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       # Only the public files go on the website (not the crawler or the raw job file).
       - name: Check today's crawl finished
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
