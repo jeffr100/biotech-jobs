@@ -1,0 +1,2620 @@
+{
+ "boards_found": [
+  {
+   "name": "Acorn Biolabs",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "acornbiolabs"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Acrivon Therapeutics",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "acrivontherapeutics"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Ambry Genetics",
+   "board": {
+    "platform": "workday",
+    "host": "tempus.wd5.myworkdayjobs.com",
+    "tenant": "tempus",
+    "site": "Ambry_Careers"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Antares Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "antares"
+   },
+   "us_jobs": 84,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Apollo Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "apollo"
+   },
+   "us_jobs": 31,
+   "bio_jobs": 1
+  },
+  {
+   "name": "BD Biosciences",
+   "board": {
+    "platform": "workday",
+    "host": "bdx.wd1.myworkdayjobs.com",
+    "tenant": "bdx",
+    "site": "EXTERNAL_CAREER_SITE_USA"
+   },
+   "us_jobs": 7,
+   "bio_jobs": 7
+  },
+  {
+   "name": "BioCryst Pharmaceuticals",
+   "board": {
+    "platform": "workday",
+    "host": "biocryst.wd501.myworkdayjobs.com",
+    "tenant": "biocryst",
+    "site": "External"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Biosearch Technologies",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "LGCGroup"
+   },
+   "us_jobs": 31,
+   "bio_jobs": 6
+  },
+  {
+   "name": "Boston BioProducts",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "bostonbioproducts"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Character Biosciences",
+   "board": {
+    "platform": "ashby",
+    "slug": "character"
+   },
+   "us_jobs": 13,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Climb Bio",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "climbbio"
+   },
+   "us_jobs": 8,
+   "bio_jobs": 4
+  },
+  {
+   "name": "Elanco",
+   "board": {
+    "platform": "workday",
+    "host": "elanco.wd5.myworkdayjobs.com",
+    "tenant": "elanco",
+    "site": "External_Career"
+   },
+   "us_jobs": 39,
+   "bio_jobs": 39
+  },
+  {
+   "name": "Elephas Biosciences",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "elephas"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Evotec",
+   "board": {
+    "platform": "workday",
+    "host": "evotecgroup.wd3.myworkdayjobs.com",
+    "tenant": "evotecgroup",
+    "site": "Evotec_Career_Site"
+   },
+   "us_jobs": 17,
+   "bio_jobs": 17
+  },
+  {
+   "name": "Genomics plc",
+   "board": {
+    "platform": "ashby",
+    "slug": "genomics"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 7
+  },
+  {
+   "name": "Hummingbird Bio",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "hummingbirdbio"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "IDEAYA Biosciences",
+   "board": {
+    "platform": "workday",
+    "host": "ideayabio.wd501.myworkdayjobs.com",
+    "tenant": "ideayabio",
+    "site": "External"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 5
+  },
+  {
+   "name": "IQVIA",
+   "board": {
+    "platform": "workday",
+    "host": "iqvia.wd1.myworkdayjobs.com",
+    "tenant": "iqvia",
+    "site": "IQVIA"
+   },
+   "us_jobs": 70,
+   "bio_jobs": 70
+  },
+  {
+   "name": "Kayak Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "kayak"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Lakeshore Biotech",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "lakeshore"
+   },
+   "us_jobs": 71,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Leap Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "leap"
+   },
+   "us_jobs": 18,
+   "bio_jobs": 4
+  },
+  {
+   "name": "Lexeo Therapeutics",
+   "board": {
+    "platform": "lever",
+    "slug": "lexeotx"
+   },
+   "us_jobs": 9,
+   "bio_jobs": 6
+  },
+  {
+   "name": "Ligand Pharmaceuticals",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "ligand"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Lunit",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "lunitinternational"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Madrigal Pharmaceuticals",
+   "board": {
+    "platform": "workday",
+    "host": "madrigalpharma.wd501.myworkdayjobs.com",
+    "tenant": "madrigalpharma",
+    "site": "Madrigal"
+   },
+   "us_jobs": 6,
+   "bio_jobs": 6
+  },
+  {
+   "name": "Mirador Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "miradortherapeuticsinc"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Mission Bio",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "missionbio"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Neurocrine Biosciences",
+   "board": {
+    "platform": "workday",
+    "host": "neurocrine.wd5.myworkdayjobs.com",
+    "tenant": "neurocrine",
+    "site": "Neurocrinecareers"
+   },
+   "us_jobs": 18,
+   "bio_jobs": 18
+  },
+  {
+   "name": "Organovo",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "organovo"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Orum Therapeutics",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "orumtherapeutics"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Output Biosciences",
+   "board": {
+    "platform": "ashby",
+    "slug": "output"
+   },
+   "us_jobs": 8,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Pacific Biosciences",
+   "board": {
+    "platform": "workday",
+    "host": "pacbio.wd12.myworkdayjobs.com",
+    "tenant": "pacbio",
+    "site": "PacBio-"
+   },
+   "us_jobs": 12,
+   "bio_jobs": 12
+  },
+  {
+   "name": "Personalis",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "personalisinc"
+   },
+   "us_jobs": 15,
+   "bio_jobs": 8
+  },
+  {
+   "name": "PTC Therapeutics",
+   "board": {
+    "platform": "workday",
+    "host": "ptcbio.wd5.myworkdayjobs.com",
+    "tenant": "ptcbio",
+    "site": "PTC_Careers"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 5
+  },
+  {
+   "name": "QIAGEN",
+   "board": {
+    "platform": "workday",
+    "host": "qiagen.wd502.myworkdayjobs.com",
+    "tenant": "qiagen",
+    "site": "QIAGEN"
+   },
+   "us_jobs": 16,
+   "bio_jobs": 16
+  },
+  {
+   "name": "Rain Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "rain"
+   },
+   "us_jobs": 44,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Repligen",
+   "board": {
+    "platform": "workday",
+    "host": "repligen.wd108.myworkdayjobs.com",
+    "tenant": "repligen",
+    "site": "Repligen_Careers"
+   },
+   "us_jobs": 7,
+   "bio_jobs": 7
+  },
+  {
+   "name": "Sarepta Therapeutics",
+   "board": {
+    "platform": "workday",
+    "host": "sarepta.wd5.myworkdayjobs.com",
+    "tenant": "sarepta",
+    "site": "sarepta_external"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Standard BioTools",
+   "board": {
+    "platform": "workday",
+    "host": "standardbiotools.wd5.myworkdayjobs.com",
+    "tenant": "standardbiotools",
+    "site": "External"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "StradBio",
+   "board": {
+    "platform": "breezy",
+    "slug": "stradbio"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Tagomics",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "tagomics"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Verastem Oncology",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "verastem"
+   },
+   "us_jobs": 21,
+   "bio_jobs": 11
+  },
+  {
+   "name": "Verily",
+   "board": {
+    "platform": "workday",
+    "host": "verily.wd1.myworkdayjobs.com",
+    "tenant": "verily",
+    "site": "Verily_Careers"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 14
+  },
+  {
+   "name": "Viatris",
+   "board": {
+    "platform": "workday",
+    "host": "viatris.wd5.myworkdayjobs.com",
+    "tenant": "viatris",
+    "site": "External"
+   },
+   "us_jobs": 16,
+   "bio_jobs": 16
+  },
+  {
+   "name": "Viridian Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "viridiantherapeuticsinc"
+   },
+   "us_jobs": 28,
+   "bio_jobs": 12
+  },
+  {
+   "name": "ZBiotics Company",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "zbioticscompany"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Zentalis Pharmaceuticals",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "zentalis"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 4
+  }
+ ],
+ "added": [
+  {
+   "name": "Color Health",
+   "board": {
+    "platform": "ashby",
+    "slug": "color-health"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Inotiv",
+   "board": {
+    "platform": "workday",
+    "host": "inotivco.wd5.myworkdayjobs.com",
+    "tenant": "inotivco",
+    "site": "EXT"
+   },
+   "us_jobs": 59,
+   "bio_jobs": 59
+  },
+  {
+   "name": "Lonza",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "lonza"
+   },
+   "us_jobs": 6,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Fujifilm Diosynth Biotechnologies",
+   "board": {
+    "platform": "workday",
+    "host": "fujifilm.wd3.myworkdayjobs.com",
+    "tenant": "fujifilm",
+    "site": "FLB_CS"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Insmed",
+   "board": {
+    "platform": "workday",
+    "host": "insmed.wd504.myworkdayjobs.com",
+    "tenant": "insmed",
+    "site": "EXTERNAL"
+   },
+   "us_jobs": 19,
+   "bio_jobs": 19
+  },
+  {
+   "name": "Xaira Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "xairatherapeutics"
+   },
+   "us_jobs": 25,
+   "bio_jobs": 22
+  },
+  {
+   "name": "Absci",
+   "board": {
+    "platform": "ashby",
+    "slug": "absci"
+   },
+   "us_jobs": 7,
+   "bio_jobs": 5
+  },
+  {
+   "name": "Genesis Therapeutics",
+   "board": {
+    "platform": "ashby",
+    "slug": "genesis-molecular-ai"
+   },
+   "us_jobs": 11,
+   "bio_jobs": 6
+  },
+  {
+   "name": "Benchling",
+   "board": {
+    "platform": "ashby",
+    "slug": "benchling"
+   },
+   "us_jobs": 46,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Dotmatics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "dotmatics"
+   },
+   "us_jobs": 10,
+   "bio_jobs": 8
+  },
+  {
+   "name": "Arc Institute",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "arcinstitute"
+   },
+   "us_jobs": 21,
+   "bio_jobs": 11
+  },
+  {
+   "name": "Chan Zuckerberg Biohub",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "biohub"
+   },
+   "us_jobs": 17,
+   "bio_jobs": 9
+  },
+  {
+   "name": "Jackson Laboratory",
+   "board": {
+    "platform": "workday",
+    "host": "thejacksonlaboratory.wd503.myworkdayjobs.com",
+    "tenant": "thejacksonlaboratory",
+    "site": "External_JAX"
+   },
+   "us_jobs": 72,
+   "bio_jobs": 72
+  },
+  {
+   "name": "Memorial Sloan Kettering",
+   "board": {
+    "platform": "workday",
+    "host": "msk.wd108.myworkdayjobs.com",
+    "tenant": "msk",
+    "site": "MSKCC_Careers_Primary"
+   },
+   "us_jobs": 114,
+   "bio_jobs": 114
+  },
+  {
+   "name": "Scripps Research",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "scrippsresearch"
+   },
+   "us_jobs": 7,
+   "bio_jobs": 4
+  },
+  {
+   "name": "Whitehead Institute",
+   "board": {
+    "platform": "workday",
+    "host": "wibr.wd1.myworkdayjobs.com",
+    "tenant": "wibr",
+    "site": "WIBR-Careers"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Howard Hughes Medical Institute",
+   "board": {
+    "platform": "workday",
+    "host": "hhmi.wd1.myworkdayjobs.com",
+    "tenant": "hhmi",
+    "site": "External"
+   },
+   "us_jobs": 39,
+   "bio_jobs": 39
+  },
+  {
+   "name": "Van Andel Institute",
+   "board": {
+    "platform": "workday",
+    "host": "vai.wd1.myworkdayjobs.com",
+    "tenant": "vai",
+    "site": "VAICareers"
+   },
+   "us_jobs": 21,
+   "bio_jobs": 21
+  },
+  {
+   "name": "CRISPR Therapeutics",
+   "board": {
+    "platform": "workday",
+    "host": "crisprtx.wd12.myworkdayjobs.com",
+    "tenant": "crisprtx",
+    "site": "careers"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 5
+  },
+  {
+   "name": "Verve Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "verve"
+   },
+   "us_jobs": 15,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Mammoth Biosciences",
+   "board": {
+    "platform": "lever",
+    "slug": "mammothbiosci"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Tessera Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "tesseratherapeutics"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Stoke Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "stoketherapeutics"
+   },
+   "us_jobs": 26,
+   "bio_jobs": 12
+  },
+  {
+   "name": "Annexon Biosciences",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "annexonbioscience"
+   },
+   "us_jobs": 10,
+   "bio_jobs": 5
+  },
+  {
+   "name": "Arvinas",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "arvinas"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Deciphera",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "DecipheraPharmaceuticals1"
+   },
+   "us_jobs": 24,
+   "bio_jobs": 4
+  },
+  {
+   "name": "Vir Biotechnology",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "virbiotechnologyinc"
+   },
+   "us_jobs": 21,
+   "bio_jobs": 10
+  },
+  {
+   "name": "ElevateBio",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "elevatebio"
+   },
+   "us_jobs": 12,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Ring Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "ringtherapeutics"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Laronde",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "sendabiosciences"
+   },
+   "us_jobs": 6,
+   "bio_jobs": 4
+  },
+  {
+   "name": "Cellarity",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "cellarity"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Structure Therapeutics",
+   "board": {
+    "platform": "bamboohr",
+    "slug": "structuretx"
+   },
+   "us_jobs": 17,
+   "bio_jobs": 9
+  },
+  {
+   "name": "Cytokinetics",
+   "board": {
+    "platform": "workday",
+    "host": "cytokinetics.wd1.myworkdayjobs.com",
+    "tenant": "cytokinetics",
+    "site": "Cytokinetics"
+   },
+   "us_jobs": 9,
+   "bio_jobs": 9
+  },
+  {
+   "name": "Zenas BioPharma",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "zenasbio"
+   },
+   "us_jobs": 9,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Mendel AI",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "mendelai"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Ansa Biotechnologies",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "ansabiotechnologies"
+   },
+   "us_jobs": 8,
+   "bio_jobs": 1
+  },
+  {
+   "name": "DNA Script",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "dnascript"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Sartorius",
+   "board": {
+    "platform": "workday",
+    "host": "sartorius.wd3.myworkdayjobs.com",
+    "tenant": "sartorius",
+    "site": "sartoriuscareers"
+   },
+   "us_jobs": 8,
+   "bio_jobs": 8
+  },
+  {
+   "name": "Abbott Laboratories",
+   "board": {
+    "platform": "workday",
+    "host": "abbott.wd5.myworkdayjobs.com",
+    "tenant": "abbott",
+    "site": "abbottcareers"
+   },
+   "us_jobs": 1176,
+   "bio_jobs": 1176
+  },
+  {
+   "name": "Siemens Healthineers",
+   "board": {
+    "platform": "workday",
+    "host": "onehealthineers.wd3.myworkdayjobs.com",
+    "tenant": "onehealthineers",
+    "site": "SHSJB"
+   },
+   "us_jobs": 512,
+   "bio_jobs": 512
+  },
+  {
+   "name": "QuidelOrtho",
+   "board": {
+    "platform": "workday",
+    "host": "orthoclinical.wd1.myworkdayjobs.com",
+    "tenant": "orthoclinical",
+    "site": "Search"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 2
+  },
+  {
+   "name": "OraSure Technologies",
+   "board": {
+    "platform": "lever",
+    "slug": "dnagenotek"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Swift Biosciences",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "swiftbiosciencesinc"
+   },
+   "us_jobs": 1,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Worldwide Clinical Trials",
+   "board": {
+    "platform": "workday",
+    "host": "worldwide.wd1.myworkdayjobs.com",
+    "tenant": "worldwide",
+    "site": "External"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Premier Research",
+   "board": {
+    "platform": "workday",
+    "host": "premierresearch.wd12.myworkdayjobs.com",
+    "tenant": "premierresearch",
+    "site": "PremierResearch"
+   },
+   "us_jobs": 10,
+   "bio_jobs": 10
+  },
+  {
+   "name": "Veeva Systems",
+   "board": {
+    "platform": "lever",
+    "slug": "veeva"
+   },
+   "us_jobs": 440,
+   "bio_jobs": 29
+  },
+  {
+   "name": "Flatiron Health",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "flatironhealth"
+   },
+   "us_jobs": 12,
+   "bio_jobs": 1
+  },
+  {
+   "name": "Komodo Health",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "komodohealth"
+   },
+   "us_jobs": 18,
+   "bio_jobs": 0
+  },
+  {
+   "name": "Valo Health",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "valohealth"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Inari Agriculture",
+   "board": {
+    "platform": "workday",
+    "host": "inari.wd108.myworkdayjobs.com",
+    "tenant": "inari",
+    "site": "Inari_Careers"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3
+  },
+  {
+   "name": "Amyris",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "amyrisinc"
+   },
+   "us_jobs": 2,
+   "bio_jobs": 2
+  },
+  {
+   "name": "Manifold Bio",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "manifoldbio"
+   },
+   "us_jobs": 11,
+   "bio_jobs": 6
+  },
+  {
+   "name": "Charles River Analytics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "charlesriveranalytics90"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Samsung Semiconductor",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "samsungsemiconductor"
+   },
+   "us_jobs": 80,
+   "bio_jobs": 37,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Certified Group",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "certifiedgroup"
+   },
+   "us_jobs": 77,
+   "bio_jobs": 66,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "TGH Senior Center Powered by Greenbrook Medical",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "tghseniorcenter"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 11,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Good Pill",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "goodpill"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "MIND 24-7",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "mind247"
+   },
+   "us_jobs": 12,
+   "bio_jobs": 5,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Tarsus Pharmaceuticals",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "tarsusrx"
+   },
+   "us_jobs": 29,
+   "bio_jobs": 9,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "The Pharmacy Hub",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "thepharmacyhub"
+   },
+   "us_jobs": 17,
+   "bio_jobs": 16,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Shields Health Solutions",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "shieldshealthsolutions"
+   },
+   "us_jobs": 77,
+   "bio_jobs": 65,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Evergreen Nephrology",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "evergreennephrology"
+   },
+   "us_jobs": 6,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Stylus Medicine",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "stylusmedicine"
+   },
+   "us_jobs": 6,
+   "bio_jobs": 6,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Samsung Research America",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "samsungresearchamerica"
+   },
+   "us_jobs": 19,
+   "bio_jobs": 14,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "South Texas Spine Hospital",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "southtexasspinehospital"
+   },
+   "us_jobs": 12,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Interwell Health",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "interwellhealth"
+   },
+   "us_jobs": 9,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Strive Pharmacy",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "strivepharmacy"
+   },
+   "us_jobs": 26,
+   "bio_jobs": 21,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Cogstate",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "cogstateinc"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 5,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Iterative Health",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "iterativehealth"
+   },
+   "us_jobs": 51,
+   "bio_jobs": 31,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Pegasus Laboratories, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "pegasuslaboratoriesinc"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 14,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Basis Research",
+   "board": {
+    "platform": "ashby",
+    "slug": "basis-research"
+   },
+   "us_jobs": 13,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Spring Fertility",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "springfertility"
+   },
+   "us_jobs": 31,
+   "bio_jobs": 28,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Superluminal Medicines, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "superluminalrx"
+   },
+   "us_jobs": 7,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Obsidian Therapeutics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "obsidiantherapeutics"
+   },
+   "us_jobs": 8,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Dayhoff Labs",
+   "board": {
+    "platform": "ashby",
+    "slug": "dayhoff-labs"
+   },
+   "us_jobs": 9,
+   "bio_jobs": 8,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "AE Studio",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "aestudio"
+   },
+   "us_jobs": 5,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Starling Oncology",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "theoncologyinstitute"
+   },
+   "us_jobs": 60,
+   "bio_jobs": 52,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Alta Resource Technologies, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "altaresourcetechnologiesinc"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 5,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Fieldstone Bio",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "fieldstonebio"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Greenbrook Medical",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "greenbrookmedical"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 11,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Modena Allergy + Asthma",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "modenaallergyasthma"
+   },
+   "us_jobs": 33,
+   "bio_jobs": 11,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Aviary",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "aviary"
+   },
+   "us_jobs": 14,
+   "bio_jobs": 5,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Abiologics",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "abiologics"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Telix Pharmaceuticals (AMER)",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "telixus"
+   },
+   "us_jobs": 44,
+   "bio_jobs": 20,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Axle",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "axle"
+   },
+   "us_jobs": 56,
+   "bio_jobs": 27,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Kernal Biologics, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "kernalbio"
+   },
+   "us_jobs": 4,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Vera Therapeutics, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "veratherapeuticsinc"
+   },
+   "us_jobs": 11,
+   "bio_jobs": 4,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Welcome to the Tarsanet Internal Career Center!",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "itcss"
+   },
+   "us_jobs": 26,
+   "bio_jobs": 10,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Theoria Medical",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "theoriamedical"
+   },
+   "us_jobs": 62,
+   "bio_jobs": 67,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Pliant Therapeutics, Inc.",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "plianttherapeuticsinc"
+   },
+   "us_jobs": 3,
+   "bio_jobs": 3,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "AnthroMed Education (School Services)",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "anthromededucation"
+   },
+   "us_jobs": 135,
+   "bio_jobs": 82,
+   "from": "commoncrawl"
+  },
+  {
+   "name": "Precision for Medicine",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "pfm"
+   },
+   "us_jobs": 35,
+   "bio_jobs": 38,
+   "from": "commoncrawl"
+  }
+ ],
+ "not_found": [
+  "10x Genomics",
+  "23andMe",
+  "37degrees",
+  "3Scan",
+  "A&G Pharmaceutical",
+  "A28 Therapeutics",
+  "Aarvik Therapeutics",
+  "Abalos Therapeutics",
+  "Abbisko Therapeutics",
+  "Abbott",
+  "Abbott Molecular",
+  "Abcam",
+  "AbClon",
+  "Abdera Therapeutics",
+  "Abiomed",
+  "ABION",
+  "ABL Bio",
+  "Absorption Systems",
+  "AbTis",
+  "Accent Therapeutics",
+  "AccuGenomics",
+  "AccuraGen",
+  "ACL Laboratories",
+  "ACM BIolabs Pte",
+  "Acorda Therapeutics",
+  "ACROBiosystems",
+  "Active Motif",
+  "ADARx Pharmaceuticals",
+  "Adcendo",
+  "Addpharma",
+  "Adgyl Lifesciences",
+  "Adimab",
+  "Admera Health",
+  "Advaxis",
+  "Aegea Biotech",
+  "Aerie Pharmaceuticals",
+  "AeroCytek",
+  "Aethon Therapeutics",
+  "Affinity Biopharmaceutical",
+  "Age X Therapeutics",
+  "Agena Bioscience",
+  "Agenus",
+  "Agios Pharmaceuticals",
+  "AGTC Genomics",
+  "Aiforia",
+  "AIGEN Sciences",
+  "AIGENDRUG",
+  "Ailux",
+  "AIM Biotech Pte",
+  "Akari Therapeutics",
+  "Akribion Therapeutics",
+  "Aldeyra Therapeutics",
+  "Alida Biosciences",
+  "Aligos Therapeutics",
+  "Alimera Sciences",
+  "Alithea Genomics",
+  "Allarity Therapeutics",
+  "Allink Biotherapeutics",
+  "Allist Pharmaceuticals",
+  "Allogene Therapeutics",
+  "ALMA 3-Dx",
+  "ALMA Genomics",
+  "ALPFA Medical",
+  "Alpha Tau Medical",
+  "AlphaGen Therapeutics",
+  "Alpherabio",
+  "Alpine Immune Sciences",
+  "Altis Labs",
+  "Altona Diagnostics",
+  "Alveus Therapeutics",
+  "Alzheon",
+  "Amazon (AWS)",
+  "Amberstone Biosciences",
+  "Ambitious Bio",
+  "Amicus Therapeutics",
+  "Amphista Therapeutics",
+  "Anabio R&D",
+  "Anavo Therapeutics",
+  "AnBogen Therapeutics",
+  "AnHorn Medicines",
+  "Ankyra Therapeutics",
+  "Antelope Therapeutics",
+  "Antengene",
+  "Antibody Solutions",
+  "AntibodyChem Biosciences",
+  "AntiCancer",
+  "Antido Therapeutics",
+  "Antikor Biopharma",
+  "Anwita Bioscience",
+  "AOA Dx",
+  "Apertor Pharmaceuticals",
+  "Apex OncoSience",
+  "APITBIO",
+  "Apogee Biotechnology",
+  "Apop Biosciences",
+  "Apricity Health",
+  "Apricus Biosciences",
+  "Aptabio Therapeutics",
+  "AquaBounty Technologies",
+  "Araceli Biosciences",
+  "Arcellx",
+  "Arcus Biosciences",
+  "Arcutis Biotherapeutics",
+  "Arima Genomics",
+  "Arkangel AI",
+  "Arnatar Therapeutics",
+  "Arovella Therapeutics",
+  "Arrakis Therapeutics",
+  "ArriVent Biopharma",
+  "Arrowhead Research",
+  "ARTIDIS",
+  "Artios Pharma",
+  "ARUP Laboratories",
+  "Aryastha Life Sciences",
+  "Ascentage Pharma",
+  "Asieris Pharmaceuticals",
+  "AskBio",
+  "Aspect Analytics",
+  "Aspera Biomedicines",
+  "Assembly Biosciences",
+  "Assertio",
+  "Astellas Pharma",
+  "Astex Pharmaceuticals",
+  "Astraea Bio",
+  "Astria Therapeutics",
+  "Astrin Biosciences",
+  "Asuragen",
+  "AtaiBeckley",
+  "Atea Pharmaceuticals",
+  "Atheron Therapeutics",
+  "Atila Biosciences",
+  "AtlasXomics",
+  "Atom Therapeutics",
+  "Atossa Therapeutics",
+  "Atrandi Biosciences",
+  "Atux Iskay",
+  "aTyr Pharma",
+  "Aurigene Oncology",
+  "Aurora Diagnostics",
+  "Ausper Biopharma",
+  "Avacta Therapeutics",
+  "Avammune Therapeutics",
+  "Avidity Biosciences",
+  "Avistone Biotechnology",
+  "Aviva Biopharm",
+  "Axcynsis Therapeutics",
+  "Axter Therapeutics",
+  "Azalea Therapeutics",
+  "Azenta Life Sciences (GENEWIZ)",
+  "Bambusa Therapeutics",
+  "Bayer",
+  "Baylink Biosciences",
+  "Baylor Genetics",
+  "Beckman Coulter",
+  "Bectas Therapeutics",
+  "BellBrook Labs",
+  "Benchmark Scientific",
+  "Benthic Genomics",
+  "Berry Genomics",
+  "Bethyl Laboratories",
+  "Betta Pharmaceuticals",
+  "Bexion Pharmaceuticals",
+  "BeyondSpring Pharmaceuticals",
+  "BGI",
+  "BGI Genomics",
+  "BigHat Biosciences",
+  "BIMINI Biotech",
+  "Bio Nature Health",
+  "Bio-innova",
+  "Bio-Nucleonics",
+  "Bio-Rad Laboratories",
+  "Bio-Techne",
+  "BioAge Labs",
+  "BioAro",
+  "Biocare Medical",
+  "Biocartis",
+  "Bioceramed",
+  "Biocytogen Pharmaceuticals",
+  "Biodesix",
+  "BioDuro",
+  "BioExcel Diagnostics",
+  "Biofidelity",
+  "Biognosys",
+  "BioGX",
+  "Biohaven Therapeutics",
+  "Biointelligent Technology Systems SL",
+  "bioLytical Laboratories",
+  "BioMap",
+  "BioMarin Pharmaceutical",
+  "Biomatrica",
+  "Biomed Industries",
+  "BioMotiv",
+  "Biomunex Pharmaceuticals",
+  "Biomy",
+  "bioMérieux",
+  "Bionime",
+  "Biopico Systems",
+  "Bioray Pharmaceutical",
+  "BioSensics",
+  "Biosensors Europe",
+  "Biosion",
+  "BioSkryb Genomics",
+  "BioSpherix",
+  "BioSpyder Technologies",
+  "BioStem Technologies",
+  "BioSyngen Pte",
+  "Biotium",
+  "Biotronik SE & Co. KG",
+  "BIOTYPE",
+  "Biovica International",
+  "Biovista",
+  "Black Canyon Bio",
+  "Blackhawk Genomics",
+  "Blacksmith Medicines",
+  "BlossomHill Therapeutics",
+  "bluebird bio",
+  "BlueMeme",
+  "BlueWhale Bio",
+  "Boehringer Ingelheim",
+  "Bohus Biotech",
+  "Bold Therapeutics",
+  "Bonum Therapeutics",
+  "Boomray Pharmaceuticals",
+  "Boryung Pharmaceutical",
+  "BostonGene",
+  "BPS Bioscience",
+  "Braile Biomedica Ind. Com. e Repr. Ltda.",
+  "Breakthrough Genomics",
+  "BriaCell Therapeutics",
+  "BridgeBio Oncology Therapeutics",
+  "Bright Biologics",
+  "BrightGene Bio-Medical Technology",
+  "Bristar Immunotech",
+  "BroadenBio",
+  "Bruker",
+  "BrYet",
+  "Burning Rock Biotech",
+  "Byondis",
+  "C the Signs",
+  "Cabaletta Bio",
+  "Cadila Pharmaceuticals",
+  "Calidi Biotherapeutics",
+  "Caliway Biopharmaceuticals",
+  "Callio Therapeutics",
+  "Calysta",
+  "Cancentus Pharma",
+  "CancerFree Biotech",
+  "Candel Therapeutics",
+  "Candid Therapeutics",
+  "CanFinis Therapeutics",
+  "Canopy Biosciences",
+  "Cantata Bio",
+  "CanWell Pharma",
+  "Caplugs Evergreen",
+  "Captis Diagnostics",
+  "Captor Therapeutics",
+  "Carcinotech",
+  "Cardiff Oncology",
+  "Cardurion Pharmaceuticals",
+  "Caris Life Sciences",
+  "Carna Biosciences",
+  "Carrick Therapeutics",
+  "Cartesian Therapeutics",
+  "Cartography Biosciences",
+  "Catalent",
+  "CatalYm",
+  "Catalyst Pharmaceuticals",
+  "Catch Bio",
+  "Cell Signaling Technology",
+  "CellarisBio",
+  "CelLBxHealth",
+  "CellCentric",
+  "Celldex Therapeutics",
+  "Cellecta",
+  "Cellectis",
+  "Cellentia",
+  "CellinCells",
+  "CellMosaic",
+  "Celloram",
+  "Celltrion",
+  "Cellution Biologics",
+  "Cellvis",
+  "Celnovte Biotech",
+  "Celon Pharma",
+  "CEN Biotech",
+  "Centogene",
+  "Certis Oncology Solutions",
+  "CFD Research",
+  "CGBio",
+  "Champions Oncology",
+  "Charles River Laboratories",
+  "ChemDiv",
+  "ChemPartner",
+  "Chemspace",
+  "Chengdu Kangnuoxing Biopharma,Inc.",
+  "Chia Tai Tianqing Pharmaceutical Group",
+  "Chipscreen Biosciences",
+  "ChromaCode",
+  "Chugai Pharmaceutical",
+  "Cidara Therapeutics",
+  "Citil Pharma",
+  "CKD Pharmaceutical",
+  "Claret Bioscience",
+  "Clasp Therapeutics",
+  "Clear Labs",
+  "ClearNote Health",
+  "Clin-Path Diagnostics",
+  "CLOVERNA",
+  "CoBX Bio",
+  "Codetta Bio",
+  "Cofactor Genomics",
+  "Coltac Therapeutics",
+  "Complement Therapeutics",
+  "Complete Genomics",
+  "Constantiam Biosciences",
+  "Context Therapeutics",
+  "Convalife Pharmaceuticals",
+  "Convergent Therapeutics",
+  "Coorg Biosciences",
+  "Corbus Pharmaceuticals",
+  "CorrectSequence Therapeutics",
+  "Corxel Pharmaceuticals",
+  "CoTherix",
+  "Countable Labs",
+  "Covaris",
+  "CpG Diagnostics",
+  "Craif",
+  "Creative Biogene",
+  "Creatv MicroTech",
+  "Crinetics Pharmaceuticals",
+  "Croma-Pharma",
+  "CrossBridge Bio",
+  "CrossPoint Therapeutics",
+  "Crown Bioscience",
+  "Crystal Genetics",
+  "CStone Pharmaceuticals",
+  "CTCELLS",
+  "Cue Biopharma",
+  "Cullinan Therapeutics",
+  "Curenetics",
+  "CureVac",
+  "Curia Global",
+  "Curocell",
+  "Cyclacel",
+  "Cycuria Therapeutics",
+  "Cypress Systems",
+  "Cytek Biosciences",
+  "Cytiva",
+  "CytoDyn",
+  "CytoGen",
+  "Cytori Therapeutics",
+  "CytosinLab Therapeutics",
+  "Cytrellis Biosystems",
+  "CytRx",
+  "D3 Bio",
+  "D4Z4 Medicine",
+  "DAAN Biotherapeutics",
+  "DaCure Therapeutics",
+  "Daewon Pharmaceutical",
+  "Daewoong Pharmaceutical",
+  "Daiichi Sankyo",
+  "Dalton Bioanalytics",
+  "DataTecnica",
+  "DCx Biotherapeutics",
+  "Debiopharm",
+  "Deciphera Pharmaceuticals",
+  "Deck Bio",
+  "deCODE genetics (Amgen)",
+  "Decode Health",
+  "Deepcell",
+  "DeepKinase Biotechnologies",
+  "Degron Therapeutics",
+  "Denali Therapeutics",
+  "Dewpoint Therapeutics",
+  "Diagenode",
+  "Diffusion Pharmaceuticals",
+  "Direct Biologics",
+  "Diversified Biotech",
+  "Dizal Pharmaceuticals",
+  "DNA2.0",
+  "Dong-A ST",
+  "Dovetail Genomics",
+  "Dragon Boat Biopharmaceutical",
+  "Droplet Biosciences",
+  "Duality Biologics",
+  "DualityBio",
+  "Dxcover",
+  "Dynamic42",
+  "Eagle Pharmaceuticals",
+  "Earendil Labs",
+  "Eccogene",
+  "Edelris",
+  "Edison Oncology",
+  "Editas Medicine",
+  "EditCo Bio",
+  "Edity Therapeutics",
+  "Eilean Therapeutics",
+  "Eisai",
+  "Elevar Therapeutics",
+  "Eli Lilly",
+  "Ellis Bio",
+  "Elucidata",
+  "Elucidate Bio",
+  "Elusys Therapeutics",
+  "EMD Serono (Merck KGaA)",
+  "Emergent BioSolutions",
+  "Empirico",
+  "Enanta Pharmaceuticals",
+  "Enara Bio",
+  "EnFuego Therapeutics",
+  "Engitix Therapeutics",
+  "Engrail Therapeutics INC",
+  "Enliven Therapeutics",
+  "EnquBio",
+  "Ensem Therapeutics",
+  "Ensemble Therapeutics",
+  "EntroGen",
+  "EPICS Therapeutics",
+  "EpiCypher",
+  "EpigenDx",
+  "Episteme Prognostics",
+  "Ernexa Therapeutics",
+  "Escugen Bio",
+  "Espad Pharmed",
+  "Esperion Therapeutics",
+  "Eureka Therapeutics",
+  "Eurofins Discovery",
+  "Evaxion",
+  "EvolveImmune Therapeutics",
+  "Evopoint Biosciences",
+  "Exact Sciences",
+  "Excyte Biopharma",
+  "Exelixis",
+  "Exollence Biotechnology",
+  "EXUMA Biotech",
+  "Factor Bioscience",
+  "Fast Dx",
+  "FDC Biotech",
+  "Ferring Pharmaceuticals",
+  "FIMECS",
+  "FindCure Biosciences (ZhongShan)",
+  "Flagship Biosciences",
+  "Flare Therapeutics",
+  "Flourish Science",
+  "Foghorn Therapeutics",
+  "Foresee Genomics",
+  "Foreseen Bio",
+  "Foresight Therapeutics",
+  "Foretell My Health",
+  "Forlong Biotechnology",
+  "Fortitude Biomedicines",
+  "Fortvita Biologics (USA)Inc.",
+  "FoRx Therapeutics",
+  "Foundation Medicine",
+  "Frameshift Genomics",
+  "Frontage Laboratories",
+  "Frontier Medicines",
+  "FUJIFILM VisualSonics",
+  "Fulcrum Genomics",
+  "Fulgent Genetics",
+  "Full-Life Technologies",
+  "Ganzhou Hemay Pharmaceutical",
+  "GE Healthcare Technologies",
+  "GemPharmatech",
+  "Gencurix",
+  "GeneCentric Therapeutics",
+  "GeneCker",
+  "GeneCradle",
+  "GeneMatrix",
+  "Genes2Me",
+  "Genesee Scientific",
+  "Geneverify",
+  "Genexine",
+  "GeneXus Dx",
+  "Genfleet Therapeutics",
+  "Genialis",
+  "Geninus",
+  "GENOAP Genetics",
+  "GenoBioTX",
+  "Genomatica",
+  "GENOTYPOS Science Labs",
+  "Genprex",
+  "GenSpera",
+  "Genventis",
+  "Genvira Biosciences",
+  "Getz Pharma",
+  "GlobeImmune",
+  "Glyco-therapy Biotechnology",
+  "GO Therapeutics",
+  "Google",
+  "Google DeepMind",
+  "Gopath Diagnostics",
+  "Grace Bio-Labs",
+  "Gracell Biotechnologies",
+  "Grannus Therapeutics",
+  "Graviton Bioscience",
+  "Greywolf Therapeutics",
+  "GRIN Therapeutics",
+  "Grit Biotechnology",
+  "GT Molecular",
+  "Guardant Health",
+  "Guardian Therapeutics",
+  "Haisco Pharmaceutical Group",
+  "Halia Therapeutics",
+  "Hamamatsu Photonics",
+  "Hamilton",
+  "Hanmi Pharmaceutical",
+  "Hanx Bio",
+  "Harmony Biosciences Management",
+  "HAYA Therapeutics",
+  "HCW Biologics",
+  "Healthgen Biotechnology",
+  "Hebei Senlang Biotechnology Inc.",
+  "HEC Pharma",
+  "Heidelberg Pharma",
+  "Helicos Biosciences",
+  "Helix",
+  "HELP Therapeutics",
+  "Hemab ApS",
+  "Hephaistos Pharma",
+  "Hepius Therapeutics",
+  "Hermes Biosciences",
+  "Heronova Pharmaceuticals",
+  "HiLung",
+  "Histogenetics",
+  "HiThru Analytics",
+  "HK inno.N",
+  "Hofseth Biocare ASA",
+  "Hologic",
+  "HoneyBear Biosciences",
+  "HoneyComb Biotech",
+  "Hongcheng Biopharma",
+  "Huabo Biopharm",
+  "Huadong Medicine",
+  "HUB Organoids",
+  "Hudson Biotech",
+  "Humanase",
+  "Hurdle.bio/Chronomics",
+  "HUTCHMED",
+  "ICE Bioscience",
+  "iCell Gene Therapeutics",
+  "Idorsia Pharmaceuticals",
+  "Igenomix",
+  "Iksuda Therapeutics",
+  "Imagene AI",
+  "IMBiologics",
+  "Immorna Biotherapeutics",
+  "ImmuneOncia Therapeutics",
+  "ImmunityBio",
+  "ImmunoGenesis",
+  "ImmunoScape Pte",
+  "Immunovant Sciences",
+  "Immuto Scientific",
+  "ImmuVia",
+  "Implicit Bioscience",
+  "Inaphaea Biolabs",
+  "Inceptor Bio",
+  "Incyte",
+  "InDevR",
+  "Indica Labs",
+  "Infinity Bio",
+  "InnoGenomics Technologies",
+  "InnovStone Therapeutics Limited",
+  "Inocras",
+  "Inozyme Pharma",
+  "Insight Molecular Diagnostics",
+  "Insilico Medicine",
+  "Intarcia Therapeutics",
+  "Integra LifeSciences",
+  "Integrated DNA Technologies",
+  "Intellia Therapeutics",
+  "Intelligent Bio Solutions",
+  "Intra-Cellular Therapies",
+  "Intralytix",
+  "InventisBio",
+  "Invivoscribe",
+  "Ionis Pharmaceuticals",
+  "iRegene Therapeutics",
+  "Italfarmaco",
+  "Iterion Therapeutics",
+  "IVIEW Therapeutics",
+  "Jacobio Pharmaceuticals",
+  "Jazz Pharmaceuticals",
+  "Jecho Laboratories",
+  "Jeil Pharmaceutical",
+  "Jiangxi Kvvit Pharmaceutical",
+  "JNPMEDI",
+  "Joincare Pharmaceutical Group Industry",
+  "Juncell Therapeutics",
+  "Juventas Cell Therapy",
+  "JW Pharmaceutical",
+  "Kanaph Therapeutics",
+  "Kashiv BioSciences",
+  "Kelonia Therapeutics",
+  "Kind Pharmaceuticals",
+  "Kinetic Concepts",
+  "KINETOLab Biotechnology",
+  "Kivu Bioscience",
+  "Kolon Life Science",
+  "Kowa",
+  "Kriya Therapeutics",
+  "Krystal Biotech",
+  "KSQ Therapeutics",
+  "Kumquat Biosciences",
+  "Kura Biotech",
+  "KYAN Technologies",
+  "Kyinno Biotechnology",
+  "La Jolla Labs",
+  "LabGenius Therapeutics",
+  "LabPMM",
+  "Lacar MDX Technologies",
+  "Lakewood-Amedex",
+  "LaNova Medicines",
+  "Latigo Biotherapeutics",
+  "Leadingtac Pharmaceutical (Shaoxing)",
+  "Leads Biolabs",
+  "Lee Pharma",
+  "Leica Biosystems",
+  "Lepu Biopharma",
+  "Leukogene Therapeutics",
+  "Lexicon Pharmaceuticals",
+  "LifeGene-Biomarks",
+  "LigaChem Biosciences",
+  "Light Chain Bioscience",
+  "Lineage Cell Therapeutics",
+  "Liquid Biosciences",
+  "LiquidCell Dx",
+  "Litron Laboratories",
+  "Locus Biosciences",
+  "Longbio Pharma",
+  "LucasBio",
+  "Luminary Therapeutics",
+  "Luminex",
+  "Luye Pharma Group",
+  "LyncBio Therapeutics",
+  "MaaT Pharma",
+  "Macrogen",
+  "MagIA Diagnostics",
+  "Mainz Biomed",
+  "Mapp Biopharmaceutical",
+  "Marigold Therapeutics",
+  "McGuff Companies",
+  "MDDx",
+  "MedAbome",
+  "Medacta International",
+  "MedGenome",
+  "Mediar Therapeutics",
+  "Medicenna Therapeutics",
+  "Medicilon",
+  "MediCity Research Laboratories",
+  "MediInfra",
+  "MediLink Therapeutics",
+  "MedPacto",
+  "Menarini Silicon Biosystems",
+  "Mercy BioAnalytics",
+  "Merida Biosciences",
+  "Merus",
+  "Meso Scale Diagnostics",
+  "Mestastop Solutions",
+  "Meteor Biotech",
+  "MicroPure Genomics",
+  "Microsoft",
+  "MiLaboratories",
+  "Miltenyi Biotec",
+  "MIMETAS",
+  "MindWalk",
+  "Minerva Imaging",
+  "Minneamrita Therapeutics",
+  "Minos Labs",
+  "MIRA Pharmaceuticals",
+  "Mirati Therapeutics",
+  "MiraVista Diagnostics",
+  "MIRXES Lab",
+  "Miyarisan Pharmaceutical",
+  "Molecular Devices",
+  "Molecular Instruments",
+  "Molecular Partners",
+  "MolSoft",
+  "MoMa Therapeutics",
+  "Mondego Bio",
+  "Monopar Therapeutics",
+  "Monte Rosa Therapeutics",
+  "Montis Biosciences",
+  "Mosaic Therapeutics",
+  "MultiOmic Health",
+  "Multitude Therapeutics",
+  "MycoMedica Life Sciences",
+  "Myriad Genetics",
+  "Myrio Therapeutics",
+  "Nabsys",
+  "Nain Biotech",
+  "Naliean Therapeutics",
+  "Nanoportal Biotech",
+  "NanoString",
+  "Nautilus Biotechnology",
+  "Navegador Biosciences",
+  "Navinci Diagnostics",
+  "NDV Therapeutics",
+  "Nectin Therapeutics",
+  "NeoGenomics",
+  "NeoMab Biotechnology",
+  "Neomorph",
+  "NEORNAT",
+  "Nerx Biosciences",
+  "NETRIS Pharma",
+  "Neurodawn Pharmaceutical",
+  "New England Biolabs",
+  "NewAmsterdam Pharma",
+  "NewBay Pharma",
+  "Newsoara Biopharma",
+  "Nexosome Oncology",
+  "NextGen Precision Health",
+  "NextPoint Therapeutics",
+  "NexusPharma",
+  "Nikon Instruments",
+  "Nimble Science",
+  "Nimbus Discovery",
+  "NJ Bio",
+  "Nomic Bio",
+  "Nordic Bioscience",
+  "Northwest PK Solutions",
+  "NOVA Genomics",
+  "NovaBay Pharmaceuticals",
+  "NovelMed Therapeutics",
+  "Novigenix",
+  "Novo Nordisk",
+  "NovoBiotic Pharmaceuticals",
+  "Novocure",
+  "Novogene",
+  "Novus Biologicals",
+  "NS Pharma",
+  "NuScience Medical Biologics",
+  "Nuvation Bio",
+  "Nuvectis Pharma",
+  "Nuvisan ICB",
+  "Nuwacell Biotechnologies",
+  "Nxera Pharma",
+  "OBI Pharma",
+  "Odyssey Therapeutics",
+  "Olink",
+  "Ollin Biosciences",
+  "Omega Therapeutics",
+  "Omicscouts",
+  "OmicsDiscoveries",
+  "OmicVision Biosciences",
+  "OmniSeq",
+  "Onchilles Pharma",
+  "Onco3R Therapeutics",
+  "OncoBayesAlpha",
+  "OncoBone Therapeutics",
+  "OncoC4",
+  "Oncocross",
+  "Oncolab",
+  "Oncolines",
+  "Oncolys BioPharma",
+  "Oncolytics Biotech",
+  "OncoNano Medicine",
+  "Onconic Therapeutics",
+  "Oncotartis",
+  "OneCell Diagnostics",
+  "Oneness Biotech",
+  "Ono Pharmaceutical",
+  "ONS BIO",
+  "Optieum Biotechnologies",
+  "Opus Genetics",
+  "Oramed Pharmaceuticals",
+  "Orano Med",
+  "Orbits Oncology",
+  "Orchid Health",
+  "Organon & Co.",
+  "Oricell Therapeutics",
+  "OriGene Technologies",
+  "Orion Genomics",
+  "Orionis Biosciences",
+  "OrsoBio",
+  "Otsuka Pharmaceutical",
+  "Outlier Informatics",
+  "OverT Bio",
+  "Oxford Nanopore Technologies",
+  "Paige",
+  "Palleon Pharmaceuticals",
+  "PamGene International",
+  "Panakeia Technologies",
+  "Pangaea Oncology",
+  "PanGIA Biotech",
+  "Panome Bio",
+  "PanTarg",
+  "PAQ Therapeutics",
+  "Paradigm Therapeutics",
+  "PAREXEL",
+  "Pathos AI",
+  "Peel Therapeutics",
+  "Pelago Bioscience",
+  "Pembient",
+  "Pentixapharm",
+  "Peptide Systems",
+  "Peptone",
+  "Peptron",
+  "Permeon Biologics",
+  "Personal Dx",
+  "Pharmablock Sciences",
+  "PharmaEssentia",
+  "PharmaLegacy Laboratories",
+  "Pharmaron",
+  "Pharmazz",
+  "Pharos iBio",
+  "Pharosgen",
+  "Phase Genomics",
+  "Phathom Pharmaceuticals",
+  "Pheast Therapeutics",
+  "PhenoVision Bio",
+  "Philochem",
+  "Philogen",
+  "Phrontline Biopharma",
+  "Phytotech Labs",
+  "Pilatus Biosciences",
+  "Pin Therapeutics",
+  "Pinotbio",
+  "Polymed Biopharmaceuticals",
+  "POLYSAN Scientific & Technological Pharmaceutical Company",
+  "Portal Bio",
+  "Portrai",
+  "Prasco Laboratories",
+  "PreAnalytiX",
+  "PrecisemAb Biotech",
+  "Precision Epigenomics",
+  "Predicine",
+  "Predicta Biosciences",
+  "PredxBio",
+  "Prelude Therapeutics",
+  "PreOmics",
+  "Primus Pharmaceuticals",
+  "Prism AI Therapeutics",
+  "PrognomiQ",
+  "Promatix Biosciences",
+  "Promega",
+  "Prospect Therapeutics",
+  "Protean BioDiagnostics",
+  "Proteintech Genomics",
+  "PT. Prodia Stem Cell Indonesia",
+  "Puma Biotechnology",
+  "PYC Therapeutics",
+  "Pyxis Oncology",
+  "Qilu Pharmaceutical",
+  "Qlaris Bio",
+  "QLSF Biotherapeutics",
+  "Qpex Biopharma",
+  "Qualia Life Sciences",
+  "Quanta Therapeutics",
+  "Quanterix",
+  "QUANTRO Therapeutics",
+  "Quantumcyte",
+  "Quest Diagnostics",
+  "Quiverent",
+  "Qure Biotechnology",
+  "Qureator",
+  "Qurient",
+  "R2M Pharma",
+  "Race Oncology",
+  "RadAlliance Therapeutics",
+  "Radiopharm Theranostics",
+  "Rakovina Therapeutics",
+  "RareCyte",
+  "Rarity Bioscience",
+  "Ray Therapeutics",
+  "RayBio",
+  "Raycision Medical Technology",
+  "RDP Pharma",
+  "Reaction Biology",
+  "ReactWise",
+  "ReCerise Therapeutics",
+  "Regend Therapeutics",
+  "Regor Pharmaceuticals",
+  "Regulus Therapeutics",
+  "Reistone Biopharma Company Limited",
+  "Remedy Plan",
+  "Remedy Plan Therapeutics",
+  "RemeGen",
+  "Repare Therapeutics",
+  "Repertoire Immune Medicines",
+  "Resilient Pharmaceuticals",
+  "Resolian",
+  "Resolute Science",
+  "Resphera Biosciences",
+  "Restore Biologics Holdings, Inc. dba Xtressé",
+  "ReSyn Biosciences",
+  "Reunion Neuroscience",
+  "Revelio Therapeutics",
+  "Revvity",
+  "Ribocure Pharmaceuticals",
+  "Ridgeback Biotherapeutics",
+  "RinuaGene Biotechnology",
+  "Rise Therapeutics",
+  "Rivus Pharmaceuticals",
+  "RNAConnect",
+  "Rongchang Pharmaceuticals",
+  "Rubik Therapeutics",
+  "Rubix LS",
+  "Ryvu Therapeutics",
+  "SAGA Dx",
+  "SageMedic",
+  "Sagimet Biosciences",
+  "Samsung Bioepis",
+  "Samsung Biologics",
+  "Samyang Biopharmaceuticals",
+  "Sanaria",
+  "Santolecan Pharmaceuticals",
+  "Sanyou Biopharmaceuticals",
+  "Saphetor",
+  "Sapience Therapeutics",
+  "Sarfez Pharmaceuticals",
+  "Scale Biosciences",
+  "Scarab Genomics",
+  "SciBrunch Therapeutics",
+  "ScinnoHub Pharmaceutical",
+  "Sclnow Biotechnology",
+  "Secarna Pharmaceuticals",
+  "Seed Therapeutics",
+  "Selecxine",
+  "Senhwa Biosciences",
+  "SensID",
+  "Sentieon",
+  "Seonix Bio",
+  "Sequence Bio",
+  "Sequence Bioinformatics",
+  "Sequence LifeScience",
+  "Sequencio Therapeutics",
+  "Sera Biopharma",
+  "Servier Bio-Innovation",
+  "Shaanxi Micot Pharmaceutical Technology",
+  "Shattuck Labs",
+  "Shenyou Bio",
+  "Shin Nippon Biomedical Laboratories",
+  "Shuttle Pharmaceuticals",
+  "Sight Sciences",
+  "SignaBlok",
+  "Signal Bioscience",
+  "Signet Therapeutics",
+  "SillaJen",
+  "Simcere Zaiming Pharmaceutical",
+  "Simsen Diagnostics",
+  "Simulations Plus",
+  "Singlomics Biopharmaceuticals",
+  "Sinocelltech",
+  "Sinotau Pharmaceutical Group",
+  "Sirius Therapeutics",
+  "SK Biopharmaceuticals",
+  "SK Life Science",
+  "SkylineDx",
+  "SMALL Bio",
+  "SmartNuclide Biopharma",
+  "Soley Therapeutics",
+  "Solid Biosciences",
+  "SomaLogic",
+  "Sonnet Biotherapeutics",
+  "SOPHiA GENETICS",
+  "Spark Biomedical",
+  "Sparrow Pharmaceuticals",
+  "Spatial Genomics",
+  "Spatomics",
+  "Spectrum Pharmaceuticals",
+  "SPH Biotherapeutics",
+  "Splice Bio",
+  "Sprint Bioscience",
+  "Stackhaus Research",
+  "StarkAge Therapeutics",
+  "Starna Therapeutics",
+  "STCube Pharmaceuticals",
+  "Stealth BioTherapeutics",
+  "Stem Cell Theranostics",
+  "STEMCELL Technologies",
+  "StemVAC",
+  "Step Pharma",
+  "Stilla Technologies",
+  "STORM Therapeutics",
+  "Strand Life Sciences",
+  "Stratica Biosciences",
+  "Strike Pharma",
+  "Styx Biotechnologies",
+  "Sun Pharmaceutical Industries",
+  "SunnyBay Biotech",
+  "Sunshine Lake Pharma",
+  "Sunstate Biosciences",
+  "Supernus Pharmaceuticals",
+  "Surface Oncology",
+  "Sutro Biopharma",
+  "SWAN Genomics",
+  "Syantra",
+  "Syenex",
+  "Synaptic Systems",
+  "Syncell",
+  "Syndex Bio",
+  "Synentec",
+  "Syneos Health",
+  "Synthesize Bio",
+  "Sysmex",
+  "System Biosciences",
+  "SystImmune",
+  "T-Therapeutics",
+  "Tacalyx",
+  "Taconic Biosciences",
+  "TAE Life Sciences",
+  "Taejoon Pharmaceutical",
+  "TagPep",
+  "Tagworks Pharmaceuticals",
+  "Taiho Pharmaceutical",
+  "Tailor Bio",
+  "Takara Bio",
+  "Takeda",
+  "Talus Bio",
+  "Targepeutics",
+  "Target PharmaSolutions",
+  "TD2 Oncology",
+  "TeamX Health",
+  "Tec Laboratories",
+  "Techcyte",
+  "Telios Pharma",
+  "Telomir Pharmaceuticals",
+  "Tempus AI",
+  "TenaRx",
+  "TenSixty Biosciences",
+  "Tetrakit Technologies",
+  "TG Therapeutics",
+  "The Clear Dx",
+  "Therabene",
+  "TheraBionic",
+  "Theragen Bio",
+  "Theralytica",
+  "Theranica",
+  "TheWell Bioscience",
+  "Tiger Biosciences",
+  "Timing Biotech",
+  "Titan Pharmaceuticals",
+  "TKG Therapeutics",
+  "TOKU-E",
+  "Tolka AI Therapeutics",
+  "Tolremo Therapeutics",
+  "Tomocube",
+  "Transcend Therapeutics",
+  "Transcenta Therapeutics",
+  "Transition Bio",
+  "TransThera Sciences",
+  "Traws Pharma",
+  "Trevi Therapeutics",
+  "Triana Biomedicines",
+  "TriGemX Bio",
+  "TriOar",
+  "TuHURA Biosciences",
+  "Turbine Simulated Cell Technologies",
+  "TwinEdge Bioscience",
+  "TYK Medicines",
+  "Ubix Therapeutics",
+  "UNandUP",
+  "United Therapeutics",
+  "Unity Biotechnology",
+  "Upsher-Smith Laboratories",
+  "USA Scientific",
+  "Valar Labs",
+  "ValiRx",
+  "Valora Therapeutics",
+  "Vanda Pharmaceuticals",
+  "Variational AI",
+  "Variational Bio",
+  "Vaxart",
+  "Vaxess Technologies",
+  "Vector Laboratories",
+  "VedaBio",
+  "VelaVigo Bio",
+  "Velsera",
+  "VERAXA Biotech",
+  "Vericel",
+  "Verismo Therapeutics",
+  "Veritas Genetics",
+  "Vernal Biosciences",
+  "ViewsML Technologies",
+  "Vigonvita Life Sciences",
+  "Viking Therapeutics",
+  "Vincentage Pharma",
+  "Visiopharm",
+  "Vitsgen Therapeutics",
+  "Vivacta Biotechnology",
+  "Vividion Therapeutics",
+  "Vivlion",
+  "Vivus",
+  "Vizgen",
+  "VLP Therapeutics",
+  "Voro Therapeutics",
+  "Voronoi",
+  "Waters Biosciences",
+  "Wayfinder Biosciences",
+  "Wayshine Biopharm",
+  "Welt Bio-Molecular",
+  "Westlake Therapeutics",
+  "WestVac Biopharma",
+  "Whitehawk Therapeutics",
+  "Windward Bio",
+  "Wobble Genomics",
+  "X-Chem",
+  "X4 Pharmaceuticals",
+  "Xcell Biosciences",
+  "Xencor",
+  "Xinyi Pharma",
+  "XPseq Analytics",
+  "Xseer Pharmaceuticals",
+  "Xsphera Biosciences",
+  "Xtalpi",
+  "Xyone Therapeutics",
+  "Yang Ming Regenerative Therapeutics",
+  "Yangtze River Pharmaceutical",
+  "Yantai LNC Biotechnology Singapore PTE. LTD.",
+  "Ymmunobio",
+  "YourChoice Therapeutics",
+  "Zenick.lab",
+  "Zevra Therapeutics",
+  "Zymeworks",
+  "Zymo Research",
+  "Castle Biosciences",
+  "Exagen",
+  "Waters Corporation",
+  "NanoString Technologies",
+  "Akoya Biosciences",
+  "Quantum-Si",
+  "Berkeley Lights",
+  "Codex DNA",
+  "Azenta Life Sciences",
+  "Medpace",
+  "ICON plc",
+  "Fortrea",
+  "PPD",
+  "National Resilience",
+  "BioNTech",
+  "Genentech",
+  "Johnson & Johnson Innovative Medicine",
+  "Astellas",
+  "BioMarin",
+  "EvolutionaryScale",
+  "Terray Therapeutics",
+  "Atomwise",
+  "Schrodinger",
+  "Certara",
+  "DNAnexus",
+  "Seven Bridges",
+  "Form Bio",
+  "Broad Institute",
+  "Fred Hutchinson Cancer Center",
+  "Dana-Farber Cancer Institute",
+  "St. Jude Children's Research Hospital",
+  "New York Genome Center",
+  "Cold Spring Harbor Laboratory",
+  "Salk Institute",
+  "Allen Institute",
+  "HudsonAlpha Institute for Biotechnology",
+  "Translational Genomics Research Institute",
+  "Rockefeller University",
+  "Stowers Institute",
+  "Metagenomi",
+  "Arbor Biotechnologies",
+  "Chroma Medicine",
+  "Tune Therapeutics",
+  "Sana Biotechnology",
+  "Kite Pharma",
+  "Cargo Therapeutics",
+  "Century Therapeutics",
+  "Vor Bio",
+  "Cellares",
+  "Ultragenyx",
+  "Rocket Pharmaceuticals",
+  "Dyno Therapeutics",
+  "Arrowhead Pharmaceuticals",
+  "Wave Life Sciences",
+  "Cerevel Therapeutics",
+  "Karuna Therapeutics",
+  "C4 Therapeutics",
+  "Scorpion Therapeutics",
+  "Immunocore",
+  "Mersana Therapeutics",
+  "ADC Therapeutics",
+  "Generation Bio",
+  "ReNAgade Therapeutics",
+  "Orna Therapeutics",
+  "Moonwalk Biosciences",
+  "Inzen Therapeutics",
+  "Apogee Therapeutics",
+  "Third Harmonic Bio",
+  "Metsera",
+  "Verona Pharma",
+  "Tenaya Therapeutics",
+  "Mural Oncology",
+  "Sionna Therapeutics",
+  "Upstream Bio",
+  "CG Oncology",
+  "Aspira Women's Health",
+  "Lucid Diagnostics",
+  "Bionano Genomics",
+  "Nucleix",
+  "Fluent BioSciences",
+  "Curio Bioscience",
+  "Inscripta",
+  "Elegen",
+  "Addgene",
+  "Takara Bio USA",
+  "BioLegend",
+  "MilliporeSigma",
+  "Corning Life Sciences",
+  "Avantor",
+  "Roche Diagnostics",
+  "bioMerieux",
+  "Werfen",
+  "Sysmex America",
+  "Cue Health",
+  "Talis Biomedical",
+  "Day Zero Diagnostics",
+  "Biofire Diagnostics",
+  "T2 Biosystems",
+  "Sherlock Biosciences",
+  "Inflammatix",
+  "Prenuvo",
+  "Function Health",
+  "Nebula Genomics",
+  "Gencove",
+  "Regeneron Genetics Center",
+  "Variantyx",
+  "Genoox",
+  "Golden Helix",
+  "Twinstrand Biosciences",
+  "Burning Rock",
+  "Precipio",
+  "Interpace Biosciences",
+  "Oncocyte",
+  "Agendia",
+  "Biocept",
+  "Strata Oncology",
+  "WuXi AppTec",
+  "Q2 Solutions",
+  "Precision for Medicine",
+  "Medidata",
+  "Aetion",
+  "Thread",
+  "Saama",
+  "Rancho Biosciences",
+  "Basepair",
+  "Partek",
+  "Genedata",
+  "CDD Vault",
+  "BenevolentAI",
+  "Lilly Gateway Labs",
+  "Bayer Crop Science",
+  "Corteva Agriscience",
+  "Benson Hill",
+  "Zymergen",
+  "Novonesis",
+  "Perfect Day",
+  "Arzeda"
+ ]
+}

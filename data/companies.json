@@ -4,7 +4,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "10xgenomics.com"
  },
  {
   "name": "23andMe",
@@ -83,6 +84,19 @@
   "size": "large"
  },
  {
+  "name": "Abbott Laboratories",
+  "careers": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers",
+  "ats": {
+   "platform": "workday",
+   "host": "abbott.wd5.myworkdayjobs.com",
+   "tenant": "abbott",
+   "site": "abbottcareers"
+  },
+  "origin": "finder",
+  "website": "abbott.com",
+  "size": "large"
+ },
+ {
   "name": "Abbott Molecular",
   "careers": "",
   "ats": null,
@@ -134,6 +148,16 @@
   "size": "small"
  },
  {
+  "name": "Abiologics",
+  "careers": "https://job-boards.greenhouse.io/abiologics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "abiologics"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Abiomed",
   "careers": "",
   "ats": null,
@@ -152,6 +176,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Absci",
+  "careers": "https://jobs.ashbyhq.com/absci",
+  "ats": {
+   "platform": "ashby",
+   "slug": "absci"
+  },
+  "origin": "finder",
+  "website": "absci.com",
   "size": "small"
  },
  {
@@ -225,15 +260,21 @@
  },
  {
   "name": "Acorn Biolabs",
-  "careers": "",
-  "ats": null,
+  "careers": "https://acornbiolabs.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "acornbiolabs"
+  },
   "origin": "clinical-trial-sponsor",
   "size": "small"
  },
  {
   "name": "Acrivon Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://acrivontherapeutics.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "acrivontherapeutics"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -314,7 +355,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "adimab.com"
  },
  {
   "name": "Admera Health",
@@ -339,6 +381,16 @@
   "ats": null,
   "origin": "wikidata",
   "website": "https://www.advaxis.com/",
+  "size": "small"
+ },
+ {
+  "name": "AE Studio",
+  "careers": "https://job-boards.greenhouse.io/aestudio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "aestudio"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -578,7 +630,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "allogene.com"
  },
  {
   "name": "ALMA 3-Dx",
@@ -649,6 +702,16 @@
   "ats": null,
   "origin": "wikidata",
   "website": "https://www.alpineimmunesciences.com/",
+  "size": "small"
+ },
+ {
+  "name": "Alta Resource Technologies, Inc.",
+  "careers": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "altaresourcetechnologiesinc"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -736,10 +799,16 @@
  },
  {
   "name": "Ambry Genetics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://tempus.wd5.myworkdayjobs.com/en-US/Ambry_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "tempus.wd5.myworkdayjobs.com",
+   "tenant": "tempus",
+   "site": "Ambry_Careers"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "ambrygen.com"
  },
  {
   "name": "Amgen",
@@ -777,6 +846,17 @@
    "slug": "amylyx"
   },
   "origin": "ats-directory",
+  "size": "small"
+ },
+ {
+  "name": "Amyris",
+  "careers": "https://job-boards.greenhouse.io/amyrisinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "amyrisinc"
+  },
+  "origin": "finder",
+  "website": "amyris.com",
   "size": "small"
  },
  {
@@ -825,9 +905,34 @@
   "size": "small"
  },
  {
+  "name": "Annexon Biosciences",
+  "careers": "https://job-boards.greenhouse.io/annexonbioscience",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "annexonbioscience"
+  },
+  "origin": "finder",
+  "website": "annexonbio.com",
+  "size": "small"
+ },
+ {
+  "name": "Ansa Biotechnologies",
+  "careers": "https://job-boards.greenhouse.io/ansabiotechnologies",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "ansabiotechnologies"
+  },
+  "origin": "finder",
+  "website": "ansabio.com",
+  "size": "small"
+ },
+ {
   "name": "Antares Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/antares",
+  "ats": {
+   "platform": "ashby",
+   "slug": "antares"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -844,6 +949,16 @@
   "ats": null,
   "origin": "seed",
   "size": "small"
+ },
+ {
+  "name": "AnthroMed Education (School Services)",
+  "careers": "https://job-boards.greenhouse.io/anthromededucation",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "anthromededucation"
+  },
+  "origin": "commoncrawl",
+  "size": "large"
  },
  {
   "name": "Antibody Solutions",
@@ -925,8 +1040,11 @@
  },
  {
   "name": "Apollo Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/apollo",
+  "ats": {
+   "platform": "ashby",
+   "slug": "apollo"
+  },
   "origin": "clinical-trial-sponsor",
   "size": "small"
  },
@@ -972,6 +1090,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Arc Institute",
+  "careers": "https://job-boards.greenhouse.io/arcinstitute",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "arcinstitute"
+  },
+  "origin": "finder",
+  "website": "arcinstitute.org",
   "size": "small"
  },
  {
@@ -1049,7 +1178,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "arrivent.com"
  },
  {
   "name": "Arrowhead Research",
@@ -1098,6 +1228,17 @@
   "ats": null,
   "origin": "seed",
   "size": "large"
+ },
+ {
+  "name": "Arvinas",
+  "careers": "https://job-boards.greenhouse.io/arvinas",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "arvinas"
+  },
+  "origin": "finder",
+  "website": "arvinas.com",
+  "size": "small"
  },
  {
   "name": "Aryastha Life Sciences",
@@ -1381,11 +1522,22 @@
   "size": "small"
  },
  {
+  "name": "Aviary",
+  "careers": "https://job-boards.greenhouse.io/aviary",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "aviary"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Avidity Biosciences",
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "aviditybiosciences.com"
  },
  {
   "name": "Avistone Biotechnology",
@@ -1406,6 +1558,16 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Axle",
+  "careers": "https://job-boards.greenhouse.io/axle",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "axle"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -1480,6 +1642,16 @@
   "size": "small"
  },
  {
+  "name": "Basis Research",
+  "careers": "https://jobs.ashbyhq.com/basis-research",
+  "ats": {
+   "platform": "ashby",
+   "slug": "basis-research"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Bayer",
   "careers": "https://bayer.com",
   "ats": null,
@@ -1504,10 +1676,16 @@
  },
  {
   "name": "BD Biosciences",
-  "careers": "",
-  "ats": null,
+  "careers": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA",
+  "ats": {
+   "platform": "workday",
+   "host": "bdx.wd1.myworkdayjobs.com",
+   "tenant": "bdx",
+   "site": "EXTERNAL_CAREER_SITE_USA"
+  },
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "bd.com"
  },
  {
   "name": "Beacon Biosignals",
@@ -1560,6 +1738,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Benchling",
+  "careers": "https://jobs.ashbyhq.com/benchling",
+  "ats": {
+   "platform": "ashby",
+   "slug": "benchling"
+  },
+  "origin": "finder",
+  "website": "benchling.com",
   "size": "small"
  },
  {
@@ -1791,8 +1980,13 @@
  },
  {
   "name": "BioCryst Pharmaceuticals",
-  "careers": "http://www.biocryst.com/",
-  "ats": null,
+  "careers": "https://biocryst.wd501.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "biocryst.wd501.myworkdayjobs.com",
+   "tenant": "biocryst",
+   "site": "External"
+  },
   "origin": "wikidata",
   "website": "http://www.biocryst.com/",
   "size": "small"
@@ -1809,7 +2003,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "biodesix.com"
  },
  {
   "name": "BioDuro",
@@ -1965,8 +2160,11 @@
  },
  {
   "name": "Biosearch Technologies",
-  "careers": "http://www.biosearchtech.com",
-  "ats": null,
+  "careers": "https://jobs.smartrecruiters.com/LGCGroup",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "LGCGroup"
+  },
   "origin": "wikidata",
   "website": "http://www.biosearchtech.com",
   "employees": 778,
@@ -1998,7 +2196,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "bioskryb.com"
  },
  {
   "name": "BioSpherix",
@@ -2131,7 +2330,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "boehringer-ingelheim.com"
  },
  {
   "name": "Bohus Biotech",
@@ -2170,8 +2370,11 @@
  },
  {
   "name": "Boston BioProducts",
-  "careers": "https://www.bostonbioproducts.com",
-  "ats": null,
+  "careers": "https://bostonbioproducts.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "bostonbioproducts"
+  },
   "origin": "wikidata",
   "website": "https://www.bostonbioproducts.com",
   "employees": 30,
@@ -2316,7 +2519,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "bruker.com"
  },
  {
   "name": "BrYet",
@@ -2351,7 +2555,8 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "cabalettabio.com"
  },
  {
   "name": "Cadila Pharmaceuticals",
@@ -2536,7 +2741,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "carislifesciences.com"
  },
  {
   "name": "Carna Biosciences",
@@ -2571,7 +2777,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "catalent.com"
  },
  {
   "name": "CatalYm",
@@ -2610,7 +2817,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "cellsignal.com"
  },
  {
   "name": "Cellanome",
@@ -2627,6 +2835,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Cellarity",
+  "careers": "https://job-boards.greenhouse.io/cellarity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "cellarity"
+  },
+  "origin": "finder",
+  "website": "cellarity.com",
   "size": "small"
  },
  {
@@ -2767,7 +2986,18 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "cepheid.com"
+ },
+ {
+  "name": "Certified Group",
+  "careers": "https://job-boards.greenhouse.io/certifiedgroup",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "certifiedgroup"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
  },
  {
   "name": "Certis Oncology Solutions",
@@ -2816,13 +3046,38 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small",
+  "website": "championsoncology.com"
+ },
+ {
+  "name": "Chan Zuckerberg Biohub",
+  "careers": "https://job-boards.greenhouse.io/biohub",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "biohub"
+  },
+  "origin": "finder",
+  "website": "czbiohub.org",
   "size": "small"
  },
  {
   "name": "Character Biosciences",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/character",
+  "ats": {
+   "platform": "ashby",
+   "slug": "character"
+  },
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Charles River Analytics",
+  "careers": "https://job-boards.greenhouse.io/charlesriveranalytics90",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "charlesriveranalytics90"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -2830,7 +3085,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "criver.com"
  },
  {
   "name": "ChemDiv",
@@ -2968,8 +3224,11 @@
  },
  {
   "name": "Climb Bio",
-  "careers": "",
-  "ats": null,
+  "careers": "https://climbbio.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "climbbio"
+  },
   "origin": "clinical-trial-sponsor",
   "size": "small"
  },
@@ -3020,6 +3279,16 @@
   "size": "small"
  },
  {
+  "name": "Cogstate",
+  "careers": "https://job-boards.greenhouse.io/cogstateinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "cogstateinc"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Coherus Oncology",
   "careers": "https://job-boards.greenhouse.io/coherusbiosciences",
   "ats": {
@@ -3027,6 +3296,17 @@
    "slug": "coherusbiosciences"
   },
   "origin": "ats-directory",
+  "size": "small"
+ },
+ {
+  "name": "Color Health",
+  "careers": "https://jobs.ashbyhq.com/color-health",
+  "ats": {
+   "platform": "ashby",
+   "slug": "color-health"
+  },
+  "origin": "finder",
+  "website": "color.com",
   "size": "small"
  },
  {
@@ -3231,6 +3511,19 @@
   "size": "small"
  },
  {
+  "name": "CRISPR Therapeutics",
+  "careers": "https://crisprtx.wd12.myworkdayjobs.com/en-US/careers",
+  "ats": {
+   "platform": "workday",
+   "host": "crisprtx.wd12.myworkdayjobs.com",
+   "tenant": "crisprtx",
+   "site": "careers"
+  },
+  "origin": "finder",
+  "website": "crisprtx.com",
+  "size": "small"
+ },
+ {
   "name": "Croma-Pharma",
   "careers": "",
   "ats": null,
@@ -3266,7 +3559,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "crownbio.com"
  },
  {
   "name": "Crystal Genetics",
@@ -3387,6 +3681,19 @@
   "size": "small"
  },
  {
+  "name": "Cytokinetics",
+  "careers": "https://cytokinetics.wd1.myworkdayjobs.com/en-US/Cytokinetics",
+  "ats": {
+   "platform": "workday",
+   "host": "cytokinetics.wd1.myworkdayjobs.com",
+   "tenant": "cytokinetics",
+   "site": "Cytokinetics"
+  },
+  "origin": "finder",
+  "website": "cytokinetics.com",
+  "size": "small"
+ },
+ {
   "name": "Cytori Therapeutics",
   "careers": "http://www.cytori.com/",
   "ats": null,
@@ -3494,6 +3801,16 @@
   "size": "small"
  },
  {
+  "name": "Dayhoff Labs",
+  "careers": "https://jobs.ashbyhq.com/dayhoff-labs",
+  "ats": {
+   "platform": "ashby",
+   "slug": "dayhoff-labs"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "DCx Biotherapeutics",
   "careers": "",
   "ats": null,
@@ -3516,6 +3833,17 @@
    "slug": "debutbiotech25"
   },
   "origin": "ats-directory",
+  "size": "small"
+ },
+ {
+  "name": "Deciphera",
+  "careers": "https://jobs.smartrecruiters.com/DecipheraPharmaceuticals1",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "DecipheraPharmaceuticals1"
+  },
+  "origin": "finder",
+  "website": "deciphera.com",
   "size": "small"
  },
  {
@@ -3602,14 +3930,16 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "denalitherapeutics.com"
  },
  {
   "name": "Dewpoint Therapeutics",
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "dewpointx.com"
  },
  {
   "name": "Diagenode",
@@ -3670,6 +4000,17 @@
   "size": "small"
  },
  {
+  "name": "DNA Script",
+  "careers": "https://job-boards.greenhouse.io/dnascript",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "dnascript"
+  },
+  "origin": "finder",
+  "website": "dnascript.com",
+  "size": "small"
+ },
+ {
   "name": "DNA2.0",
   "careers": "https://www.atum.bio",
   "ats": null,
@@ -3692,6 +4033,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Dotmatics",
+  "careers": "https://job-boards.greenhouse.io/dotmatics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "dotmatics"
+  },
+  "origin": "finder",
+  "website": "dotmatics.com",
   "size": "small"
  },
  {
@@ -3867,8 +4219,13 @@
  },
  {
   "name": "Elanco",
-  "careers": "https://www.elanco.com/",
-  "ats": null,
+  "careers": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career",
+  "ats": {
+   "platform": "workday",
+   "host": "elanco.wd5.myworkdayjobs.com",
+   "tenant": "elanco",
+   "site": "External_Career"
+  },
   "origin": "wikidata",
   "website": "https://www.elanco.com/",
   "size": "small"
@@ -3885,8 +4242,11 @@
  },
  {
   "name": "Elephas Biosciences",
-  "careers": "",
-  "ats": null,
+  "careers": "https://elephas.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "elephas"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -3895,6 +4255,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "ElevateBio",
+  "careers": "https://job-boards.greenhouse.io/elevatebio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "elevatebio"
+  },
+  "origin": "finder",
+  "website": "elevate.bio",
   "size": "small"
  },
  {
@@ -3916,7 +4287,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "elucidata.io"
  },
  {
   "name": "Elucidate Bio",
@@ -4167,6 +4539,16 @@
   "size": "small"
  },
  {
+  "name": "Evergreen Nephrology",
+  "careers": "https://job-boards.greenhouse.io/evergreennephrology",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "evergreennephrology"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Everlywell",
   "size": "small",
   "ats": {
@@ -4191,8 +4573,13 @@
  },
  {
   "name": "Evotec",
-  "careers": "http://www.evotec.com/",
-  "ats": null,
+  "careers": "https://evotecgroup.wd3.myworkdayjobs.com/en-US/Evotec_Career_Site",
+  "ats": {
+   "platform": "workday",
+   "host": "evotecgroup.wd3.myworkdayjobs.com",
+   "tenant": "evotecgroup",
+   "site": "Evotec_Career_Site"
+  },
   "origin": "seed",
   "website": "http://www.evotec.com/",
   "size": "large"
@@ -4202,7 +4589,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "exactsciences.com"
  },
  {
   "name": "Excyte Biopharma",
@@ -4313,6 +4701,16 @@
   "size": "small"
  },
  {
+  "name": "Fieldstone Bio",
+  "careers": "https://job-boards.greenhouse.io/fieldstonebio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "fieldstonebio"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "FIMECS",
   "careers": "",
   "ats": null,
@@ -4348,6 +4746,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Flatiron Health",
+  "careers": "https://job-boards.greenhouse.io/flatironhealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "flatironhealth"
+  },
+  "origin": "finder",
+  "website": "flatiron.com",
   "size": "small"
  },
  {
@@ -4445,7 +4854,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "foundationmedicine.com"
  },
  {
   "name": "Frameshift Genomics",
@@ -4469,7 +4879,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "frontagelab.com"
  },
  {
   "name": "Frontier Medicines",
@@ -4477,6 +4888,19 @@
   "ats": null,
   "origin": "seed",
   "size": "small"
+ },
+ {
+  "name": "Fujifilm Diosynth Biotechnologies",
+  "careers": "https://fujifilm.wd3.myworkdayjobs.com/en-US/FLB_CS",
+  "ats": {
+   "platform": "workday",
+   "host": "fujifilm.wd3.myworkdayjobs.com",
+   "tenant": "fujifilm",
+   "site": "FLB_CS"
+  },
+  "origin": "finder",
+  "website": "fujifilmdiosynth.com",
+  "size": "large"
  },
  {
   "name": "FUJIFILM VisualSonics",
@@ -4659,6 +5083,17 @@
   "size": "small"
  },
  {
+  "name": "Genesis Therapeutics",
+  "careers": "https://jobs.ashbyhq.com/genesis-molecular-ai",
+  "ats": {
+   "platform": "ashby",
+   "slug": "genesis-molecular-ai"
+  },
+  "origin": "finder",
+  "website": "genesistherapeutics.ai",
+  "size": "small"
+ },
+ {
   "name": "Genetix Biotherapeutics",
   "careers": "https://job-boards.greenhouse.io/genetixbiotherapeutics",
   "ats": {
@@ -4701,7 +5136,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "genialis.com"
  },
  {
   "name": "Geninus",
@@ -4734,8 +5170,11 @@
  },
  {
   "name": "Genomics plc",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/genomics",
+  "ats": {
+   "platform": "ashby",
+   "slug": "genomics"
+  },
   "origin": "ats-directory",
   "size": "small"
  },
@@ -4852,6 +5291,16 @@
   "size": "small"
  },
  {
+  "name": "Good Pill",
+  "careers": "https://job-boards.greenhouse.io/goodpill",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "goodpill"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Google",
   "careers": "",
   "ats": null,
@@ -4909,6 +5358,16 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
+  "size": "small"
+ },
+ {
+  "name": "Greenbrook Medical",
+  "careers": "https://job-boards.greenhouse.io/greenbrookmedical",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "greenbrookmedical"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -5084,7 +5543,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "helix.com"
  },
  {
   "name": "HELP Therapeutics",
@@ -5178,7 +5638,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "hologic.com"
  },
  {
   "name": "HoneyBear Biosciences",
@@ -5199,6 +5660,19 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Howard Hughes Medical Institute",
+  "careers": "https://hhmi.wd1.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "hhmi.wd1.myworkdayjobs.com",
+   "tenant": "hhmi",
+   "site": "External"
+  },
+  "origin": "finder",
+  "website": "hhmi.org",
   "size": "small"
  },
  {
@@ -5238,8 +5712,11 @@
  },
  {
   "name": "Hummingbird Bio",
-  "careers": "",
-  "ats": null,
+  "careers": "https://hummingbirdbio.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "hummingbirdbio"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -5283,10 +5760,16 @@
  },
  {
   "name": "IDEAYA Biosciences",
-  "careers": "",
-  "ats": null,
+  "careers": "https://ideayabio.wd501.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "ideayabio.wd501.myworkdayjobs.com",
+   "tenant": "ideayabio",
+   "site": "External"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "ideayabio.com"
  },
  {
   "name": "Idorsia Pharmaceuticals",
@@ -5418,6 +5901,19 @@
   "size": "small"
  },
  {
+  "name": "Inari Agriculture",
+  "careers": "https://inari.wd108.myworkdayjobs.com/en-US/Inari_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "inari.wd108.myworkdayjobs.com",
+   "tenant": "inari",
+   "site": "Inari_Careers"
+  },
+  "origin": "finder",
+  "website": "inari.com",
+  "size": "small"
+ },
+ {
   "name": "Inceptive",
   "careers": "https://job-boards.greenhouse.io/inceptive",
   "ats": {
@@ -5506,6 +6002,19 @@
   "size": "small"
  },
  {
+  "name": "Inotiv",
+  "careers": "https://inotivco.wd5.myworkdayjobs.com/en-US/EXT",
+  "ats": {
+   "platform": "workday",
+   "host": "inotivco.wd5.myworkdayjobs.com",
+   "tenant": "inotivco",
+   "site": "EXT"
+  },
+  "origin": "finder",
+  "website": "inotiv.com",
+  "size": "small"
+ },
+ {
   "name": "Inovio Pharmaceuticals",
   "careers": "https://jobs.smartrecruiters.com/inovio",
   "ats": {
@@ -5546,6 +6055,19 @@
    "slug": "insitro"
   },
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Insmed",
+  "careers": "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL",
+  "ats": {
+   "platform": "workday",
+   "host": "insmed.wd504.myworkdayjobs.com",
+   "tenant": "insmed",
+   "site": "EXTERNAL"
+  },
+  "origin": "finder",
+  "website": "insmed.com",
   "size": "small"
  },
  {
@@ -5608,6 +6130,16 @@
   "size": "small"
  },
  {
+  "name": "Interwell Health",
+  "careers": "https://job-boards.greenhouse.io/interwellhealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "interwellhealth"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Intra-Cellular Therapies",
   "careers": "",
   "ats": null,
@@ -5667,8 +6199,13 @@
  },
  {
   "name": "IQVIA",
-  "careers": "https://www.iqvia.com/",
-  "ats": null,
+  "careers": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA",
+  "ats": {
+   "platform": "workday",
+   "host": "iqvia.wd1.myworkdayjobs.com",
+   "tenant": "iqvia",
+   "site": "IQVIA"
+  },
   "origin": "seed",
   "website": "https://www.iqvia.com/",
   "size": "large"
@@ -5698,6 +6235,16 @@
   "size": "small"
  },
  {
+  "name": "Iterative Health",
+  "careers": "https://job-boards.greenhouse.io/iterativehealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "iterativehealth"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Iterion Therapeutics",
   "careers": "",
   "ats": null,
@@ -5710,6 +6257,19 @@
   "ats": null,
   "origin": "clinical-trial-sponsor",
   "size": "small"
+ },
+ {
+  "name": "Jackson Laboratory",
+  "careers": "https://thejacksonlaboratory.wd503.myworkdayjobs.com/en-US/External_JAX",
+  "ats": {
+   "platform": "workday",
+   "host": "thejacksonlaboratory.wd503.myworkdayjobs.com",
+   "tenant": "thejacksonlaboratory",
+   "site": "External_JAX"
+  },
+  "origin": "finder",
+  "website": "jax.org",
+  "size": "large"
  },
  {
   "name": "Jacobio Pharmaceuticals",
@@ -5870,8 +6430,11 @@
  },
  {
   "name": "Kayak Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/kayak",
+  "ats": {
+   "platform": "ashby",
+   "slug": "kayak"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -5890,6 +6453,16 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Kernal Biologics, Inc.",
+  "careers": "https://job-boards.greenhouse.io/kernalbio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "kernalbio"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -5958,6 +6531,17 @@
   "ats": null,
   "origin": "seed",
   "website": "https://www.kolonls.co.kr/",
+  "size": "small"
+ },
+ {
+  "name": "Komodo Health",
+  "careers": "https://job-boards.greenhouse.io/komodohealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "komodohealth"
+  },
+  "origin": "finder",
+  "website": "komodohealth.com",
   "size": "small"
  },
  {
@@ -6111,8 +6695,11 @@
  },
  {
   "name": "Lakeshore Biotech",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.smartrecruiters.com/lakeshore",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "lakeshore"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -6137,6 +6724,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Laronde",
+  "careers": "https://job-boards.greenhouse.io/sendabiosciences",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "sendabiosciences"
+  },
+  "origin": "finder",
+  "website": "sail.bio",
   "size": "small"
  },
  {
@@ -6182,8 +6780,11 @@
  },
  {
   "name": "Leap Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/leap",
+  "ats": {
+   "platform": "ashby",
+   "slug": "leap"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -6228,10 +6829,14 @@
  },
  {
   "name": "Lexeo Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.lever.co/lexeotx",
+  "ats": {
+   "platform": "lever",
+   "slug": "lexeotx"
+  },
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "lexeotx.com"
  },
  {
   "name": "Lexicon Pharmaceuticals",
@@ -6257,8 +6862,11 @@
  },
  {
   "name": "Ligand Pharmaceuticals",
-  "careers": "http://www.ligand.com",
-  "ats": null,
+  "careers": "https://ligand.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "ligand"
+  },
   "origin": "wikidata",
   "website": "http://www.ligand.com",
   "size": "small"
@@ -6325,6 +6933,17 @@
   "size": "small"
  },
  {
+  "name": "Lonza",
+  "careers": "https://jobs.smartrecruiters.com/lonza",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "lonza"
+  },
+  "origin": "finder",
+  "website": "lonza.com",
+  "size": "large"
+ },
+ {
   "name": "LucasBio",
   "careers": "",
   "ats": null,
@@ -6359,10 +6978,14 @@
  },
  {
   "name": "Lunit",
-  "careers": "",
-  "ats": null,
+  "careers": "https://lunitinternational.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "lunitinternational"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "lunit.io"
  },
  {
   "name": "Luye Pharma Group",
@@ -6414,10 +7037,16 @@
  },
  {
   "name": "Madrigal Pharmaceuticals",
-  "careers": "",
-  "ats": null,
+  "careers": "https://madrigalpharma.wd501.myworkdayjobs.com/en-US/Madrigal",
+  "ats": {
+   "platform": "workday",
+   "host": "madrigalpharma.wd501.myworkdayjobs.com",
+   "tenant": "madrigalpharma",
+   "site": "Madrigal"
+  },
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "madrigalpharma.com"
  },
  {
   "name": "MagIA Diagnostics",
@@ -6431,6 +7060,28 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Mammoth Biosciences",
+  "careers": "https://jobs.lever.co/mammothbiosci",
+  "ats": {
+   "platform": "lever",
+   "slug": "mammothbiosci"
+  },
+  "origin": "finder",
+  "website": "mammoth.bio",
+  "size": "small"
+ },
+ {
+  "name": "Manifold Bio",
+  "careers": "https://job-boards.greenhouse.io/manifoldbio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "manifoldbio"
+  },
+  "origin": "finder",
+  "website": "manifold.bio",
   "size": "small"
  },
  {
@@ -6584,10 +7235,34 @@
   "size": "small"
  },
  {
+  "name": "Memorial Sloan Kettering",
+  "careers": "https://msk.wd108.myworkdayjobs.com/en-US/MSKCC_Careers_Primary",
+  "ats": {
+   "platform": "workday",
+   "host": "msk.wd108.myworkdayjobs.com",
+   "tenant": "msk",
+   "site": "MSKCC_Careers_Primary"
+  },
+  "origin": "finder",
+  "website": "mskcc.org",
+  "size": "large"
+ },
+ {
   "name": "Menarini Silicon Biosystems",
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Mendel AI",
+  "careers": "https://jobs.smartrecruiters.com/mendelai",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "mendelai"
+  },
+  "origin": "finder",
+  "website": "mendel.ai",
   "size": "small"
  },
  {
@@ -6682,6 +7357,16 @@
   "size": "small"
  },
  {
+  "name": "MIND 24-7",
+  "careers": "https://job-boards.greenhouse.io/mind247",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "mind247"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "MindWalk",
   "careers": "https://www.mindwalkai.com/",
   "ats": null,
@@ -6729,10 +7414,14 @@
  },
  {
   "name": "Mirador Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://job-boards.greenhouse.io/miradortherapeuticsinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "miradortherapeuticsinc"
+  },
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "miradortx.com"
  },
  {
   "name": "Mirai Bio",
@@ -6749,7 +7438,8 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "mirati.com"
  },
  {
   "name": "MiraVista Diagnostics",
@@ -6778,16 +7468,30 @@
  },
  {
   "name": "Mission Bio",
-  "careers": "",
-  "ats": null,
+  "careers": "https://missionbio.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "missionbio"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "missionbio.com"
  },
  {
   "name": "Miyarisan Pharmaceutical",
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Modena Allergy + Asthma",
+  "careers": "https://job-boards.greenhouse.io/modenaallergyasthma",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "modenaallergyasthma"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -7003,7 +7707,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "nautilus.bio"
  },
  {
   "name": "Navegador Biosciences",
@@ -7099,8 +7804,13 @@
  },
  {
   "name": "Neurocrine Biosciences",
-  "careers": "http://www.neurocrine.com/",
-  "ats": null,
+  "careers": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers",
+  "ats": {
+   "platform": "workday",
+   "host": "neurocrine.wd5.myworkdayjobs.com",
+   "tenant": "neurocrine",
+   "site": "Neurocrinecareers"
+  },
   "origin": "wikidata",
   "website": "http://www.neurocrine.com/",
   "size": "small"
@@ -7117,7 +7827,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "neb.com"
  },
  {
   "name": "NewAmsterdam Pharma",
@@ -7317,7 +8028,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "novonordisk-us.com"
  },
  {
   "name": "NovoBiotic Pharmaceuticals",
@@ -7440,6 +8152,16 @@
   "size": "small"
  },
  {
+  "name": "Obsidian Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/obsidiantherapeutics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "obsidiantherapeutics"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Ocular Therapeutix",
   "careers": "https://job-boards.greenhouse.io/oculartherapeutix",
   "ats": {
@@ -7454,7 +8176,8 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "odysseytx.com"
  },
  {
   "name": "Olema Oncology",
@@ -7471,7 +8194,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "olink.com"
  },
  {
   "name": "Ollin Biosciences",
@@ -7666,6 +8390,17 @@
   "size": "small"
  },
  {
+  "name": "OraSure Technologies",
+  "careers": "https://jobs.lever.co/dnagenotek",
+  "ats": {
+   "platform": "lever",
+   "slug": "dnagenotek"
+  },
+  "origin": "finder",
+  "website": "orasure.com",
+  "size": "small"
+ },
+ {
   "name": "Orbits Oncology",
   "careers": "",
   "ats": null,
@@ -7699,8 +8434,11 @@
  },
  {
   "name": "Organovo",
-  "careers": "http://www.organovo.com/",
-  "ats": null,
+  "careers": "https://organovo.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "organovo"
+  },
   "origin": "wikidata",
   "website": "http://www.organovo.com/",
   "size": "small"
@@ -7762,8 +8500,11 @@
  },
  {
   "name": "Orum Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://orumtherapeutics.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "orumtherapeutics"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -7805,8 +8546,11 @@
  },
  {
   "name": "Output Biosciences",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/output",
+  "ats": {
+   "platform": "ashby",
+   "slug": "output"
+  },
   "origin": "ats-directory",
   "size": "small"
  },
@@ -7842,12 +8586,18 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "nanoporetech.com"
  },
  {
   "name": "Pacific Biosciences",
-  "careers": "https://www.pacb.com/careers/",
-  "ats": null,
+  "careers": "https://pacbio.wd12.myworkdayjobs.com/en-US/PacBio-",
+  "ats": {
+   "platform": "workday",
+   "host": "pacbio.wd12.myworkdayjobs.com",
+   "tenant": "pacbio",
+   "site": "PacBio-"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -7856,7 +8606,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "paige.ai"
  },
  {
   "name": "Palleon Pharmaceuticals",
@@ -7974,6 +8725,16 @@
   "size": "small"
  },
  {
+  "name": "Pegasus Laboratories, Inc.",
+  "careers": "https://job-boards.greenhouse.io/pegasuslaboratoriesinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pegasuslaboratoriesinc"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Pelago Bioscience",
   "careers": "",
   "ats": null,
@@ -8034,10 +8795,14 @@
  },
  {
   "name": "Personalis",
-  "careers": "",
-  "ats": null,
+  "careers": "https://job-boards.greenhouse.io/personalisinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "personalisinc"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "personalis.com"
  },
  {
   "name": "Pfizer",
@@ -8214,6 +8979,16 @@
   "size": "small"
  },
  {
+  "name": "Pliant Therapeutics, Inc.",
+  "careers": "https://job-boards.greenhouse.io/plianttherapeuticsinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "plianttherapeuticsinc"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Polymed Biopharmaceuticals",
   "careers": "",
   "ats": null,
@@ -8293,6 +9068,16 @@
   "size": "small"
  },
  {
+  "name": "Precision for Medicine",
+  "careers": "https://job-boards.greenhouse.io/pfm",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pfm"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Precision Medicine Group",
   "careers": "https://job-boards.greenhouse.io/precisionmedicinegroup",
   "ats": {
@@ -8328,6 +9113,19 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Premier Research",
+  "careers": "https://premierresearch.wd12.myworkdayjobs.com/en-US/PremierResearch",
+  "ats": {
+   "platform": "workday",
+   "host": "premierresearch.wd12.myworkdayjobs.com",
+   "tenant": "premierresearch",
+   "site": "PremierResearch"
+  },
+  "origin": "finder",
+  "website": "premier-research.com",
   "size": "small"
  },
  {
@@ -8504,8 +9302,13 @@
  },
  {
   "name": "PTC Therapeutics",
-  "careers": "https://www.ptcbio.com",
-  "ats": null,
+  "careers": "https://ptcbio.wd5.myworkdayjobs.com/en-US/PTC_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "ptcbio.wd5.myworkdayjobs.com",
+   "tenant": "ptcbio",
+   "site": "PTC_Careers"
+  },
   "origin": "seed",
   "website": "https://www.ptcbio.com",
   "size": "small"
@@ -8554,8 +9357,13 @@
  },
  {
   "name": "QIAGEN",
-  "careers": "https://www.qiagen.com",
-  "ats": null,
+  "careers": "https://qiagen.wd502.myworkdayjobs.com/en-US/QIAGEN",
+  "ats": {
+   "platform": "workday",
+   "host": "qiagen.wd502.myworkdayjobs.com",
+   "tenant": "qiagen",
+   "site": "QIAGEN"
+  },
   "origin": "seed",
   "website": "https://www.qiagen.com",
   "employees": 4910,
@@ -8632,6 +9440,19 @@
   "size": "large"
  },
  {
+  "name": "QuidelOrtho",
+  "careers": "https://orthoclinical.wd1.myworkdayjobs.com/en-US/Search",
+  "ats": {
+   "platform": "workday",
+   "host": "orthoclinical.wd1.myworkdayjobs.com",
+   "tenant": "orthoclinical",
+   "site": "Search"
+  },
+  "origin": "finder",
+  "website": "quidelortho.com",
+  "size": "large"
+ },
+ {
   "name": "Quiverent",
   "careers": "",
   "ats": null,
@@ -8699,8 +9520,11 @@
  },
  {
   "name": "Rain Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://jobs.ashbyhq.com/rain",
+  "ats": {
+   "platform": "ashby",
+   "slug": "rain"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -8893,7 +9717,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "reparerx.com"
  },
  {
   "name": "Repertoire Immune Medicines",
@@ -8904,8 +9729,13 @@
  },
  {
   "name": "Repligen",
-  "careers": "http://www.repligen.com/",
-  "ats": null,
+  "careers": "https://repligen.wd108.myworkdayjobs.com/en-US/Repligen_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "repligen.wd108.myworkdayjobs.com",
+   "tenant": "repligen",
+   "site": "Repligen_Careers"
+  },
   "origin": "wikidata",
   "website": "http://www.repligen.com/",
   "size": "small"
@@ -9032,6 +9862,17 @@
   "size": "small"
  },
  {
+  "name": "Ring Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/ringtherapeutics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "ringtherapeutics"
+  },
+  "origin": "finder",
+  "website": "ringtx.com",
+  "size": "small"
+ },
+ {
   "name": "RinuaGene Biotechnology",
   "careers": "",
   "ats": null,
@@ -9143,7 +9984,28 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "samsungbiologics.com"
+ },
+ {
+  "name": "Samsung Research America",
+  "careers": "https://job-boards.greenhouse.io/samsungresearchamerica",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "samsungresearchamerica"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
+  "name": "Samsung Semiconductor",
+  "careers": "https://job-boards.greenhouse.io/samsungsemiconductor",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "samsungsemiconductor"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
  },
  {
   "name": "Samyang Biopharmaceuticals",
@@ -9225,8 +10087,13 @@
  },
  {
   "name": "Sarepta Therapeutics",
-  "careers": "http://www.sarepta.com/",
-  "ats": null,
+  "careers": "https://sarepta.wd5.myworkdayjobs.com/en-US/sarepta_external",
+  "ats": {
+   "platform": "workday",
+   "host": "sarepta.wd5.myworkdayjobs.com",
+   "tenant": "sarepta",
+   "site": "sarepta_external"
+  },
   "origin": "wikidata",
   "website": "http://www.sarepta.com/",
   "size": "small"
@@ -9239,11 +10106,25 @@
   "size": "small"
  },
  {
+  "name": "Sartorius",
+  "careers": "https://sartorius.wd3.myworkdayjobs.com/en-US/sartoriuscareers",
+  "ats": {
+   "platform": "workday",
+   "host": "sartorius.wd3.myworkdayjobs.com",
+   "tenant": "sartorius",
+   "site": "sartoriuscareers"
+  },
+  "origin": "finder",
+  "website": "sartorius.com",
+  "size": "large"
+ },
+ {
   "name": "Scale Biosciences",
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "scale.bio"
  },
  {
   "name": "Scarab Genomics",
@@ -9302,6 +10183,17 @@
   "ats": null,
   "origin": "clinical-trial-sponsor",
   "size": "small"
+ },
+ {
+  "name": "Scripps Research",
+  "careers": "https://jobs.smartrecruiters.com/scrippsresearch",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "scrippsresearch"
+  },
+  "origin": "finder",
+  "website": "scripps.edu",
+  "size": "large"
  },
  {
   "name": "Seaport Therapeutics",
@@ -9476,6 +10368,16 @@
   "size": "small"
  },
  {
+  "name": "Shields Health Solutions",
+  "careers": "https://job-boards.greenhouse.io/shieldshealthsolutions",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "shieldshealthsolutions"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Shin Nippon Biomedical Laboratories",
   "careers": "",
   "ats": null,
@@ -9488,6 +10390,19 @@
   "ats": null,
   "origin": "seed",
   "size": "small"
+ },
+ {
+  "name": "Siemens Healthineers",
+  "careers": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB",
+  "ats": {
+   "platform": "workday",
+   "host": "onehealthineers.wd3.myworkdayjobs.com",
+   "tenant": "onehealthineers",
+   "site": "SHSJB"
+  },
+  "origin": "finder",
+  "website": "siemens-healthineers.com",
+  "size": "large"
  },
  {
   "name": "Sight Sciences",
@@ -9650,14 +10565,16 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "solidbio.com"
  },
  {
   "name": "SomaLogic",
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "somalogic.com"
  },
  {
   "name": "Sonnet Biotherapeutics",
@@ -9672,6 +10589,16 @@
   "ats": null,
   "origin": "seed",
   "website": "https://www.sophiagenetics.com/",
+  "size": "small"
+ },
+ {
+  "name": "South Texas Spine Hospital",
+  "careers": "https://job-boards.greenhouse.io/southtexasspinehospital",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "southtexasspinehospital"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -9735,6 +10662,16 @@
   "size": "small"
  },
  {
+  "name": "Spring Fertility",
+  "careers": "https://job-boards.greenhouse.io/springfertility",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "springfertility"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Sprint Bioscience",
   "careers": "",
   "ats": null,
@@ -9761,16 +10698,32 @@
  },
  {
   "name": "Standard BioTools",
-  "careers": "",
-  "ats": null,
+  "careers": "https://standardbiotools.wd5.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "standardbiotools.wd5.myworkdayjobs.com",
+   "tenant": "standardbiotools",
+   "site": "External"
+  },
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "standardbio.com"
  },
  {
   "name": "StarkAge Therapeutics",
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Starling Oncology",
+  "careers": "https://job-boards.greenhouse.io/theoncologyinstitute",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "theoncologyinstitute"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -9832,6 +10785,17 @@
   "size": "small"
  },
  {
+  "name": "Stoke Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/stoketherapeutics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "stoketherapeutics"
+  },
+  "origin": "finder",
+  "website": "stoketherapeutics.com",
+  "size": "small"
+ },
+ {
   "name": "STORM Therapeutics",
   "careers": "",
   "ats": null,
@@ -9840,8 +10804,11 @@
  },
  {
   "name": "StradBio",
-  "careers": "",
-  "ats": null,
+  "careers": "https://stradbio.breezy.hr/",
+  "ats": {
+   "platform": "breezy",
+   "slug": "stradbio"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -9850,7 +10817,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "strandls.com"
  },
  {
   "name": "Strand Therapeutics",
@@ -9884,6 +10852,37 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Strive Pharmacy",
+  "careers": "https://job-boards.greenhouse.io/strivepharmacy",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "strivepharmacy"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
+  "name": "Structure Therapeutics",
+  "careers": "https://structuretx.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "structuretx"
+  },
+  "origin": "finder",
+  "website": "structuretx.com",
+  "size": "small"
+ },
+ {
+  "name": "Stylus Medicine",
+  "careers": "https://job-boards.greenhouse.io/stylusmedicine",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "stylusmedicine"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -9932,6 +10931,16 @@
   "size": "small"
  },
  {
+  "name": "Superluminal Medicines, Inc.",
+  "careers": "https://job-boards.greenhouse.io/superluminalrx",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "superluminalrx"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Supernus Pharmaceuticals",
   "careers": "",
   "ats": null,
@@ -9958,6 +10967,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Swift Biosciences",
+  "careers": "https://jobs.smartrecruiters.com/swiftbiosciencesinc",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "swiftbiosciencesinc"
+  },
+  "origin": "finder",
+  "website": "swiftbiosci.com",
   "size": "small"
  },
  {
@@ -10095,8 +11115,11 @@
  },
  {
   "name": "Tagomics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://tagomics.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "tagomics"
+  },
   "origin": "seed",
   "size": "small"
  },
@@ -10196,6 +11219,16 @@
   "size": "small"
  },
  {
+  "name": "Tarsus Pharmaceuticals",
+  "careers": "https://job-boards.greenhouse.io/tarsusrx",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tarsusrx"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "TD2 Oncology",
   "careers": "",
   "ats": null,
@@ -10242,6 +11275,16 @@
   "size": "small"
  },
  {
+  "name": "Telix Pharmaceuticals (AMER)",
+  "careers": "https://job-boards.greenhouse.io/telixus",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "telixus"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Telomir Pharmaceuticals",
   "careers": "",
   "ats": null,
@@ -10253,7 +11296,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "tempus.com"
  },
  {
   "name": "TenaRx",
@@ -10267,6 +11311,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Tessera Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/tesseratherapeutics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tesseratherapeutics"
+  },
+  "origin": "finder",
+  "website": "tesseratherapeutics.com",
   "size": "small"
  },
  {
@@ -10284,10 +11339,40 @@
   "size": "small"
  },
  {
+  "name": "TGH Senior Center Powered by Greenbrook Medical",
+  "careers": "https://job-boards.greenhouse.io/tghseniorcenter",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tghseniorcenter"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "The Clear Dx",
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "The Pharmacy Hub",
+  "careers": "https://job-boards.greenhouse.io/thepharmacyhub",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "thepharmacyhub"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
+  "name": "Theoria Medical",
+  "careers": "https://job-boards.greenhouse.io/theoriamedical",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "theoriamedical"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -10670,10 +11755,34 @@
   "size": "small"
  },
  {
+  "name": "Valo Health",
+  "careers": "https://job-boards.greenhouse.io/valohealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "valohealth"
+  },
+  "origin": "finder",
+  "website": "valohealth.com",
+  "size": "small"
+ },
+ {
   "name": "Valora Therapeutics",
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Van Andel Institute",
+  "careers": "https://vai.wd1.myworkdayjobs.com/en-US/VAICareers",
+  "ats": {
+   "platform": "workday",
+   "host": "vai.wd1.myworkdayjobs.com",
+   "tenant": "vai",
+   "site": "VAICareers"
+  },
+  "origin": "finder",
+  "website": "vai.org",
   "size": "small"
  },
  {
@@ -10748,6 +11857,17 @@
   "size": "small"
  },
  {
+  "name": "Veeva Systems",
+  "careers": "https://jobs.lever.co/veeva",
+  "ats": {
+   "platform": "lever",
+   "slug": "veeva"
+  },
+  "origin": "finder",
+  "website": "veeva.com",
+  "size": "large"
+ },
+ {
   "name": "VelaVigo Bio",
   "careers": "",
   "ats": null,
@@ -10759,6 +11879,17 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small",
+  "website": "velsera.com"
+ },
+ {
+  "name": "Vera Therapeutics, Inc.",
+  "careers": "https://job-boards.greenhouse.io/veratherapeuticsinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "veratherapeuticsinc"
+  },
+  "origin": "commoncrawl",
   "size": "small"
  },
  {
@@ -10773,8 +11904,11 @@
  },
  {
   "name": "Verastem Oncology",
-  "careers": "https://www.verastem.com/",
-  "ats": null,
+  "careers": "https://verastem.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "verastem"
+  },
   "origin": "seed",
   "website": "https://www.verastem.com/",
   "size": "small"
@@ -10796,10 +11930,16 @@
  },
  {
   "name": "Verily",
-  "careers": "",
-  "ats": null,
+  "careers": "https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "verily.wd1.myworkdayjobs.com",
+   "tenant": "verily",
+   "site": "Verily_Careers"
+  },
   "origin": "seed",
-  "size": "large"
+  "size": "large",
+  "website": "verily.com"
  },
  {
   "name": "Verismo Therapeutics",
@@ -10837,9 +11977,25 @@
   "size": "large"
  },
  {
+  "name": "Verve Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/verve",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "verve"
+  },
+  "origin": "finder",
+  "website": "vervetx.com",
+  "size": "small"
+ },
+ {
   "name": "Viatris",
-  "careers": "https://www.viatris.com/en",
-  "ats": null,
+  "careers": "https://viatris.wd5.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "viatris.wd5.myworkdayjobs.com",
+   "tenant": "viatris",
+   "site": "External"
+  },
   "origin": "wikidata",
   "website": "https://www.viatris.com/en",
   "size": "small"
@@ -10863,7 +12019,8 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "vikingtherapeutics.com"
  },
  {
   "name": "Vincentage Pharma",
@@ -10873,9 +12030,23 @@
   "size": "small"
  },
  {
+  "name": "Vir Biotechnology",
+  "careers": "https://job-boards.greenhouse.io/virbiotechnologyinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "virbiotechnologyinc"
+  },
+  "origin": "finder",
+  "website": "vir.bio",
+  "size": "small"
+ },
+ {
   "name": "Viridian Therapeutics",
-  "careers": "",
-  "ats": null,
+  "careers": "https://job-boards.greenhouse.io/viridiantherapeuticsinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "viridiantherapeuticsinc"
+  },
   "origin": "clinical-trial-sponsor",
   "size": "small"
  },
@@ -10905,7 +12076,8 @@
   "careers": "",
   "ats": null,
   "origin": "clinical-trial-sponsor",
-  "size": "small"
+  "size": "small",
+  "website": "vividion.com"
  },
  {
   "name": "Vivlion",
@@ -10927,7 +12099,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "vizgen.com"
  },
  {
   "name": "VLP Therapeutics",
@@ -11023,6 +12196,16 @@
   "size": "small"
  },
  {
+  "name": "Welcome to the Tarsanet Internal Career Center!",
+  "careers": "https://job-boards.greenhouse.io/itcss",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "itcss"
+  },
+  "origin": "commoncrawl",
+  "size": "small"
+ },
+ {
   "name": "Welt Bio-Molecular",
   "careers": "",
   "ats": null,
@@ -11061,6 +12244,19 @@
   "size": "small"
  },
  {
+  "name": "Whitehead Institute",
+  "careers": "https://wibr.wd1.myworkdayjobs.com/en-US/WIBR-Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "wibr.wd1.myworkdayjobs.com",
+   "tenant": "wibr",
+   "site": "WIBR-Careers"
+  },
+  "origin": "finder",
+  "website": "wi.mit.edu",
+  "size": "small"
+ },
+ {
   "name": "Windward Bio",
   "careers": "",
   "ats": null,
@@ -11072,6 +12268,19 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
+  "size": "small"
+ },
+ {
+  "name": "Worldwide Clinical Trials",
+  "careers": "https://worldwide.wd1.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "worldwide.wd1.myworkdayjobs.com",
+   "tenant": "worldwide",
+   "site": "External"
+  },
+  "origin": "finder",
+  "website": "worldwide.com",
   "size": "small"
  },
  {
@@ -11089,6 +12298,17 @@
   "size": "small"
  },
  {
+  "name": "Xaira Therapeutics",
+  "careers": "https://job-boards.greenhouse.io/xairatherapeutics",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "xairatherapeutics"
+  },
+  "origin": "finder",
+  "website": "xaira.com",
+  "size": "small"
+ },
+ {
   "name": "Xcell Biosciences",
   "careers": "",
   "ats": null,
@@ -11100,7 +12320,8 @@
   "careers": "",
   "ats": null,
   "origin": "seed",
-  "size": "small"
+  "size": "small",
+  "website": "xencor.com"
  },
  {
   "name": "Xenon Pharmaceuticals",
@@ -11203,8 +12424,11 @@
  },
  {
   "name": "ZBiotics Company",
-  "careers": "http://www.zbiotics.com/",
-  "ats": null,
+  "careers": "https://job-boards.greenhouse.io/zbioticscompany",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "zbioticscompany"
+  },
   "origin": "wikidata",
   "website": "http://www.zbiotics.com/",
   "size": "small"
@@ -11220,6 +12444,17 @@
   "size": "large"
  },
  {
+  "name": "Zenas BioPharma",
+  "careers": "https://job-boards.greenhouse.io/zenasbio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "zenasbio"
+  },
+  "origin": "finder",
+  "website": "zenasbio.com",
+  "size": "small"
+ },
+ {
   "name": "Zenick.lab",
   "careers": "",
   "ats": null,
@@ -11228,8 +12463,11 @@
  },
  {
   "name": "Zentalis Pharmaceuticals",
-  "careers": "",
-  "ats": null,
+  "careers": "https://zentalis.bamboohr.com/careers",
+  "ats": {
+   "platform": "bamboohr",
+   "slug": "zentalis"
+  },
   "origin": "seed",
   "size": "small"
  },
