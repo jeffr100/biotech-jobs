@@ -63,9 +63,30 @@ def region(loc):
 def parse(saved):
     p = urllib.parse.parse_qs((saved or "").lstrip("#"))
     g = lambda k: (p.get(k) or [""])[0]
-    return {"q": g("q").lower().split(), "state": g("state"), "size": g("size"), "only": g("only") == "1",
+    return {"q": g("q").lower().split(), "locs": {x for x in g("state").split(",") if x}, "near": g("near"), "within": float(g("within")) if g("within").replace(".", "", 1).isdigit() else 25, "remote": g("remote") == "1", "size": g("size"), "only": g("only") == "1",
             "levels": {x for x in g("level").split(",") if x in LEVEL_NAMES},
             "fields": {int(x) for x in g("field").split(",") if x.isdigit() and int(x) < len(FIELDS)}}
+
+
+UNIT, PER_KM = "mi", 1.609344   # the site's distance unit
+
+
+def _location_ok(f, j):
+    """Same rule as the website: in any chosen state, or within the distance of the chosen place."""
+    if not f["locs"] and not f["near"]:
+        return True
+    if f["locs"] and region(j.get("location") or "") & f["locs"]:
+        return True
+    if f["near"]:
+        import geo
+        pt = geo.anchor(f["near"])
+        if pt:
+            pts = j.get("geo") or geo.coords(j.get("location"), j.get("region"))
+            if any(geo.distance(pt, q) / PER_KM <= f["within"] for q in pts):
+                return True
+        if f["remote"] and "remote" in region(j.get("location") or ""):
+            return True
+    return False
 
 
 def matches(f, j, company, size):
@@ -77,7 +98,7 @@ def matches(f, j, company, size):
     if f["q"]:
         hay = " ".join([j.get("title") or "", company, j.get("location") or "", j.get("department") or ""]).lower()
         if not all(t in hay for t in f["q"]): return False
-    if f["state"] and f["state"] not in region(j.get("location") or ""): return False
+    if not _location_ok(f, j): return False
     if f["only"]:
         from publish import only_here
         if not only_here(j): return False
@@ -86,7 +107,8 @@ def matches(f, j, company, size):
 
 def describe(f):
     parts = [LEVEL_NAMES[k] for k in sorted(f["levels"])] + [FIELDS[i][0] for i in sorted(f["fields"])]
-    if f["state"]: parts.append("Remote" if f["state"] == "remote" else SN.get(f["state"], f["state"]))
+    parts += ["Remote" if x == "remote" else SN.get(x, x) for x in sorted(f["locs"])]
+    if f["near"]: parts.append(f"within {f['within']:g} {UNIT} of {f['near']}")
     if f["q"]: parts.append("\u201c" + " ".join(f["q"]) + "\u201d")
     if f["size"]: parts.append("large companies" if f["size"] == "large" else "startups and mid-size")
     if f["only"]: parts.append("not on LinkedIn or Indeed")

@@ -30,6 +30,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -156,11 +157,37 @@ def workday_location(j):
     return loc
 
 
+_WD_KNOWN = None   # job address -> full location list, remembered from the previous run
+WD_DETAILS_MAX = int(os.environ.get("WD_DETAILS_MAX") or "400")   # detail lookups per company per run
+
+
+def workday_details(base, ats, path):
+    """Every location of a multi-site Workday job ("3 Locations" in the list view)."""
+    d = http_json(f"{base}/wday/cxs/{ats['tenant']}/{ats['site']}{path}", tries=2)
+    info = d.get("jobPostingInfo") or {}
+    locs = [info.get("location") or ""] + list(info.get("additionalLocations") or [])
+    return "; ".join(dict.fromkeys(l.strip() for l in locs if l and l.strip()))
+
+
+def _workday_known():
+    global _WD_KNOWN
+    if _WD_KNOWN is None:
+        _WD_KNOWN = {}
+        try:
+            for c in json.load(open(os.path.join(DATA, "jobs.json")))["companies"].values():
+                for j in c["jobs"]:
+                    if j.get("url") and j.get("location") and not re.search(r"\d+ Locations\b", j["location"]):
+                        _WD_KNOWN[j["url"]] = j["location"]
+        except Exception:
+            pass
+    return _WD_KNOWN
+
+
 def workday(ats):
     # ats: {"host": "illumina.wd1.myworkdayjobs.com", "tenant": "illumina", "site": "illumina-careers"}
     base = f"https://{ats['host']}"
     api = f"{base}/wday/cxs/{ats['tenant']}/{ats['site']}/jobs"
-    out, off, total = [], 0, None
+    out, off, total, details = [], 0, None, 0
     facets = {"locationCountry": ["bc33aa3152ec42d4995f4791a106ed09"]} if US_ONLY else {}  # Workday's id for the United States
     try:
         probe = http_json(api, body={"appliedFacets": facets, "limit": 1, "offset": 0, "searchText": ""})
@@ -176,8 +203,19 @@ def workday(ats):
         for j in posts:
             if not (j.get("title") or "").strip():
                 continue   # Workday sometimes returns empty placeholder rows
-            out.append(job(j.get("title"), workday_location(j), "",
-                           f"{base}/en-US/{ats['site']}{j.get('externalPath', '')}", workday_date(j.get("postedOn", ""))))
+            url = f"{base}/en-US/{ats['site']}{j.get('externalPath', '')}"
+            loc = workday_location(j)
+            if re.search(r"\d+ Locations\b", loc):
+                known = _workday_known().get(url)
+                if known:
+                    loc = known
+                elif details < WD_DETAILS_MAX and j.get("externalPath"):
+                    details += 1
+                    try:
+                        loc = workday_details(base, ats, j["externalPath"]) or loc
+                    except Exception:
+                        pass
+            out.append(job(j.get("title"), loc, "", url, workday_date(j.get("postedOn", ""))))
         off += 20
         if not posts or off >= total or off >= MAX_JOBS_PER_COMPANY:
             return out
@@ -469,6 +507,11 @@ def write_site(companies=None):
              "ats": (c.get("ats") or {}).get("platform", ""),
              "partial_total": c.get("partial_total") if c.get("partial_total") and len(jobs["companies"].get(c["name"], {}).get("jobs", [])) < c.get("partial_total", 0) else None}
             for c in companies]
+    # map coordinates for the "near a place" search, and the list of places that search offers
+    import geo
+    for c in jobs["companies"].values():
+        geo.place_jobs(c["jobs"])
+    json.dump(geo.anchors(), open(os.path.join(DATA, "places.json"), "w"), separators=(",", ":"), ensure_ascii=False)
     slim = {n: {"jobs": c["jobs"]} for n, c in jobs["companies"].items()}
     json.dump(nan_safe({"generated": jobs["generated"], "first_run": first, "meta": meta, "companies": slim,
                "changes": [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]}),

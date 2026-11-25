@@ -116,9 +116,10 @@ jobs:
           echo "Site data is from today ($got)."
       - name: Build the public site folder
         run: |
+          python3 -c "import sys; sys.path.insert(0, 'crawler'); import crawl; crawl.write_site()"
           rm -rf _site && mkdir -p _site/data
           for f in index.html site.config.js ads.txt; do if [ -f "$f" ]; then cp "$f" _site/; fi; done
-          cp data/site.json data/feed.xml _site/data/
+          cp data/site.json data/places.json data/feed.xml _site/data/
           touch _site/.nojekyll
       - if: ${{ vars.HOSTING != 'netlify' }}
         uses: actions/configure-pages@v5

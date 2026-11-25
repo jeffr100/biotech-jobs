@@ -183,6 +183,18 @@ Supported boards are Greenhouse, Lever, Ashby, SmartRecruiters, Workday, Workabl
 {"platform": "workday", "host": "illumina.wd1.myworkdayjobs.com", "tenant": "illumina", "site": "illumina-careers"}
 ```
 
+## Location search
+
+Visitors can tick several states (and "Remote") at once, and/or pick a town in the **Near** box with a
+distance (10, 25, 50 or 100 miles). A job matches if it is in any ticked state or within the distance of
+the town; "Also show remote jobs" adds remote jobs to a distance search. "Nearest first" sorts by distance.
+
+Each job's location is turned into map coordinates when the site is built (`crawler/geo.py`), using
+`crawler/places_us.tsv`: every US place with 500+ people from [GeoNames](https://www.geonames.org)
+(CC BY 4.0). Workday jobs listed as "3 Locations" are opened once to read every site. Jobs whose location
+is only "United States" can't be placed and appear only in state searches. To teach it a new metro name
+("Bay Area", "RTP"), add it to `US_ALIASES` in `crawler/geo.py`.
+
 ## Finding more companies
 
 The **Find more companies** workflow runs on the 1st of each month (or by hand from the Actions tab).
